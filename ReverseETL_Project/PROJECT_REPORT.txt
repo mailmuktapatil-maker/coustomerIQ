@@ -1,0 +1,96 @@
+==============================================================
+       DE LAB CONFIGURATION REPORT
+==============================================================
+
+Project Title       : ISE 2
+Experiment No       : 2
+Batch               : H1
+Class / Division    : AI&DS - H
+Faculty Name        : PROF.AKSHAY JADHAV
+
+--------------------------------------------------------------
+Project Members
+--------------------------------------------------------------
+
+Member 1 Name    : MUKTA
+Member 1 Roll No  : 76
+Member 2 Name    : PARTH
+Member 2 Roll No  : 72
+Member 3 Name    : ARMANPREET
+Member 3 Roll No  : 90
+Member 4 Name    : SWAYAM
+Member 4 Roll No  : 81
+
+--------------------------------------------------------------
+System Information
+--------------------------------------------------------------
+
+Username            : mukta patil
+Hostname            : LAPTOP-STLT7GH1
+Operating System    : Windows-11-10.0.26300-SP0
+Python Version      : 3.12.7
+Current Directory   : C:\Users\mukta patil\OneDrive\Desktop\ReverseETL_Project
+Processor           : Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+Disk Available      : 344.66 GB free of 474.72 GB
+
+--------------------------------------------------------------
+Environment Information
+--------------------------------------------------------------
+
+Virtual Environment : C:\Users\mukta patil\OneDrive\Desktop\ReverseETL_Project\.venv
+Python Executable   : C:\Users\mukta patil\OneDrive\Desktop\ReverseETL_Project\.venv\Scripts\python.exe
+
+--------------------------------------------------------------
+Installed Software and Libraries
+--------------------------------------------------------------
+
+Python              : PASS (Python 3.12.7)
+Pandas              : PASS (Installed)
+DuckDB              : PASS (Installed)
+
+--------------------------------------------------------------
+Project Workspace
+--------------------------------------------------------------
+
+PASS         pipeline.py
+PASS         data folder
+PASS         raw_customers.csv
+PASS         segmented_customers.csv
+PASS         warehouse.duckdb
+PASS         crm_export.csv
+
+--------------------------------------------------------------
+Pipeline Configuration
+--------------------------------------------------------------
+
+Input Dataset       : data/raw_customers.csv
+Database            : data/warehouse.duckdb
+Database Table      : customer_segments
+Segmented Output    : data/segmented_customers.csv
+CRM Export          : data/crm_export.csv
+
+Customer Rules:
+  High Value: Spend >= 1000 and last purchase within 30 days
+  At Risk   : More than 90 days since last purchase
+  Regular   : All remaining customers
+
+Pipeline Output Files: PASS (Files exist)
+
+--------------------------------------------------------------
+Completion Information
+--------------------------------------------------------------
+
+Report Date          : 11-Oct-2026
+Report Time          : 09:04:41 PM
+
+Remarks
+
+This project demonstrates a local Reverse ETL workflow.
+Customer records are segmented using Python and Pandas,
+stored in DuckDB, validated using SQL, and exported to a
+CRM-ready CSV file.
+
+Live CRM integration and automatic scheduling are not
+implemented and remain possible future enhancements.
+
+==============================================================

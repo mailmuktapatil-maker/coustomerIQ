@@ -1,0 +1,11 @@
+customer_id,name,email,total_spend,days_since_last_purchase
+101,Alice Smith,alice@example.com,1250.50,5
+102,Bob Jones,bob@example.com,150.00,120
+103,Charlie Brown,charlie@example.com,890.00,15
+104,Diana Prince,diana@example.com,45.00,200
+105,Evan Wright,evan@example.com,2100.00,2
+106,Fiona Davis,fiona@example.com,450.00,45
+107,George Wilson,george@example.com,1750.00,150
+108,Hannah Lee,hannah@example.com,75.00,10
+109,Ivan Miller,ivan@example.com,980.00,95
+110,Julia Clark,julia@example.com,3200.00,12

@@ -1,0 +1,4339 @@
+customer_id,name,email,total_spend,days_since_last_purchase,purchase_frequency,segment
+12346,Customer 12346,,77183.6,325,1,At Risk
+12347,Customer 12347,,4310.0,2,7,High Value
+12348,Customer 12348,,1797.24,75,4,Regular
+12349,Customer 12349,,1757.55,18,1,High Value
+12350,Customer 12350,,334.4,310,1,At Risk
+12352,Customer 12352,,2506.04,36,8,Regular
+12353,Customer 12353,,89.0,204,1,At Risk
+12354,Customer 12354,,1079.4,232,1,At Risk
+12355,Customer 12355,,459.4,214,1,At Risk
+12356,Customer 12356,,2811.43,22,3,High Value
+12357,Customer 12357,,6207.67,33,1,Regular
+12358,Customer 12358,,1168.06,1,2,High Value
+12359,Customer 12359,,6372.58,57,4,Regular
+12360,Customer 12360,,2662.06,52,3,Regular
+12361,Customer 12361,,189.9,287,1,At Risk
+12362,Customer 12362,,5226.23,3,10,High Value
+12363,Customer 12363,,552.0,109,2,At Risk
+12364,Customer 12364,,1313.1,7,4,High Value
+12365,Customer 12365,,641.38,291,2,At Risk
+12367,Customer 12367,,168.9,4,1,Regular
+12370,Customer 12370,,3545.69,51,4,Regular
+12371,Customer 12371,,1887.96,44,2,Regular
+12372,Customer 12372,,1298.04,71,3,Regular
+12373,Customer 12373,,364.6,311,1,At Risk
+12374,Customer 12374,,742.9300000000001,25,1,Regular
+12375,Customer 12375,,457.5,10,2,Regular
+12377,Customer 12377,,1628.12,315,2,At Risk
+12378,Customer 12378,,4008.62,129,1,At Risk
+12379,Customer 12379,,852.24,81,2,Regular
+12380,Customer 12380,,2724.81,21,4,High Value
+12381,Customer 12381,,1845.31,4,5,High Value
+12383,Customer 12383,,1850.56,184,5,At Risk
+12384,Customer 12384,,585.27,28,2,Regular
+12386,Customer 12386,,401.9,337,2,At Risk
+12388,Customer 12388,,2780.66,15,6,High Value
+12390,Customer 12390,,549.84,79,1,Regular
+12391,Customer 12391,,460.89,21,1,Regular
+12393,Customer 12393,,1582.6000000000001,72,4,Regular
+12394,Customer 12394,,1272.48,63,2,Regular
+12395,Customer 12395,,3018.63,19,12,High Value
+12397,Customer 12397,,2409.9,35,2,Regular
+12398,Customer 12398,,1635.6599999999999,45,1,Regular
+12399,Customer 12399,,1108.65,119,4,At Risk
+12401,Customer 12401,,84.3,303,1,At Risk
+12402,Customer 12402,,225.6,323,1,At Risk
+12403,Customer 12403,,427.7,49,1,Regular
+12405,Customer 12405,,1710.39,148,1,At Risk
+12406,Customer 12406,,3415.3,22,2,High Value
+12407,Customer 12407,,1708.1200000000001,49,5,Regular
+12408,Customer 12408,,2888.55,32,5,Regular
+12409,Customer 12409,,11072.67,78,3,Regular
+12410,Customer 12410,,693.3299999999999,308,2,At Risk
+12412,Customer 12412,,1226.88,74,3,Regular
+12413,Customer 12413,,758.1,66,3,Regular
+12414,Customer 12414,,562.41,217,3,At Risk
+12415,Customer 12415,,124914.53,24,21,High Value
+12417,Customer 12417,,3649.1,3,9,High Value
+12418,Customer 12418,,668.58,112,1,At Risk
+12420,Customer 12420,,600.39,63,1,Regular
+12421,Customer 12421,,807.04,15,4,Regular
+12422,Customer 12422,,803.5600000000001,95,3,At Risk
+12423,Customer 12423,,1859.31,0,8,High Value
+12424,Customer 12424,,1760.96,162,2,At Risk
+12425,Customer 12425,,777.2,78,1,Regular
+12426,Customer 12426,,582.73,194,1,At Risk
+12427,Customer 12427,,825.8,21,3,Regular
+12428,Customer 12428,,7956.46,25,9,High Value
+12429,Customer 12429,,3750.4,9,4,High Value
+12430,Customer 12430,,256.4,43,1,Regular
+12431,Customer 12431,,6487.45,35,15,Regular
+12432,Customer 12432,,5059.32,42,5,Regular
+12433,Customer 12433,,13375.87,0,7,High Value
+12434,Customer 12434,,806.14,84,2,Regular
+12435,Customer 12435,,7829.89,79,2,Regular
+12436,Customer 12436,,509.01,99,1,At Risk
+12437,Customer 12437,,4951.41,1,18,High Value
+12438,Customer 12438,,2906.85,14,2,High Value
+12441,Customer 12441,,173.55,366,1,At Risk
+12442,Customer 12442,,172.06,3,1,Regular
+12444,Customer 12444,,5005.46,21,5,High Value
+12445,Customer 12445,,133.4,22,1,Regular
+12446,Customer 12446,,1002.3100000000001,57,1,Regular
+12447,Customer 12447,,476.49,243,1,At Risk
+12448,Customer 12448,,449.45,44,1,Regular
+12449,Customer 12449,,4067.29,22,4,High Value
+12450,Customer 12450,,197.88,156,2,At Risk
+12451,Customer 12451,,9035.52,10,5,High Value
+12452,Customer 12452,,430.57,16,2,Regular
+12453,Customer 12453,,707.09,134,1,At Risk
+12454,Customer 12454,,3528.34,56,1,Regular
+12455,Customer 12455,,2466.86,73,6,Regular
+12456,Customer 12456,,3181.04,44,3,Regular
+12457,Customer 12457,,2363.23,66,7,Regular
+12458,Customer 12458,,947.4,71,2,Regular
+12461,Customer 12461,,826.88,94,2,At Risk
+12462,Customer 12462,,1189.59,18,2,High Value
+12463,Customer 12463,,1344.78,53,4,Regular
+12464,Customer 12464,,1212.05,10,8,High Value
+12465,Customer 12465,,742.1899999999999,17,2,Regular
+12468,Customer 12468,,729.5400000000001,187,2,At Risk
+12471,Customer 12471,,19824.05,2,30,High Value
+12472,Customer 12472,,6572.11,32,7,Regular
+12473,Customer 12473,,3938.5499999999997,29,5,High Value
+12474,Customer 12474,,7375.79,17,18,High Value
+12475,Customer 12475,,723.38,53,1,Regular
+12476,Customer 12476,,6816.42,15,11,High Value
+12477,Customer 12477,,13219.74,22,6,High Value
+12478,Customer 12478,,680.99,3,1,Regular
+12479,Customer 12479,,527.2,11,1,Regular
+12480,Customer 12480,,3281.63,28,4,High Value
+12481,Customer 12481,,5596.32,22,10,High Value
+12483,Customer 12483,,2484.98,17,8,High Value
+12484,Customer 12484,,4541.72,32,6,Regular
+12488,Customer 12488,,1298.66,9,3,High Value
+12489,Customer 12489,,334.93,336,1,At Risk
+12490,Customer 12490,,5417.93,5,10,High Value
+12491,Customer 12491,,460.40000000000003,38,1,Regular
+12492,Customer 12492,,263.21000000000004,63,2,Regular
+12493,Customer 12493,,433.74,165,2,At Risk
+12494,Customer 12494,,1246.1000000000001,15,7,High Value
+12497,Customer 12497,,1043.1,81,1,Regular
+12498,Customer 12498,,403.70000000000005,21,3,Regular
+12500,Customer 12500,,4257.82,23,11,High Value
+12501,Customer 12501,,2169.39,336,1,At Risk
+12502,Customer 12502,,3723.87,95,5,At Risk
+12504,Customer 12504,,482.04999999999995,18,2,Regular
+12506,Customer 12506,,73.5,232,1,At Risk
+12507,Customer 12507,,1304.81,134,3,At Risk
+12508,Customer 12508,,398.27,26,2,Regular
+12509,Customer 12509,,176.5,284,1,At Risk
+12510,Customer 12510,,982.5699999999999,142,2,At Risk
+12512,Customer 12512,,138.03,66,2,Regular
+12513,Customer 12513,,612.29,112,1,At Risk
+12514,Customer 12514,,1017.68,267,1,At Risk
+12515,Customer 12515,,383.7,353,1,At Risk
+12516,Customer 12516,,1312.06,77,2,Regular
+12517,Customer 12517,,2502.84,28,5,High Value
+12518,Customer 12518,,2056.89,0,5,High Value
+12519,Customer 12519,,340.84,63,1,Regular
+12520,Customer 12520,,2634.26,79,5,Regular
+12521,Customer 12521,,599.68,142,1,At Risk
+12522,Customer 12522,,192.72,39,2,Regular
+12523,Customer 12523,,1789.77,19,11,High Value
+12524,Customer 12524,,4485.72,9,8,High Value
+12526,Customer 12526,,1316.66,0,3,High Value
+12527,Customer 12527,,348.71000000000004,81,3,Regular
+12528,Customer 12528,,1933.48,9,6,High Value
+12530,Customer 12530,,1662.28,59,4,Regular
+12531,Customer 12531,,125.22,14,1,Regular
+12532,Customer 12532,,349.83000000000004,30,1,Regular
+12534,Customer 12534,,1089.18,130,1,At Risk
+12535,Customer 12535,,716.35,91,2,At Risk
+12536,Customer 12536,,12601.830000000002,43,3,Regular
+12538,Customer 12538,,363.95,29,1,Regular
+12539,Customer 12539,,5568.35,22,4,High Value
+12540,Customer 12540,,13400.24,19,17,High Value
+12541,Customer 12541,,981.18,29,3,Regular
+12544,Customer 12544,,372.7,36,1,Regular
+12545,Customer 12545,,1000.39,75,2,Regular
+12546,Customer 12546,,1161.5,46,2,Regular
+12547,Customer 12547,,207.79999999999998,197,2,At Risk
+12548,Customer 12548,,95.19999999999999,166,1,At Risk
+12550,Customer 12550,,964.83,79,1,Regular
+12551,Customer 12551,,168.0,357,1,At Risk
+12552,Customer 12552,,437.82,38,2,Regular
+12553,Customer 12553,,3692.28,8,10,High Value
+12556,Customer 12556,,603.71,50,2,Regular
+12557,Customer 12557,,11990.960000000001,16,5,High Value
+12558,Customer 12558,,269.96,7,1,Regular
+12559,Customer 12559,,561.71,310,2,At Risk
+12560,Customer 12560,,2134.01,5,3,High Value
+12561,Customer 12561,,238.85,302,1,At Risk
+12562,Customer 12562,,3781.7400000000002,8,7,High Value
+12564,Customer 12564,,456.9,261,1,At Risk
+12565,Customer 12565,,145.92,288,1,At Risk
+12566,Customer 12566,,351.65,86,1,Regular
+12567,Customer 12567,,9401.28,22,10,High Value
+12569,Customer 12569,,4124.69,2,32,High Value
+12571,Customer 12571,,519.61,39,2,Regular
+12572,Customer 12572,,1020.42,8,2,High Value
+12573,Customer 12573,,160.54000000000002,227,1,At Risk
+12574,Customer 12574,,218.45,315,1,At Risk
+12576,Customer 12576,,1315.83,35,5,Regular
+12577,Customer 12577,,657.8,35,3,Regular
+12578,Customer 12578,,2794.51,21,2,High Value
+12579,Customer 12579,,440.42,78,1,Regular
+12580,Customer 12580,,415.7,246,1,At Risk
+12581,Customer 12581,,197.71,39,1,Regular
+12582,Customer 12582,,511.36,238,2,At Risk
+12583,Customer 12583,,7281.38,2,15,High Value
+12584,Customer 12584,,2338.15,3,9,High Value
+12585,Customer 12585,,2040.1,234,2,At Risk
+12586,Customer 12586,,196.94000000000003,17,1,Regular
+12587,Customer 12587,,144.0,7,1,Regular
+12588,Customer 12588,,214.89999999999998,39,1,Regular
+12589,Customer 12589,,646.68,28,2,Regular
+12590,Customer 12590,,9864.26,211,2,At Risk
+12591,Customer 12591,,452.84999999999997,317,1,At Risk
+12592,Customer 12592,,437.6,92,2,At Risk
+12593,Customer 12593,,418.09999999999997,108,3,At Risk
+12594,Customer 12594,,3338.2200000000003,37,10,Regular
+12596,Customer 12596,,618.27,51,2,Regular
+12597,Customer 12597,,3811.22,19,4,High Value
+12598,Customer 12598,,3023.08,9,8,High Value
+12599,Customer 12599,,1032.58,29,7,High Value
+12600,Customer 12600,,2599.04,28,10,High Value
+12601,Customer 12601,,577.0600000000001,189,5,At Risk
+12602,Customer 12602,,153.12,58,1,Regular
+12603,Customer 12603,,739.1999999999999,21,1,Regular
+12604,Customer 12604,,254.18,79,2,Regular
+12607,Customer 12607,,1579.51,60,1,Regular
+12609,Customer 12609,,1126.85,78,3,Regular
+12610,Customer 12610,,2099.54,22,5,High Value
+12611,Customer 12611,,1193.32,52,1,Regular
+12612,Customer 12612,,704.0400000000001,74,1,Regular
+12613,Customer 12613,,3344.38,57,5,Regular
+12614,Customer 12614,,315.6,277,1,At Risk
+12615,Customer 12615,,2291.19,2,4,High Value
+12616,Customer 12616,,713.3,95,2,At Risk
+12617,Customer 12617,,355.53,29,1,Regular
+12618,Customer 12618,,177.31,21,1,Regular
+12619,Customer 12619,,3641.24,16,9,High Value
+12620,Customer 12620,,1339.41,14,3,High Value
+12621,Customer 12621,,13689.67,1,20,High Value
+12622,Customer 12622,,180.1,232,1,At Risk
+12623,Customer 12623,,305.1,276,1,At Risk
+12624,Customer 12624,,641.13,106,2,At Risk
+12625,Customer 12625,,2683.82,211,2,At Risk
+12626,Customer 12626,,6620.48,23,9,High Value
+12627,Customer 12627,,4478.53,10,7,High Value
+12628,Customer 12628,,786.46,4,3,Regular
+12630,Customer 12630,,1270.88,9,2,High Value
+12631,Customer 12631,,640.5,57,1,Regular
+12633,Customer 12633,,2163.98,58,4,Regular
+12635,Customer 12635,,1689.18,89,2,Regular
+12637,Customer 12637,,6021.9,67,8,Regular
+12638,Customer 12638,,671.69,33,1,Regular
+12639,Customer 12639,,486.1,238,1,At Risk
+12640,Customer 12640,,1174.58,23,3,High Value
+12641,Customer 12641,,185.9,115,1,At Risk
+12642,Customer 12642,,1013.26,25,3,High Value
+12643,Customer 12643,,3344.64,128,6,At Risk
+12644,Customer 12644,,477.91,129,1,At Risk
+12645,Customer 12645,,1775.18,33,4,Regular
+12646,Customer 12646,,1346.97,4,2,High Value
+12647,Customer 12647,,3722.82,22,12,High Value
+12648,Customer 12648,,318.05,154,1,At Risk
+12649,Customer 12649,,623.51,107,3,At Risk
+12650,Customer 12650,,314.44,3,1,Regular
+12651,Customer 12651,,114.0,334,1,At Risk
+12652,Customer 12652,,919.98,331,1,At Risk
+12653,Customer 12653,,2209.85,148,2,At Risk
+12654,Customer 12654,,601.98,10,5,Regular
+12656,Customer 12656,,4051.17,17,5,High Value
+12657,Customer 12657,,1643.18,11,4,High Value
+12658,Customer 12658,,686.05,18,1,Regular
+12659,Customer 12659,,91.68,29,1,Regular
+12660,Customer 12660,,245.1,11,1,Regular
+12662,Customer 12662,,3849.78,0,11,High Value
+12664,Customer 12664,,4881.88,8,9,High Value
+12665,Customer 12665,,63.0,324,1,At Risk
+12667,Customer 12667,,620.13,58,1,Regular
+12668,Customer 12668,,3807.15,11,4,High Value
+12669,Customer 12669,,2744.0299999999997,150,3,At Risk
+12670,Customer 12670,,2996.05,10,5,High Value
+12672,Customer 12672,,225.89999999999998,329,1,At Risk
+12673,Customer 12673,,610.52,5,2,Regular
+12674,Customer 12674,,1970.6,38,4,Regular
+12676,Customer 12676,,1331.39,24,6,High Value
+12678,Customer 12678,,17628.46,42,12,Regular
+12679,Customer 12679,,1113.02,58,4,Regular
+12680,Customer 12680,,862.81,0,4,Regular
+12681,Customer 12681,,13787.54,14,22,High Value
+12682,Customer 12682,,12288.22,3,31,High Value
+12683,Customer 12683,,8476.57,4,15,High Value
+12684,Customer 12684,,2283.63,7,7,High Value
+12685,Customer 12685,,2863.08,28,6,High Value
+12686,Customer 12686,,89.14,371,1,At Risk
+12688,Customer 12688,,4873.8099999999995,113,1,At Risk
+12689,Customer 12689,,1247.61,25,2,High Value
+12690,Customer 12690,,389.01,205,1,At Risk
+12691,Customer 12691,,1035.8,28,6,High Value
+12693,Customer 12693,,855.91,127,4,At Risk
+12694,Customer 12694,,869.67,70,2,Regular
+12695,Customer 12695,,582.1,7,4,Regular
+12697,Customer 12697,,957.59,28,3,Regular
+12700,Customer 12700,,4939.99,7,4,High Value
+12701,Customer 12701,,797.71,79,2,Regular
+12702,Customer 12702,,219.0,19,1,Regular
+12703,Customer 12703,,283.55,71,1,Regular
+12704,Customer 12704,,2340.84,7,8,High Value
+12705,Customer 12705,,6868.29,15,9,High Value
+12707,Customer 12707,,603.42,291,1,At Risk
+12708,Customer 12708,,2712.91,29,10,High Value
+12709,Customer 12709,,9736.52,15,15,High Value
+12710,Customer 12710,,1149.02,96,3,At Risk
+12712,Customer 12712,,4396.13,28,13,High Value
+12713,Customer 12713,,848.55,0,1,Regular
+12714,Customer 12714,,4708.86,9,5,High Value
+12715,Customer 12715,,353.86,106,1,At Risk
+12716,Customer 12716,,1053.49,3,2,High Value
+12717,Customer 12717,,1030.98,151,2,At Risk
+12718,Customer 12718,,238.25,71,1,Regular
+12719,Customer 12719,,644.95,5,2,Regular
+12720,Customer 12720,,5781.73,2,25,High Value
+12721,Customer 12721,,2656.13,31,6,Regular
+12722,Customer 12722,,997.63,85,4,Regular
+12723,Customer 12723,,725.07,3,5,Regular
+12724,Customer 12724,,1031.41,5,4,High Value
+12725,Customer 12725,,427.8,371,1,At Risk
+12726,Customer 12726,,2609.1,28,7,High Value
+12727,Customer 12727,,3980.7,10,7,High Value
+12728,Customer 12728,,836.33,71,4,Regular
+12729,Customer 12729,,453.01,113,1,At Risk
+12731,Customer 12731,,18895.91,23,12,High Value
+12732,Customer 12732,,236.26000000000002,179,1,At Risk
+12733,Customer 12733,,383.95,234,1,At Risk
+12734,Customer 12734,,110.39999999999999,352,1,At Risk
+12735,Customer 12735,,779.5699999999999,315,2,At Risk
+12736,Customer 12736,,234.0,332,1,At Risk
+12738,Customer 12738,,155.35,372,1,At Risk
+12739,Customer 12739,,1013.04,78,2,Regular
+12740,Customer 12740,,427.6,63,1,Regular
+12743,Customer 12743,,546.43,134,2,At Risk
+12744,Customer 12744,,21279.29,51,7,Regular
+12747,Customer 12747,,4196.01,2,11,High Value
+12748,Customer 12748,,33719.73,0,209,High Value
+12749,Customer 12749,,4090.88,3,5,High Value
+12750,Customer 12750,,275.88,128,1,At Risk
+12752,Customer 12752,,4366.78,81,1,Regular
+12753,Customer 12753,,21429.39,22,6,High Value
+12754,Customer 12754,,3010.74,235,3,At Risk
+12755,Customer 12755,,3811.95,280,2,At Risk
+12756,Customer 12756,,112.07999999999998,86,1,Regular
+12757,Customer 12757,,7857.1,15,13,High Value
+12758,Customer 12758,,2791.59,116,2,At Risk
+12759,Customer 12759,,1531.44,52,3,Regular
+12762,Customer 12762,,1898.52,7,2,High Value
+12763,Customer 12763,,494.08,138,2,At Risk
+12764,Customer 12764,,1693.88,316,1,At Risk
+12766,Customer 12766,,6989.63,3,7,High Value
+12769,Customer 12769,,1143.6,238,1,At Risk
+12770,Customer 12770,,1351.45,210,1,At Risk
+12772,Customer 12772,,892.47,59,1,Regular
+12775,Customer 12775,,1386.04,17,5,High Value
+12778,Customer 12778,,822.23,19,6,Regular
+12779,Customer 12779,,3981.36,37,8,Regular
+12781,Customer 12781,,826.74,63,2,Regular
+12782,Customer 12782,,2330.92,4,5,High Value
+12783,Customer 12783,,2225.91,2,6,High Value
+12784,Customer 12784,,574.42,9,2,Regular
+12785,Customer 12785,,311.95,364,1,At Risk
+12787,Customer 12787,,463.66,9,3,Regular
+12789,Customer 12789,,91.85,65,1,Regular
+12790,Customer 12790,,324.92,192,1,At Risk
+12791,Customer 12791,,192.60000000000002,373,1,At Risk
+12792,Customer 12792,,400.53999999999996,256,1,At Risk
+12793,Customer 12793,,545.48,334,2,At Risk
+12794,Customer 12794,,860.41,53,2,Regular
+12795,Customer 12795,,430.48,18,1,Regular
+12797,Customer 12797,,254.03,365,1,At Risk
+12798,Customer 12798,,6977.04,10,3,High Value
+12802,Customer 12802,,427.58,186,1,At Risk
+12808,Customer 12808,,483.65000000000003,36,3,Regular
+12809,Customer 12809,,489.31,177,1,At Risk
+12811,Customer 12811,,514.85,260,3,At Risk
+12812,Customer 12812,,229.64000000000001,44,1,Regular
+12814,Customer 12814,,125.92,101,1,At Risk
+12815,Customer 12815,,1063.46,147,2,At Risk
+12816,Customer 12816,,572.2,95,2,At Risk
+12817,Customer 12817,,166.04,281,1,At Risk
+12818,Customer 12818,,1542.08,261,1,At Risk
+12820,Customer 12820,,942.34,3,4,Regular
+12821,Customer 12821,,92.72,214,1,At Risk
+12822,Customer 12822,,948.88,70,2,Regular
+12823,Customer 12823,,1759.5,74,5,Regular
+12824,Customer 12824,,397.12,59,1,Regular
+12826,Customer 12826,,1474.72,2,7,High Value
+12827,Customer 12827,,430.15000000000003,5,3,Regular
+12828,Customer 12828,,1018.71,2,6,High Value
+12829,Customer 12829,,293.0,336,2,At Risk
+12830,Customer 12830,,6814.64,37,6,Regular
+12831,Customer 12831,,215.05,262,1,At Risk
+12832,Customer 12832,,383.03,32,2,Regular
+12833,Customer 12833,,417.38,145,1,At Risk
+12834,Customer 12834,,312.38,282,1,At Risk
+12836,Customer 12836,,2612.86,59,4,Regular
+12837,Customer 12837,,134.1,173,1,At Risk
+12838,Customer 12838,,683.13,33,2,Regular
+12839,Customer 12839,,5591.42,2,14,High Value
+12840,Customer 12840,,2726.77,143,4,At Risk
+12841,Customer 12841,,4022.35,4,25,High Value
+12842,Customer 12842,,1118.99,70,2,Regular
+12843,Customer 12843,,1702.26,65,8,Regular
+12844,Customer 12844,,325.96000000000004,29,2,Regular
+12845,Customer 12845,,354.09,267,4,At Risk
+12847,Customer 12847,,871.54,22,1,Regular
+12849,Customer 12849,,1050.8899999999999,31,2,Regular
+12851,Customer 12851,,135.18,96,1,At Risk
+12852,Customer 12852,,311.55,294,1,At Risk
+12853,Customer 12853,,1957.1000000000001,134,6,At Risk
+12854,Customer 12854,,1324.5,78,3,Regular
+12855,Customer 12855,,38.1,372,1,At Risk
+12856,Customer 12856,,2179.93,7,6,High Value
+12857,Customer 12857,,1106.4,210,2,At Risk
+12863,Customer 12863,,521.2,52,1,Regular
+12864,Customer 12864,,147.12,138,1,At Risk
+12865,Customer 12865,,1568.23,26,2,High Value
+12866,Customer 12866,,559.12,283,1,At Risk
+12867,Customer 12867,,4036.82,26,7,High Value
+12868,Customer 12868,,1607.0600000000002,185,6,At Risk
+12871,Customer 12871,,380.64,84,2,Regular
+12872,Customer 12872,,599.97,326,2,At Risk
+12873,Customer 12873,,374.0,282,1,At Risk
+12875,Customer 12875,,343.2300000000001,143,2,At Risk
+12876,Customer 12876,,2218.02,57,2,Regular
+12877,Customer 12877,,1535.77,3,12,High Value
+12878,Customer 12878,,854.99,236,2,At Risk
+12879,Customer 12879,,573.22,44,3,Regular
+12881,Customer 12881,,298.0,275,1,At Risk
+12882,Customer 12882,,1463.04,9,2,High Value
+12883,Customer 12883,,703.47,24,4,Regular
+12884,Customer 12884,,309.05,88,1,Regular
+12885,Customer 12885,,1175.22,63,3,Regular
+12886,Customer 12886,,1378.4,67,2,Regular
+12888,Customer 12888,,354.12,214,2,At Risk
+12890,Customer 12890,,380.46999999999997,24,1,Regular
+12891,Customer 12891,,331.0,185,3,At Risk
+12893,Customer 12893,,188.14,30,1,Regular
+12895,Customer 12895,,372.8,42,2,Regular
+12897,Customer 12897,,216.5,204,2,At Risk
+12901,Customer 12901,,17654.54,8,28,High Value
+12902,Customer 12902,,138.68,264,1,At Risk
+12904,Customer 12904,,509.58,18,2,Regular
+12906,Customer 12906,,2919.81,11,5,High Value
+12908,Customer 12908,,750.0,176,2,At Risk
+12909,Customer 12909,,2178.67,39,5,Regular
+12910,Customer 12910,,3075.04,23,8,High Value
+12912,Customer 12912,,1662.3,2,5,High Value
+12913,Customer 12913,,2483.63,4,5,High Value
+12915,Customer 12915,,363.65,148,2,At Risk
+12916,Customer 12916,,3006.15,138,4,At Risk
+12917,Customer 12917,,594.0,128,1,At Risk
+12919,Customer 12919,,1335.19,8,6,High Value
+12920,Customer 12920,,164.23,17,1,Regular
+12921,Customer 12921,,16587.09,9,37,High Value
+12922,Customer 12922,,405.38,161,1,At Risk
+12923,Customer 12923,,176.97,64,1,Regular
+12924,Customer 12924,,933.7,88,4,Regular
+12925,Customer 12925,,694.05,4,2,Regular
+12928,Customer 12928,,2062.7000000000003,35,5,Regular
+12929,Customer 12929,,117.85,311,1,At Risk
+12930,Customer 12930,,415.8,78,2,Regular
+12931,Customer 12931,,42055.96,21,15,High Value
+12933,Customer 12933,,607.53,24,3,Regular
+12935,Customer 12935,,2160.7,2,7,High Value
+12936,Customer 12936,,1063.9,17,4,High Value
+12937,Customer 12937,,1504.27,15,4,High Value
+12938,Customer 12938,,114.14,25,1,Regular
+12939,Customer 12939,,11581.8,64,8,Regular
+12940,Customer 12940,,913.54,54,2,Regular
+12942,Customer 12942,,683.9,131,3,At Risk
+12944,Customer 12944,,604.51,35,2,Regular
+12945,Customer 12945,,462.95,288,1,At Risk
+12947,Customer 12947,,1603.99,143,6,At Risk
+12948,Customer 12948,,2064.95,16,7,High Value
+12949,Customer 12949,,4167.22,30,8,High Value
+12950,Customer 12950,,1843.0,2,3,High Value
+12951,Customer 12951,,1064.07,8,6,High Value
+12952,Customer 12952,,1387.79,5,4,High Value
+12953,Customer 12953,,329.85,9,1,Regular
+12955,Customer 12955,,4757.16,1,11,High Value
+12956,Customer 12956,,108.07,306,1,At Risk
+12957,Customer 12957,,4017.54,9,8,High Value
+12962,Customer 12962,,266.39,7,2,Regular
+12963,Customer 12963,,1856.63,8,8,High Value
+12965,Customer 12965,,771.91,89,1,Regular
+12966,Customer 12966,,160.18,9,1,Regular
+12967,Customer 12967,,1660.9,358,2,At Risk
+12968,Customer 12968,,135.95,112,1,At Risk
+12970,Customer 12970,,452.24,7,4,Regular
+12971,Customer 12971,,11189.91,3,86,High Value
+12974,Customer 12974,,144.8,197,1,At Risk
+12976,Customer 12976,,738.6,211,1,At Risk
+12977,Customer 12977,,39.239999999999995,156,1,At Risk
+12980,Customer 12980,,7374.900000000001,157,9,At Risk
+12981,Customer 12981,,372.21999999999997,29,2,Regular
+12982,Customer 12982,,390.54,242,1,At Risk
+12984,Customer 12984,,97.5,18,1,Regular
+12985,Customer 12985,,1239.38,0,2,High Value
+12987,Customer 12987,,558.7,73,2,Regular
+12988,Customer 12988,,535.32,292,1,At Risk
+12989,Customer 12989,,6924.110000000001,3,15,High Value
+12990,Customer 12990,,409.5,31,3,Regular
+12991,Customer 12991,,503.76,23,2,Regular
+12993,Customer 12993,,414.76,23,4,Regular
+12994,Customer 12994,,974.4200000000001,4,3,Regular
+12995,Customer 12995,,211.32,85,1,Regular
+12997,Customer 12997,,1226.89,22,4,High Value
+12999,Customer 12999,,455.88,196,3,At Risk
+13000,Customer 13000,,534.85,106,3,At Risk
+13001,Customer 13001,,9818.82,4,13,High Value
+13002,Customer 13002,,120.94999999999999,318,1,At Risk
+13003,Customer 13003,,149.05,105,3,At Risk
+13004,Customer 13004,,5655.91,11,18,High Value
+13005,Customer 13005,,513.7,173,2,At Risk
+13006,Customer 13006,,81.57,56,1,Regular
+13008,Customer 13008,,229.46999999999997,323,1,At Risk
+13011,Customer 13011,,50.550000000000004,372,1,At Risk
+13012,Customer 13012,,1661.8400000000001,9,8,High Value
+13013,Customer 13013,,4810.9400000000005,1,13,High Value
+13014,Customer 13014,,3466.2799999999997,10,10,High Value
+13015,Customer 13015,,3346.28,53,5,Regular
+13016,Customer 13016,,789.89,73,3,Regular
+13017,Customer 13017,,204.0,7,1,Regular
+13018,Customer 13018,,7277.7,16,28,High Value
+13021,Customer 13021,,2616.38,4,9,High Value
+13023,Customer 13023,,689.9,64,2,Regular
+13026,Customer 13026,,975.36,1,5,Regular
+13027,Customer 13027,,6912.0,113,6,At Risk
+13028,Customer 13028,,661.3199999999999,22,2,Regular
+13029,Customer 13029,,1247.5,30,3,High Value
+13030,Customer 13030,,799.48,11,2,Regular
+13032,Customer 13032,,1010.18,52,2,Regular
+13033,Customer 13033,,190.55,357,1,At Risk
+13034,Customer 13034,,642.77,54,2,Regular
+13035,Customer 13035,,921.88,73,2,Regular
+13037,Customer 13037,,881.07,138,3,At Risk
+13038,Customer 13038,,908.46,80,3,Regular
+13040,Customer 13040,,676.99,8,2,Regular
+13043,Customer 13043,,516.42,273,1,At Risk
+13044,Customer 13044,,560.47,291,1,At Risk
+13045,Customer 13045,,305.28000000000003,99,1,At Risk
+13046,Customer 13046,,629.31,30,2,Regular
+13047,Customer 13047,,3237.54,31,10,Regular
+13048,Customer 13048,,1835.91,14,4,High Value
+13049,Customer 13049,,656.6800000000001,64,2,Regular
+13050,Customer 13050,,5836.86,14,17,High Value
+13052,Customer 13052,,348.15000000000003,212,1,At Risk
+13055,Customer 13055,,1214.41,78,3,Regular
+13058,Customer 13058,,271.40000000000003,24,3,Regular
+13059,Customer 13059,,183.4,249,1,At Risk
+13060,Customer 13060,,307.53,253,1,At Risk
+13061,Customer 13061,,248.61,72,1,Regular
+13062,Customer 13062,,346.98,191,1,At Risk
+13064,Customer 13064,,1119.49,12,4,High Value
+13065,Customer 13065,,205.86,373,1,At Risk
+13066,Customer 13066,,470.8,24,2,Regular
+13067,Customer 13067,,115.46000000000001,82,1,Regular
+13068,Customer 13068,,344.0,10,2,Regular
+13069,Customer 13069,,4436.12,0,24,High Value
+13070,Customer 13070,,228.8,192,1,At Risk
+13072,Customer 13072,,177.15,266,1,At Risk
+13075,Customer 13075,,919.61,129,1,At Risk
+13077,Customer 13077,,729.27,1,4,Regular
+13078,Customer 13078,,12627.94,3,26,High Value
+13079,Customer 13079,,220.10000000000002,4,5,Regular
+13080,Customer 13080,,58.08,179,1,At Risk
+13081,Customer 13081,,28337.38,11,11,High Value
+13082,Customer 13082,,3613.63,126,9,At Risk
+13083,Customer 13083,,303.75,4,2,Regular
+13085,Customer 13085,,416.08000000000004,157,2,At Risk
+13089,Customer 13089,,58825.83,2,97,High Value
+13090,Customer 13090,,8910.82,8,14,High Value
+13091,Customer 13091,,345.82,28,1,Regular
+13092,Customer 13092,,477.83,70,5,Regular
+13093,Customer 13093,,7832.47,275,8,At Risk
+13094,Customer 13094,,1927.3200000000002,21,12,High Value
+13095,Customer 13095,,74.39999999999999,70,1,Regular
+13097,Customer 13097,,6010.42,32,10,Regular
+13098,Customer 13098,,28882.44,1,28,High Value
+13099,Customer 13099,,207.35999999999999,99,1,At Risk
+13101,Customer 13101,,101.19,234,1,At Risk
+13102,Customer 13102,,6424.09,1,24,High Value
+13103,Customer 13103,,243.94,39,1,Regular
+13104,Customer 13104,,1098.48,3,6,High Value
+13106,Customer 13106,,76.5,133,1,At Risk
+13107,Customer 13107,,1531.6200000000001,44,4,Regular
+13108,Customer 13108,,350.06,372,1,At Risk
+13109,Customer 13109,,786.54,59,2,Regular
+13110,Customer 13110,,1488.67,31,7,Regular
+13113,Customer 13113,,12245.960000000001,0,24,High Value
+13115,Customer 13115,,2294.78,11,4,High Value
+13116,Customer 13116,,501.14,138,1,At Risk
+13117,Customer 13117,,984.91,21,8,Regular
+13118,Customer 13118,,1197.81,19,5,High Value
+13120,Customer 13120,,30.599999999999998,238,1,At Risk
+13121,Customer 13121,,283.73,269,1,At Risk
+13122,Customer 13122,,922.39,94,2,At Risk
+13124,Customer 13124,,3866.33,89,3,Regular
+13126,Customer 13126,,2099.64,4,8,High Value
+13127,Customer 13127,,259.17,77,1,Regular
+13130,Customer 13130,,64.0,94,1,At Risk
+13131,Customer 13131,,1073.3,23,3,High Value
+13132,Customer 13132,,77.3,261,1,At Risk
+13133,Customer 13133,,109.8,273,2,At Risk
+13134,Customer 13134,,1793.58,85,4,Regular
+13135,Customer 13135,,3096.0,196,1,At Risk
+13136,Customer 13136,,2607.61,56,5,Regular
+13137,Customer 13137,,3650.41,10,8,High Value
+13138,Customer 13138,,962.39,22,6,Regular
+13139,Customer 13139,,5064.94,16,7,High Value
+13140,Customer 13140,,423.72,108,3,At Risk
+13141,Customer 13141,,2388.75,84,5,Regular
+13142,Customer 13142,,307.09,19,1,Regular
+13144,Customer 13144,,110.95,332,1,At Risk
+13145,Customer 13145,,618.52,39,4,Regular
+13146,Customer 13146,,228.91,26,1,Regular
+13147,Customer 13147,,712.8000000000001,10,4,Regular
+13148,Customer 13148,,3707.12,29,12,High Value
+13149,Customer 13149,,1676.06,14,4,High Value
+13151,Customer 13151,,1257.8700000000001,295,1,At Risk
+13153,Customer 13153,,486.22,5,1,Regular
+13155,Customer 13155,,971.76,33,4,Regular
+13157,Customer 13157,,1741.22,49,4,Regular
+13158,Customer 13158,,1201.06,94,4,At Risk
+13159,Customer 13159,,1437.85,8,4,High Value
+13160,Customer 13160,,91.8,22,1,Regular
+13161,Customer 13161,,112.75,313,1,At Risk
+13162,Customer 13162,,1688.29,122,4,At Risk
+13165,Customer 13165,,1021.48,46,2,Regular
+13166,Customer 13166,,417.2,283,1,At Risk
+13167,Customer 13167,,791.33,18,4,Regular
+13168,Customer 13168,,1319.19,36,4,Regular
+13169,Customer 13169,,712.88,63,2,Regular
+13170,Customer 13170,,116.00999999999999,26,1,Regular
+13171,Customer 13171,,468.41,21,3,Regular
+13173,Customer 13173,,353.65,4,2,Regular
+13174,Customer 13174,,2817.03,16,3,High Value
+13176,Customer 13176,,492.84,46,1,Regular
+13177,Customer 13177,,282.45,64,1,Regular
+13178,Customer 13178,,5725.47,26,11,High Value
+13182,Customer 13182,,121.18,45,1,Regular
+13183,Customer 13183,,3957.78,7,9,High Value
+13184,Customer 13184,,1701.29,14,10,High Value
+13185,Customer 13185,,71.4,267,1,At Risk
+13186,Customer 13186,,1575.89,39,3,Regular
+13187,Customer 13187,,236.02,337,1,At Risk
+13188,Customer 13188,,114.60000000000001,11,1,Regular
+13189,Customer 13189,,260.68,18,2,Regular
+13192,Customer 13192,,911.94,95,2,At Risk
+13193,Customer 13193,,117.88,61,1,Regular
+13194,Customer 13194,,60.7,135,1,At Risk
+13196,Customer 13196,,1797.78,11,4,High Value
+13198,Customer 13198,,3401.2400000000002,10,6,High Value
+13199,Customer 13199,,9817.12,3,38,High Value
+13200,Customer 13200,,870.09,19,4,Regular
+13203,Customer 13203,,869.46,9,4,Regular
+13207,Customer 13207,,250.26000000000002,15,2,Regular
+13208,Customer 13208,,1223.9,58,6,Regular
+13209,Customer 13209,,5891.61,30,8,High Value
+13210,Customer 13210,,353.48,93,1,At Risk
+13211,Customer 13211,,1197.42,10,3,High Value
+13212,Customer 13212,,788.08,19,3,Regular
+13213,Customer 13213,,1520.58,56,5,Regular
+13216,Customer 13216,,333.74,267,1,At Risk
+13217,Customer 13217,,533.98,122,3,At Risk
+13218,Customer 13218,,62.63999999999999,127,1,At Risk
+13220,Customer 13220,,819.2900000000001,78,4,Regular
+13221,Customer 13221,,847.41,240,2,At Risk
+13223,Customer 13223,,163.20000000000002,200,2,At Risk
+13224,Customer 13224,,2155.95,60,2,Regular
+13225,Customer 13225,,6463.84,3,7,High Value
+13226,Customer 13226,,108.21000000000001,273,1,At Risk
+13227,Customer 13227,,257.7,201,1,At Risk
+13228,Customer 13228,,358.0,81,1,Regular
+13229,Customer 13229,,160.95,225,1,At Risk
+13230,Customer 13230,,2806.97,4,14,High Value
+13232,Customer 13232,,1357.6,12,7,High Value
+13233,Customer 13233,,605.12,74,2,Regular
+13235,Customer 13235,,1031.07,212,1,At Risk
+13236,Customer 13236,,744.85,24,2,Regular
+13238,Customer 13238,,700.73,17,4,Regular
+13239,Customer 13239,,329.56,261,1,At Risk
+13240,Customer 13240,,663.65,96,4,At Risk
+13242,Customer 13242,,270.40000000000003,112,3,At Risk
+13243,Customer 13243,,600.07,203,1,At Risk
+13244,Customer 13244,,121.74000000000001,92,1,At Risk
+13245,Customer 13245,,430.5,50,1,Regular
+13246,Customer 13246,,1987.3,18,6,High Value
+13247,Customer 13247,,501.12,17,4,Regular
+13248,Customer 13248,,465.68,124,2,At Risk
+13249,Customer 13249,,711.41,92,3,At Risk
+13253,Customer 13253,,1030.4,156,2,At Risk
+13255,Customer 13255,,399.51,9,2,Regular
+13258,Customer 13258,,698.58,11,3,Regular
+13259,Customer 13259,,292.32,61,1,Regular
+13260,Customer 13260,,557.62,61,1,Regular
+13261,Customer 13261,,944.1,268,2,At Risk
+13262,Customer 13262,,200.29,263,1,At Risk
+13263,Customer 13263,,7454.07,1,35,High Value
+13265,Customer 13265,,2107.66,53,5,Regular
+13266,Customer 13266,,3834.2599999999998,11,12,High Value
+13267,Customer 13267,,4521.49,2,19,High Value
+13268,Customer 13268,,3214.69,17,11,High Value
+13269,Customer 13269,,5346.2300000000005,1,15,High Value
+13270,Customer 13270,,590.0,366,1,At Risk
+13271,Customer 13271,,217.38,37,1,Regular
+13272,Customer 13272,,276.56,31,2,Regular
+13273,Customer 13273,,138.98,113,1,At Risk
+13276,Customer 13276,,590.9300000000001,63,2,Regular
+13277,Customer 13277,,258.4,15,4,Regular
+13278,Customer 13278,,542.73,40,1,Regular
+13279,Customer 13279,,137.75,78,1,Regular
+13280,Customer 13280,,814.86,122,3,At Risk
+13282,Customer 13282,,1132.14,18,3,High Value
+13283,Customer 13283,,93.66,59,2,Regular
+13284,Customer 13284,,201.19,330,1,At Risk
+13285,Customer 13285,,2709.12,23,4,High Value
+13291,Customer 13291,,361.11,155,1,At Risk
+13292,Customer 13292,,578.9399999999999,38,2,Regular
+13294,Customer 13294,,873.74,189,2,At Risk
+13295,Customer 13295,,201.20000000000002,359,1,At Risk
+13296,Customer 13296,,87.4,137,1,At Risk
+13297,Customer 13297,,2089.85,7,4,High Value
+13298,Customer 13298,,360.0,1,1,Regular
+13299,Customer 13299,,142.5,268,1,At Risk
+13300,Customer 13300,,371.89,169,1,At Risk
+13301,Customer 13301,,618.09,103,4,At Risk
+13302,Customer 13302,,63.75,155,1,At Risk
+13304,Customer 13304,,300.42,351,1,At Risk
+13305,Customer 13305,,2000.86,4,10,High Value
+13307,Customer 13307,,15.0,120,1,At Risk
+13308,Customer 13308,,1385.51,22,3,High Value
+13309,Customer 13309,,1456.79,7,5,High Value
+13310,Customer 13310,,1132.03,28,3,High Value
+13311,Customer 13311,,598.57,4,2,Regular
+13313,Customer 13313,,1555.32,22,5,High Value
+13314,Customer 13314,,775.94,1,3,Regular
+13316,Customer 13316,,5977.7300000000005,37,4,Regular
+13317,Customer 13317,,2273.68,66,6,Regular
+13318,Customer 13318,,640.76,1,3,Regular
+13319,Customer 13319,,10845.550000000001,5,26,High Value
+13320,Customer 13320,,1548.7,78,4,Regular
+13321,Customer 13321,,567.36,72,2,Regular
+13322,Customer 13322,,199.48000000000002,17,1,Regular
+13323,Customer 13323,,787.85,3,5,Regular
+13324,Customer 13324,,7121.95,36,10,Regular
+13325,Customer 13325,,675.3,81,1,Regular
+13327,Customer 13327,,3627.77,38,8,Regular
+13328,Customer 13328,,1308.48,316,1,At Risk
+13329,Customer 13329,,789.0,31,2,Regular
+13330,Customer 13330,,1140.93,92,3,At Risk
+13332,Customer 13332,,350.9,14,1,Regular
+13334,Customer 13334,,3536.82,82,3,Regular
+13336,Customer 13336,,795.12,77,1,Regular
+13338,Customer 13338,,487.02,157,1,At Risk
+13339,Customer 13339,,860.12,200,1,At Risk
+13340,Customer 13340,,10736.48,45,7,Regular
+13341,Customer 13341,,775.85,260,1,At Risk
+13343,Customer 13343,,353.43,177,1,At Risk
+13344,Customer 13344,,2543.72,67,3,Regular
+13345,Customer 13345,,389.5,287,1,At Risk
+13347,Customer 13347,,341.36,70,1,Regular
+13348,Customer 13348,,233.76,64,1,Regular
+13349,Customer 13349,,247.32,10,1,Regular
+13350,Customer 13350,,979.12,16,2,Regular
+13351,Customer 13351,,373.94,66,1,Regular
+13352,Customer 13352,,397.97999999999996,60,1,Regular
+13354,Customer 13354,,743.53,71,1,Regular
+13355,Customer 13355,,674.7,122,1,At Risk
+13356,Customer 13356,,768.24,80,1,Regular
+13357,Customer 13357,,609.95,257,1,At Risk
+13358,Customer 13358,,439.03,268,1,At Risk
+13359,Customer 13359,,439.56,63,1,Regular
+13362,Customer 13362,,3090.7400000000002,9,4,High Value
+13363,Customer 13363,,992.5,17,2,Regular
+13364,Customer 13364,,134.95999999999998,71,1,Regular
+13365,Customer 13365,,2225.37,33,2,Regular
+13366,Customer 13366,,56.160000000000004,50,1,Regular
+13368,Customer 13368,,623.4,256,2,At Risk
+13369,Customer 13369,,308.28000000000003,365,1,At Risk
+13370,Customer 13370,,754.87,371,1,At Risk
+13372,Customer 13372,,378.64,89,1,Regular
+13373,Customer 13373,,3312.25,60,3,Regular
+13375,Customer 13375,,778.65,88,1,Regular
+13376,Customer 13376,,1019.76,99,3,At Risk
+13379,Customer 13379,,572.56,26,3,Regular
+13381,Customer 13381,,3639.31,31,6,Regular
+13382,Customer 13382,,222.99,280,1,At Risk
+13384,Customer 13384,,4151.93,30,7,High Value
+13385,Customer 13385,,534.57,329,1,At Risk
+13388,Customer 13388,,677.1,131,2,At Risk
+13389,Customer 13389,,797.96,11,3,Regular
+13390,Customer 13390,,544.08,74,1,Regular
+13391,Customer 13391,,59.8,203,1,At Risk
+13394,Customer 13394,,2520.02,1,8,High Value
+13395,Customer 13395,,307.72,185,1,At Risk
+13396,Customer 13396,,1360.99,29,2,High Value
+13397,Customer 13397,,1544.13,72,5,Regular
+13398,Customer 13398,,457.34,192,1,At Risk
+13402,Customer 13402,,621.23,127,2,At Risk
+13403,Customer 13403,,75.0,17,1,Regular
+13404,Customer 13404,,252.49,1,2,Regular
+13405,Customer 13405,,572.451,74,3,Regular
+13408,Customer 13408,,28117.04,1,62,High Value
+13410,Customer 13410,,1003.06,24,5,High Value
+13411,Customer 13411,,213.55,107,1,At Risk
+13414,Customer 13414,,1390.5,133,3,At Risk
+13416,Customer 13416,,712.5,43,2,Regular
+13417,Customer 13417,,640.83,4,2,Regular
+13418,Customer 13418,,6127.43,11,18,High Value
+13419,Customer 13419,,221.06,63,1,Regular
+13420,Customer 13420,,159.85,149,2,At Risk
+13421,Customer 13421,,1851.08,40,2,Regular
+13422,Customer 13422,,2626.3,64,1,Regular
+13425,Customer 13425,,1624.21,108,3,At Risk
+13426,Customer 13426,,3641.32,0,10,High Value
+13427,Customer 13427,,582.6,19,3,Regular
+13428,Customer 13428,,218.47,10,1,Regular
+13429,Customer 13429,,1006.8,10,4,High Value
+13430,Customer 13430,,679.45,18,2,Regular
+13431,Customer 13431,,1269.1,67,2,Regular
+13434,Customer 13434,,534.24,74,2,Regular
+13435,Customer 13435,,3809.8900000000003,5,7,High Value
+13436,Customer 13436,,196.89,1,1,Regular
+13437,Customer 13437,,3408.06,14,7,High Value
+13439,Customer 13439,,283.71,255,1,At Risk
+13441,Customer 13441,,296.64,91,1,At Risk
+13447,Customer 13447,,1129.14,23,3,High Value
+13448,Customer 13448,,3539.37,16,6,High Value
+13449,Customer 13449,,291.88,23,1,Regular
+13450,Customer 13450,,2043.7199999999998,26,6,High Value
+13451,Customer 13451,,2976.15,26,5,High Value
+13452,Customer 13452,,590.0,259,2,At Risk
+13453,Customer 13453,,356.97999999999996,165,2,At Risk
+13455,Customer 13455,,1058.34,24,2,High Value
+13456,Customer 13456,,1766.72,17,6,High Value
+13458,Customer 13458,,9646.57,7,14,High Value
+13460,Customer 13460,,183.44,29,2,Regular
+13461,Customer 13461,,1445.0,38,3,Regular
+13462,Customer 13462,,151.5,252,1,At Risk
+13464,Customer 13464,,674.68,58,1,Regular
+13466,Customer 13466,,307.9,184,1,At Risk
+13467,Customer 13467,,1083.71,10,2,High Value
+13468,Customer 13468,,5704.97,1,37,High Value
+13470,Customer 13470,,165.0,99,2,At Risk
+13471,Customer 13471,,2531.58,1,4,High Value
+13473,Customer 13473,,422.64,60,2,Regular
+13474,Customer 13474,,229.59,236,1,At Risk
+13475,Customer 13475,,1431.78,191,4,At Risk
+13476,Customer 13476,,1238.47,178,2,At Risk
+13477,Customer 13477,,1454.58,37,6,Regular
+13479,Customer 13479,,300.95,200,2,At Risk
+13481,Customer 13481,,1804.56,45,5,Regular
+13482,Customer 13482,,184.64,232,1,At Risk
+13483,Customer 13483,,140.34,65,1,Regular
+13484,Customer 13484,,313.8,241,1,At Risk
+13485,Customer 13485,,454.24,233,1,At Risk
+13486,Customer 13486,,1122.41,78,3,Regular
+13487,Customer 13487,,575.4,57,3,Regular
+13488,Customer 13488,,8968.31,17,13,High Value
+13489,Customer 13489,,449.52,105,4,At Risk
+13491,Customer 13491,,1215.82,51,10,Regular
+13492,Customer 13492,,1269.84,136,3,At Risk
+13493,Customer 13493,,618.63,275,2,At Risk
+13494,Customer 13494,,316.26000000000005,311,1,At Risk
+13495,Customer 13495,,2044.8700000000001,7,5,High Value
+13496,Customer 13496,,653.33,10,2,Regular
+13497,Customer 13497,,348.05,282,2,At Risk
+13499,Customer 13499,,1159.11,17,5,High Value
+13500,Customer 13500,,1166.77,23,3,High Value
+13501,Customer 13501,,1340.32,288,1,At Risk
+13502,Customer 13502,,292.0,16,3,Regular
+13503,Customer 13503,,216.85,71,1,Regular
+13504,Customer 13504,,295.93,64,1,Regular
+13505,Customer 13505,,4393.63,72,4,Regular
+13506,Customer 13506,,458.52,316,2,At Risk
+13507,Customer 13507,,2479.16,3,4,High Value
+13508,Customer 13508,,110.97,243,1,At Risk
+13509,Customer 13509,,979.72,8,7,Regular
+13510,Customer 13510,,1791.56,1,4,High Value
+13512,Customer 13512,,251.21,260,1,At Risk
+13513,Customer 13513,,205.1,126,1,At Risk
+13514,Customer 13514,,152.20000000000002,73,1,Regular
+13515,Customer 13515,,891.12,72,4,Regular
+13516,Customer 13516,,1389.41,21,3,High Value
+13517,Customer 13517,,2128.42,59,3,Regular
+13518,Customer 13518,,659.4399999999999,85,1,Regular
+13519,Customer 13519,,122.75,78,1,Regular
+13520,Customer 13520,,3624.35,58,6,Regular
+13521,Customer 13521,,1093.65,1,3,High Value
+13522,Customer 13522,,125.80000000000001,30,1,Regular
+13523,Customer 13523,,3964.88,33,5,Regular
+13524,Customer 13524,,680.1800000000001,40,5,Regular
+13525,Customer 13525,,628.78,14,2,Regular
+13527,Customer 13527,,2287.51,33,7,Regular
+13529,Customer 13529,,307.76,78,2,Regular
+13531,Customer 13531,,483.8,205,2,At Risk
+13532,Customer 13532,,210.31,33,1,Regular
+13533,Customer 13533,,270.79,182,3,At Risk
+13534,Customer 13534,,5870.08,2,25,High Value
+13536,Customer 13536,,3448.29,1,7,High Value
+13538,Customer 13538,,1280.85,43,7,Regular
+13539,Customer 13539,,631.34,85,3,Regular
+13544,Customer 13544,,291.41,39,2,Regular
+13546,Customer 13546,,626.99,12,3,Regular
+13548,Customer 13548,,682.41,96,2,At Risk
+13549,Customer 13549,,918.2,25,7,Regular
+13551,Customer 13551,,91.80000000000001,319,1,At Risk
+13552,Customer 13552,,3740.07,66,12,Regular
+13555,Customer 13555,,4149.28,73,4,Regular
+13557,Customer 13557,,584.06,28,2,Regular
+13558,Customer 13558,,605.06,5,4,Regular
+13560,Customer 13560,,174.37,7,1,Regular
+13561,Customer 13561,,141.85999999999999,215,1,At Risk
+13562,Customer 13562,,1799.33,81,3,Regular
+13563,Customer 13563,,777.53,84,2,Regular
+13564,Customer 13564,,1749.02,144,3,At Risk
+13565,Customer 13565,,240.22,19,2,Regular
+13566,Customer 13566,,874.71,40,2,Regular
+13568,Customer 13568,,192.85,173,1,At Risk
+13569,Customer 13569,,373.75,17,2,Regular
+13570,Customer 13570,,239.49,243,1,At Risk
+13571,Customer 13571,,2092.32,12,12,High Value
+13572,Customer 13572,,1384.25,205,1,At Risk
+13573,Customer 13573,,294.4,50,2,Regular
+13575,Customer 13575,,732.0699999999999,23,5,Regular
+13576,Customer 13576,,6717.34,10,18,High Value
+13577,Customer 13577,,1687.6000000000001,25,4,High Value
+13579,Customer 13579,,467.04,14,2,Regular
+13581,Customer 13581,,118.0,309,1,At Risk
+13583,Customer 13583,,781.03,155,1,At Risk
+13584,Customer 13584,,142.4,306,1,At Risk
+13587,Customer 13587,,712.4,63,1,Regular
+13588,Customer 13588,,2478.95,15,9,High Value
+13589,Customer 13589,,379.65,14,2,Regular
+13590,Customer 13590,,1981.92,11,6,High Value
+13591,Customer 13591,,1117.13,64,3,Regular
+13592,Customer 13592,,247.95999999999998,35,4,Regular
+13593,Customer 13593,,2037.0800000000002,108,5,At Risk
+13594,Customer 13594,,396.97,52,1,Regular
+13596,Customer 13596,,697.04,5,2,Regular
+13598,Customer 13598,,180.17000000000002,47,1,Regular
+13599,Customer 13599,,5153.67,1,21,High Value
+13600,Customer 13600,,219.52,312,1,At Risk
+13601,Customer 13601,,693.32,45,2,Regular
+13602,Customer 13602,,428.89,64,1,Regular
+13603,Customer 13603,,164.34,26,1,Regular
+13606,Customer 13606,,280.53999999999996,29,3,Regular
+13607,Customer 13607,,678.01,40,1,Regular
+13610,Customer 13610,,1131.88,12,7,High Value
+13611,Customer 13611,,1171.8,89,3,Regular
+13614,Customer 13614,,1610.46,24,4,High Value
+13615,Customer 13615,,417.69,318,1,At Risk
+13617,Customer 13617,,544.18,40,3,Regular
+13618,Customer 13618,,177.34,173,1,At Risk
+13621,Customer 13621,,213.85,116,1,At Risk
+13623,Customer 13623,,747.78,30,5,Regular
+13626,Customer 13626,,257.23,252,1,At Risk
+13627,Customer 13627,,1638.47,59,5,Regular
+13629,Customer 13629,,7792.36,23,11,High Value
+13630,Customer 13630,,2031.78,5,7,High Value
+13631,Customer 13631,,3070.42,99,11,At Risk
+13632,Customer 13632,,2121.27,24,5,High Value
+13634,Customer 13634,,1575.16,33,5,Regular
+13635,Customer 13635,,1071.03,67,1,Regular
+13636,Customer 13636,,949.12,36,5,Regular
+13637,Customer 13637,,810.5,52,3,Regular
+13638,Customer 13638,,122.64,15,1,Regular
+13639,Customer 13639,,1033.34,74,1,Regular
+13642,Customer 13642,,354.8,215,1,At Risk
+13643,Customer 13643,,519.44,31,3,Regular
+13644,Customer 13644,,2624.26,16,4,High Value
+13645,Customer 13645,,252.1,120,1,At Risk
+13647,Customer 13647,,1678.1200000000001,9,4,High Value
+13649,Customer 13649,,346.6,256,2,At Risk
+13650,Customer 13650,,1836.34,16,6,High Value
+13651,Customer 13651,,94.2,35,2,Regular
+13652,Customer 13652,,1095.08,45,3,Regular
+13654,Customer 13654,,2707.33,43,6,Regular
+13655,Customer 13655,,932.97,114,2,At Risk
+13656,Customer 13656,,379.65,164,2,At Risk
+13657,Customer 13657,,382.14,10,2,Regular
+13658,Customer 13658,,2639.17,9,5,High Value
+13659,Customer 13659,,1573.2,205,2,At Risk
+13662,Customer 13662,,897.76,85,3,Regular
+13663,Customer 13663,,189.47,179,1,At Risk
+13666,Customer 13666,,84.65,60,3,Regular
+13667,Customer 13667,,305.02,149,1,At Risk
+13668,Customer 13668,,6363.59,2,21,High Value
+13669,Customer 13669,,218.55,50,2,Regular
+13670,Customer 13670,,349.7,75,1,Regular
+13672,Customer 13672,,186.39000000000001,301,2,At Risk
+13673,Customer 13673,,396.92,18,2,Regular
+13675,Customer 13675,,486.82000000000005,151,2,At Risk
+13678,Customer 13678,,232.6,151,1,At Risk
+13680,Customer 13680,,3722.42,1,4,High Value
+13681,Customer 13681,,827.83,17,4,Regular
+13682,Customer 13682,,59.5,187,1,At Risk
+13684,Customer 13684,,67.23,285,1,At Risk
+13685,Customer 13685,,3119.44,2,7,High Value
+13686,Customer 13686,,72.0,182,1,At Risk
+13689,Customer 13689,,910.0,63,1,Regular
+13690,Customer 13690,,172.25,59,1,Regular
+13692,Customer 13692,,1488.32,24,3,High Value
+13694,Customer 13694,,65039.62,3,50,High Value
+13695,Customer 13695,,2504.13,31,15,Regular
+13697,Customer 13697,,151.29999999999998,38,1,Regular
+13699,Customer 13699,,308.58000000000004,155,1,At Risk
+13700,Customer 13700,,2265.12,26,10,High Value
+13703,Customer 13703,,99.5,318,1,At Risk
+13704,Customer 13704,,2308.06,5,9,High Value
+13705,Customer 13705,,711.86,7,3,Regular
+13706,Customer 13706,,330.79,302,1,At Risk
+13707,Customer 13707,,806.41,267,2,At Risk
+13708,Customer 13708,,296.88,271,1,At Risk
+13709,Customer 13709,,6328.05,3,13,High Value
+13710,Customer 13710,,180.48,31,1,Regular
+13711,Customer 13711,,252.06,218,2,At Risk
+13712,Customer 13712,,228.84,246,1,At Risk
+13715,Customer 13715,,1079.34,281,5,At Risk
+13716,Customer 13716,,138.28,269,1,At Risk
+13717,Customer 13717,,1445.01,32,6,Regular
+13718,Customer 13718,,306.55,246,2,At Risk
+13719,Customer 13719,,1041.68,15,5,High Value
+13720,Customer 13720,,799.9,116,4,At Risk
+13721,Customer 13721,,524.14,36,1,Regular
+13722,Customer 13722,,2375.41,131,3,At Risk
+13723,Customer 13723,,199.85000000000002,217,1,At Risk
+13725,Customer 13725,,1980.56,49,8,Regular
+13726,Customer 13726,,1079.6599999999999,38,2,Regular
+13727,Customer 13727,,333.48,28,2,Regular
+13728,Customer 13728,,1016.14,36,6,Regular
+13730,Customer 13730,,752.6,135,2,At Risk
+13731,Customer 13731,,610.59,219,2,At Risk
+13732,Customer 13732,,491.86,28,1,Regular
+13735,Customer 13735,,2885.2400000000002,24,4,High Value
+13736,Customer 13736,,731.9,5,2,Regular
+13737,Customer 13737,,339.59999999999997,200,1,At Risk
+13739,Customer 13739,,216.9,18,1,Regular
+13740,Customer 13740,,350.75,240,1,At Risk
+13741,Customer 13741,,668.4300000000001,71,3,Regular
+13742,Customer 13742,,3131.02,16,12,High Value
+13743,Customer 13743,,1341.6,2,7,High Value
+13744,Customer 13744,,1156.36,95,2,At Risk
+13745,Customer 13745,,300.04,162,1,At Risk
+13747,Customer 13747,,79.6,373,1,At Risk
+13748,Customer 13748,,948.25,95,5,At Risk
+13750,Customer 13750,,1647.26,53,5,Regular
+13751,Customer 13751,,296.25,288,1,At Risk
+13752,Customer 13752,,1186.28,124,6,At Risk
+13753,Customer 13753,,741.26,287,1,At Risk
+13754,Customer 13754,,282.59999999999997,151,2,At Risk
+13755,Customer 13755,,2161.35,3,9,High Value
+13756,Customer 13756,,5189.52,2,14,High Value
+13758,Customer 13758,,3190.55,11,7,High Value
+13759,Customer 13759,,659.4100000000001,33,2,Regular
+13760,Customer 13760,,286.79,54,2,Regular
+13761,Customer 13761,,1070.65,50,2,Regular
+13762,Customer 13762,,306.72,218,1,At Risk
+13763,Customer 13763,,1714.96,63,1,Regular
+13764,Customer 13764,,1521.76,70,3,Regular
+13767,Customer 13767,,17220.36,2,37,High Value
+13769,Customer 13769,,2796.51,2,10,High Value
+13771,Customer 13771,,2634.45,64,4,Regular
+13772,Customer 13772,,1132.13,33,3,Regular
+13774,Customer 13774,,345.0,81,1,Regular
+13777,Customer 13777,,25977.16,0,33,High Value
+13778,Customer 13778,,178.7,103,1,At Risk
+13780,Customer 13780,,360.01,7,2,Regular
+13781,Customer 13781,,127.84,250,1,At Risk
+13782,Customer 13782,,912.0,12,6,Regular
+13784,Customer 13784,,2462.79,9,11,High Value
+13786,Customer 13786,,230.39999999999998,367,1,At Risk
+13787,Customer 13787,,309.04,75,2,Regular
+13790,Customer 13790,,348.8,4,1,Regular
+13791,Customer 13791,,1516.0,127,2,At Risk
+13792,Customer 13792,,195.55,66,2,Regular
+13798,Customer 13798,,37153.85,1,57,High Value
+13799,Customer 13799,,688.86,116,2,At Risk
+13800,Customer 13800,,558.32,309,1,At Risk
+13801,Customer 13801,,324.8,66,1,Regular
+13802,Customer 13802,,4599.42,138,3,At Risk
+13803,Customer 13803,,277.07,255,1,At Risk
+13804,Customer 13804,,2635.79,30,7,High Value
+13805,Customer 13805,,924.6,52,2,Regular
+13806,Customer 13806,,256.38,63,1,Regular
+13807,Customer 13807,,112.6,367,1,At Risk
+13808,Customer 13808,,1747.66,5,5,High Value
+13809,Customer 13809,,155.05,305,1,At Risk
+13810,Customer 13810,,1499.01,28,3,High Value
+13811,Customer 13811,,814.5,183,3,At Risk
+13812,Customer 13812,,539.0,42,3,Regular
+13813,Customer 13813,,1366.8600000000001,39,4,Regular
+13814,Customer 13814,,1579.12,92,2,At Risk
+13815,Customer 13815,,4027.36,22,4,High Value
+13816,Customer 13816,,571.6700000000001,23,2,Regular
+13817,Customer 13817,,382.98,29,2,Regular
+13819,Customer 13819,,1140.35,301,3,At Risk
+13821,Customer 13821,,385.64,144,2,At Risk
+13822,Customer 13822,,632.0,5,2,Regular
+13823,Customer 13823,,957.66,18,2,Regular
+13824,Customer 13824,,1698.94,32,5,Regular
+13826,Customer 13826,,189.5,176,1,At Risk
+13827,Customer 13827,,412.05,57,3,Regular
+13828,Customer 13828,,209.49,22,1,Regular
+13831,Customer 13831,,2202.99,16,6,High Value
+13832,Customer 13832,,52.199999999999996,19,1,Regular
+13833,Customer 13833,,384.8,159,1,At Risk
+13835,Customer 13835,,834.57,25,4,Regular
+13837,Customer 13837,,271.24,211,2,At Risk
+13838,Customer 13838,,691.73,5,4,Regular
+13841,Customer 13841,,85.0,252,1,At Risk
+13842,Customer 13842,,3385.62,58,9,Regular
+13844,Customer 13844,,361.62,11,1,Regular
+13845,Customer 13845,,312.98,64,1,Regular
+13846,Customer 13846,,865.0600000000001,24,3,Regular
+13848,Customer 13848,,1255.0,92,3,At Risk
+13849,Customer 13849,,1537.95,51,2,Regular
+13850,Customer 13850,,1595.48,129,1,At Risk
+13851,Customer 13851,,2651.46,95,3,At Risk
+13853,Customer 13853,,1090.14,57,1,Regular
+13854,Customer 13854,,8109.5199999999995,8,25,High Value
+13856,Customer 13856,,388.5,168,3,At Risk
+13858,Customer 13858,,216.17,57,1,Regular
+13859,Customer 13859,,201.16,326,1,At Risk
+13860,Customer 13860,,1245.9,1,5,High Value
+13862,Customer 13862,,2209.36,18,8,High Value
+13863,Customer 13863,,305.78,247,1,At Risk
+13865,Customer 13865,,501.56,58,4,Regular
+13866,Customer 13866,,145.67000000000002,74,1,Regular
+13867,Customer 13867,,1015.29,31,3,Regular
+13868,Customer 13868,,3192.54,7,2,High Value
+13869,Customer 13869,,3104.95,123,4,At Risk
+13870,Customer 13870,,2770.94,2,8,High Value
+13871,Customer 13871,,6403.25,22,13,High Value
+13873,Customer 13873,,389.6,119,3,At Risk
+13874,Customer 13874,,540.45,358,1,At Risk
+13875,Customer 13875,,1786.79,53,5,Regular
+13876,Customer 13876,,122.7,63,1,Regular
+13877,Customer 13877,,117.24,86,1,Regular
+13878,Customer 13878,,1281.53,54,1,Regular
+13880,Customer 13880,,3219.77,21,13,High Value
+13881,Customer 13881,,17159.52,3,20,High Value
+13882,Customer 13882,,1191.13,2,5,High Value
+13883,Customer 13883,,2674.48,10,5,High Value
+13884,Customer 13884,,787.6,7,5,Regular
+13885,Customer 13885,,506.8,189,2,At Risk
+13886,Customer 13886,,243.56,71,1,Regular
+13887,Customer 13887,,349.55,204,1,At Risk
+13888,Customer 13888,,605.63,119,2,At Risk
+13889,Customer 13889,,416.90000000000003,92,1,At Risk
+13890,Customer 13890,,1883.8100000000002,1,10,High Value
+13892,Customer 13892,,632.97,26,4,Regular
+13893,Customer 13893,,821.1,297,1,At Risk
+13894,Customer 13894,,564.62,23,3,Regular
+13895,Customer 13895,,2593.07,28,4,High Value
+13897,Customer 13897,,311.16,50,1,Regular
+13898,Customer 13898,,155.93,325,1,At Risk
+13899,Customer 13899,,388.52,16,2,Regular
+13900,Customer 13900,,740.95,183,3,At Risk
+13901,Customer 13901,,2867.2,72,5,Regular
+13904,Customer 13904,,332.64,37,2,Regular
+13908,Customer 13908,,2369.55,79,4,Regular
+13911,Customer 13911,,2580.91,57,9,Regular
+13914,Customer 13914,,626.45,11,2,Regular
+13917,Customer 13917,,272.04,49,2,Regular
+13918,Customer 13918,,1212.8400000000001,49,2,Regular
+13919,Customer 13919,,384.81,59,2,Regular
+13922,Customer 13922,,172.25,351,1,At Risk
+13923,Customer 13923,,351.13,53,1,Regular
+13924,Customer 13924,,1838.8500000000001,1,6,High Value
+13925,Customer 13925,,678.25,92,4,At Risk
+13926,Customer 13926,,223.85000000000002,23,1,Regular
+13927,Customer 13927,,348.99,74,1,Regular
+13928,Customer 13928,,464.57,10,4,Regular
+13929,Customer 13929,,842.65,169,2,At Risk
+13930,Customer 13930,,337.34,57,2,Regular
+13931,Customer 13931,,1237.53,95,2,At Risk
+13932,Customer 13932,,307.4,294,1,At Risk
+13933,Customer 13933,,608.7900000000001,109,2,At Risk
+13934,Customer 13934,,922.1,263,1,At Risk
+13936,Customer 13936,,376.58,179,1,At Risk
+13937,Customer 13937,,158.85,169,1,At Risk
+13938,Customer 13938,,71.66,35,1,Regular
+13939,Customer 13939,,568.55,23,3,Regular
+13940,Customer 13940,,839.14,17,4,Regular
+13941,Customer 13941,,5112.96,21,5,High Value
+13946,Customer 13946,,561.5699999999999,79,3,Regular
+13947,Customer 13947,,90.6,65,1,Regular
+13948,Customer 13948,,102.0,360,1,At Risk
+13949,Customer 13949,,2427.32,2,6,High Value
+13950,Customer 13950,,745.06,11,4,Regular
+13951,Customer 13951,,674.45,176,3,At Risk
+13952,Customer 13952,,3251.071,217,2,At Risk
+13953,Customer 13953,,3515.68,7,7,High Value
+13954,Customer 13954,,439.92,1,2,Regular
+13955,Customer 13955,,322.96,154,2,At Risk
+13956,Customer 13956,,1026.42,5,5,High Value
+13959,Customer 13959,,598.2,79,3,Regular
+13960,Customer 13960,,230.22,21,2,Regular
+13962,Customer 13962,,169.55,21,2,Regular
+13963,Customer 13963,,664.54,308,4,At Risk
+13967,Customer 13967,,80.7,145,1,At Risk
+13969,Customer 13969,,9053.94,7,18,High Value
+13971,Customer 13971,,2758.26,18,8,High Value
+13972,Customer 13972,,190.25,70,2,Regular
+13973,Customer 13973,,264.7,287,1,At Risk
+13974,Customer 13974,,413.59000000000003,49,1,Regular
+13975,Customer 13975,,2526.28,31,6,Regular
+13976,Customer 13976,,357.98,206,1,At Risk
+13978,Customer 13978,,196.79000000000002,14,2,Regular
+13979,Customer 13979,,869.87,73,1,Regular
+13980,Customer 13980,,200.14,60,1,Regular
+13982,Customer 13982,,1871.81,39,4,Regular
+13983,Customer 13983,,2603.43,29,12,High Value
+13984,Customer 13984,,920.51,26,5,Regular
+13985,Customer 13985,,7060.13,4,15,High Value
+13986,Customer 13986,,320.46,17,1,Regular
+13988,Customer 13988,,4147.96,19,6,High Value
+13989,Customer 13989,,1266.08,65,2,Regular
+13990,Customer 13990,,311.3,213,1,At Risk
+13991,Customer 13991,,855.97,12,6,Regular
+13992,Customer 13992,,76.8,30,1,Regular
+13993,Customer 13993,,3466.36,42,9,Regular
+13994,Customer 13994,,2313.14,3,6,High Value
+13995,Customer 13995,,1393.69,15,5,High Value
+13999,Customer 13999,,3901.81,10,12,High Value
+14000,Customer 14000,,635.66,211,1,At Risk
+14001,Customer 14001,,2043.0800000000002,45,3,Regular
+14002,Customer 14002,,529.73,134,2,At Risk
+14004,Customer 14004,,4582.64,43,7,Regular
+14005,Customer 14005,,2874.72,9,5,High Value
+14006,Customer 14006,,962.19,115,3,At Risk
+14009,Customer 14009,,695.61,198,2,At Risk
+14012,Customer 14012,,328.8,277,1,At Risk
+14013,Customer 14013,,473.02,110,3,At Risk
+14014,Customer 14014,,505.18,77,1,Regular
+14015,Customer 14015,,917.34,52,1,Regular
+14016,Customer 14016,,4341.21,161,4,At Risk
+14019,Customer 14019,,1421.61,46,3,Regular
+14020,Customer 14020,,642.8,16,2,Regular
+14021,Customer 14021,,631.9,155,3,At Risk
+14022,Customer 14022,,440.0,225,1,At Risk
+14023,Customer 14023,,584.07,7,2,Regular
+14024,Customer 14024,,327.7,121,2,At Risk
+14027,Customer 14027,,104.82,60,1,Regular
+14029,Customer 14029,,467.66,63,2,Regular
+14030,Customer 14030,,2360.09,18,8,High Value
+14031,Customer 14031,,17286.86,7,19,High Value
+14032,Customer 14032,,2975.59,2,11,High Value
+14034,Customer 14034,,651.8199999999999,22,3,Regular
+14035,Customer 14035,,1428.02,28,5,High Value
+14036,Customer 14036,,626.65,284,1,At Risk
+14037,Customer 14037,,147.20000000000002,176,2,At Risk
+14038,Customer 14038,,1560.38,78,3,Regular
+14039,Customer 14039,,152.2,33,1,Regular
+14040,Customer 14040,,3614.92,40,12,Regular
+14041,Customer 14041,,141.41,266,1,At Risk
+14044,Customer 14044,,652.82,26,4,Regular
+14045,Customer 14045,,1659.75,109,4,At Risk
+14046,Customer 14046,,154.99,284,1,At Risk
+14047,Customer 14047,,1308.6100000000001,8,5,High Value
+14048,Customer 14048,,409.93,305,1,At Risk
+14049,Customer 14049,,5681.72,16,4,High Value
+14050,Customer 14050,,746.36,31,2,Regular
+14051,Customer 14051,,15610.390000000001,0,23,High Value
+14052,Customer 14052,,225.36,19,1,Regular
+14053,Customer 14053,,260.25,124,2,At Risk
+14054,Customer 14054,,92.46,65,1,Regular
+14055,Customer 14055,,725.6400000000001,106,1,At Risk
+14056,Customer 14056,,8214.65,1,23,High Value
+14057,Customer 14057,,6217.96,23,17,High Value
+14059,Customer 14059,,183.6,266,1,At Risk
+14060,Customer 14060,,6140.42,4,19,High Value
+14062,Customer 14062,,10464.85,9,12,High Value
+14064,Customer 14064,,1353.74,29,5,High Value
+14066,Customer 14066,,152.55,266,1,At Risk
+14067,Customer 14067,,374.7,63,2,Regular
+14068,Customer 14068,,265.85,320,1,At Risk
+14071,Customer 14071,,1438.82,3,8,High Value
+14073,Customer 14073,,151.04,32,1,Regular
+14075,Customer 14075,,942.26,4,3,Regular
+14076,Customer 14076,,122.47,129,1,At Risk
+14077,Customer 14077,,499.41999999999996,40,5,Regular
+14078,Customer 14078,,1049.37,101,6,At Risk
+14079,Customer 14079,,375.1,124,1,At Risk
+14080,Customer 14080,,45.599999999999994,32,1,Regular
+14081,Customer 14081,,934.52,302,2,At Risk
+14082,Customer 14082,,182.25,364,1,At Risk
+14083,Customer 14083,,1018.43,4,9,High Value
+14085,Customer 14085,,4448.54,2,18,High Value
+14087,Customer 14087,,194.42,2,1,Regular
+14088,Customer 14088,,50491.81,10,13,High Value
+14089,Customer 14089,,161.0,56,1,Regular
+14090,Customer 14090,,76.32000000000001,324,1,At Risk
+14092,Customer 14092,,4076.91,7,14,High Value
+14093,Customer 14093,,442.85,12,1,Regular
+14096,Customer 14096,,65164.79,4,17,High Value
+14098,Customer 14098,,147.35,36,1,Regular
+14099,Customer 14099,,3104.17,16,11,High Value
+14100,Customer 14100,,194.9,137,1,At Risk
+14101,Customer 14101,,5976.79,73,6,Regular
+14102,Customer 14102,,1360.28,5,5,High Value
+14104,Customer 14104,,216.20999999999998,154,2,At Risk
+14105,Customer 14105,,1266.23,239,1,At Risk
+14107,Customer 14107,,2703.23,51,7,Regular
+14108,Customer 14108,,597.91,30,2,Regular
+14109,Customer 14109,,144.2,72,1,Regular
+14110,Customer 14110,,5683.15,3,12,High Value
+14111,Customer 14111,,692.85,14,4,Regular
+14112,Customer 14112,,2915.15,22,7,High Value
+14113,Customer 14113,,1840.42,3,4,High Value
+14114,Customer 14114,,386.53,273,2,At Risk
+14116,Customer 14116,,1382.74,19,5,High Value
+14117,Customer 14117,,90.0,143,1,At Risk
+14121,Customer 14121,,2780.15,3,4,High Value
+14124,Customer 14124,,419.58000000000004,84,1,Regular
+14125,Customer 14125,,2740.43,10,3,High Value
+14126,Customer 14126,,706.1300000000001,7,3,Regular
+14127,Customer 14127,,709.71,122,3,At Risk
+14128,Customer 14128,,637.5,60,2,Regular
+14129,Customer 14129,,1123.8600000000001,1,5,High Value
+14130,Customer 14130,,483.86,319,1,At Risk
+14132,Customer 14132,,3586.0299999999997,2,11,High Value
+14133,Customer 14133,,605.64,129,3,At Risk
+14135,Customer 14135,,4690.31,1,15,High Value
+14138,Customer 14138,,982.3800000000001,1,2,Regular
+14139,Customer 14139,,415.82,46,1,Regular
+14140,Customer 14140,,935.05,3,2,Regular
+14141,Customer 14141,,915.13,2,4,Regular
+14142,Customer 14142,,311.81,373,1,At Risk
+14143,Customer 14143,,115.8,133,1,At Risk
+14145,Customer 14145,,3742.2,46,4,Regular
+14146,Customer 14146,,4191.0,8,5,High Value
+14147,Customer 14147,,483.4,78,2,Regular
+14148,Customer 14148,,157.2,233,1,At Risk
+14149,Customer 14149,,446.62,220,1,At Risk
+14150,Customer 14150,,658.64,35,2,Regular
+14152,Customer 14152,,621.29,75,2,Regular
+14154,Customer 14154,,1345.62,239,2,At Risk
+14155,Customer 14155,,118.75,266,1,At Risk
+14156,Customer 14156,,117379.63,9,55,High Value
+14157,Customer 14157,,432.88,19,2,Regular
+14158,Customer 14158,,507.66,40,1,Regular
+14159,Customer 14159,,4693.01,19,11,High Value
+14161,Customer 14161,,1110.52,215,3,At Risk
+14162,Customer 14162,,289.36,173,2,At Risk
+14163,Customer 14163,,2445.91,87,4,Regular
+14164,Customer 14164,,1631.77,70,2,Regular
+14165,Customer 14165,,122.53999999999999,275,1,At Risk
+14167,Customer 14167,,574.84,39,4,Regular
+14171,Customer 14171,,363.79,98,1,At Risk
+14173,Customer 14173,,450.84,10,4,Regular
+14174,Customer 14174,,134.46,33,1,Regular
+14175,Customer 14175,,3222.3,59,3,Regular
+14176,Customer 14176,,576.9000000000001,297,4,At Risk
+14177,Customer 14177,,559.41,86,4,Regular
+14178,Customer 14178,,1620.93,8,7,High Value
+14179,Customer 14179,,719.78,40,2,Regular
+14180,Customer 14180,,4748.52,10,25,High Value
+14184,Customer 14184,,452.89,66,1,Regular
+14185,Customer 14185,,197.65,331,1,At Risk
+14188,Customer 14188,,2054.36,30,6,High Value
+14189,Customer 14189,,4654.08,2,15,High Value
+14191,Customer 14191,,4684.76,1,13,High Value
+14193,Customer 14193,,853.39,67,2,Regular
+14194,Customer 14194,,11349.52,4,21,High Value
+14195,Customer 14195,,1012.0,201,2,At Risk
+14196,Customer 14196,,335.52,106,1,At Risk
+14198,Customer 14198,,701.4,18,4,Regular
+14199,Customer 14199,,185.39999999999998,218,1,At Risk
+14201,Customer 14201,,747.44,60,7,Regular
+14204,Customer 14204,,161.03,2,1,Regular
+14205,Customer 14205,,466.7,16,2,Regular
+14206,Customer 14206,,328.15999999999997,239,1,At Risk
+14208,Customer 14208,,151.74,94,1,At Risk
+14209,Customer 14209,,2073.43,10,6,High Value
+14210,Customer 14210,,1905.8400000000001,105,6,At Risk
+14211,Customer 14211,,2241.1,53,9,Regular
+14212,Customer 14212,,1070.48,89,1,Regular
+14214,Customer 14214,,1004.38,30,5,High Value
+14215,Customer 14215,,1789.72,11,6,High Value
+14216,Customer 14216,,1839.3,3,4,High Value
+14217,Customer 14217,,2004.98,1,17,High Value
+14218,Customer 14218,,169.48000000000002,42,1,Regular
+14219,Customer 14219,,89.94,4,1,Regular
+14220,Customer 14220,,632.4,247,2,At Risk
+14221,Customer 14221,,3432.8,42,9,Regular
+14222,Customer 14222,,683.17,177,1,At Risk
+14223,Customer 14223,,991.13,92,3,At Risk
+14224,Customer 14224,,1050.12,110,4,At Risk
+14226,Customer 14226,,2232.19,28,5,High Value
+14227,Customer 14227,,3350.96,26,10,High Value
+14229,Customer 14229,,1547.2,51,3,Regular
+14231,Customer 14231,,925.71,183,3,At Risk
+14232,Customer 14232,,2048.07,42,5,Regular
+14233,Customer 14233,,1462.72,49,4,Regular
+14234,Customer 14234,,775.46,22,4,Regular
+14235,Customer 14235,,3144.86,75,5,Regular
+14236,Customer 14236,,490.86,80,2,Regular
+14237,Customer 14237,,161.0,373,1,At Risk
+14238,Customer 14238,,146.85,326,1,At Risk
+14239,Customer 14239,,2380.85,43,11,Regular
+14240,Customer 14240,,890.34,30,2,Regular
+14241,Customer 14241,,213.70000000000002,183,1,At Risk
+14242,Customer 14242,,280.55,234,2,At Risk
+14243,Customer 14243,,2588.77,8,10,High Value
+14245,Customer 14245,,1693.45,219,2,At Risk
+14246,Customer 14246,,1474.06,110,3,At Risk
+14247,Customer 14247,,136.76999999999998,278,1,At Risk
+14248,Customer 14248,,302.58,318,1,At Risk
+14250,Customer 14250,,1904.05,7,3,High Value
+14251,Customer 14251,,2879.7000000000003,1,5,High Value
+14256,Customer 14256,,969.0600000000001,260,2,At Risk
+14257,Customer 14257,,3099.7200000000003,64,5,Regular
+14258,Customer 14258,,12669.98,9,9,High Value
+14259,Customer 14259,,120.0,141,1,At Risk
+14261,Customer 14261,,1163.45,50,2,Regular
+14262,Customer 14262,,2618.23,8,8,High Value
+14264,Customer 14264,,333.97,154,2,At Risk
+14265,Customer 14265,,530.18,109,2,At Risk
+14267,Customer 14267,,1516.24,162,3,At Risk
+14270,Customer 14270,,492.65000000000003,331,1,At Risk
+14271,Customer 14271,,112.32,225,1,At Risk
+14272,Customer 14272,,437.96,73,2,Regular
+14273,Customer 14273,,559.97,51,4,Regular
+14276,Customer 14276,,1119.74,98,3,At Risk
+14277,Customer 14277,,4216.2,15,3,High Value
+14280,Customer 14280,,134.04,196,1,At Risk
+14282,Customer 14282,,3729.34,3,15,High Value
+14284,Customer 14284,,595.25,30,2,Regular
+14285,Customer 14285,,1910.01,21,4,High Value
+14286,Customer 14286,,4628.75,23,3,High Value
+14287,Customer 14287,,176.63,8,3,Regular
+14288,Customer 14288,,426.6,213,1,At Risk
+14289,Customer 14289,,911.26,8,6,Regular
+14290,Customer 14290,,2314.65,11,5,High Value
+14291,Customer 14291,,3883.25,1,11,High Value
+14292,Customer 14292,,4871.93,7,9,High Value
+14293,Customer 14293,,1046.56,3,4,High Value
+14295,Customer 14295,,166.20000000000002,40,1,Regular
+14297,Customer 14297,,1305.33,17,4,High Value
+14298,Customer 14298,,51527.3,8,44,High Value
+14299,Customer 14299,,3965.62,8,9,High Value
+14300,Customer 14300,,43.2,18,1,Regular
+14301,Customer 14301,,640.14,117,1,At Risk
+14304,Customer 14304,,383.45,222,1,At Risk
+14305,Customer 14305,,1858.96,71,3,Regular
+14306,Customer 14306,,2093.32,51,2,Regular
+14307,Customer 14307,,2995.72,88,6,Regular
+14309,Customer 14309,,2352.53,8,9,High Value
+14311,Customer 14311,,310.26,242,1,At Risk
+14312,Customer 14312,,1611.59,46,6,Regular
+14314,Customer 14314,,120.0,106,1,At Risk
+14315,Customer 14315,,2481.13,44,6,Regular
+14317,Customer 14317,,508.58000000000004,64,1,Regular
+14320,Customer 14320,,477.79,206,2,At Risk
+14321,Customer 14321,,1530.75,10,5,High Value
+14323,Customer 14323,,605.0600000000001,114,2,At Risk
+14326,Customer 14326,,183.85,242,1,At Risk
+14327,Customer 14327,,311.65,163,1,At Risk
+14329,Customer 14329,,5014.84,17,7,High Value
+14331,Customer 14331,,462.65999999999997,124,2,At Risk
+14332,Customer 14332,,866.31,22,3,Regular
+14333,Customer 14333,,415.2,67,1,Regular
+14334,Customer 14334,,2552.21,16,8,High Value
+14335,Customer 14335,,468.26,16,2,Regular
+14336,Customer 14336,,1614.91,16,4,High Value
+14338,Customer 14338,,588.22,161,2,At Risk
+14339,Customer 14339,,309.52,242,1,At Risk
+14340,Customer 14340,,134.7,218,1,At Risk
+14341,Customer 14341,,2182.28,45,8,Regular
+14342,Customer 14342,,668.5600000000001,21,4,Regular
+14344,Customer 14344,,889.9300000000001,127,8,At Risk
+14345,Customer 14345,,108.97999999999999,38,1,Regular
+14346,Customer 14346,,1021.58,120,2,At Risk
+14348,Customer 14348,,409.57,260,1,At Risk
+14349,Customer 14349,,133.5,10,1,Regular
+14350,Customer 14350,,282.93,274,1,At Risk
+14351,Customer 14351,,51.0,164,1,At Risk
+14352,Customer 14352,,1078.96,157,4,At Risk
+14353,Customer 14353,,90.6,215,1,At Risk
+14354,Customer 14354,,163.62,5,2,Regular
+14355,Customer 14355,,174.4,365,1,At Risk
+14356,Customer 14356,,701.23,79,2,Regular
+14357,Customer 14357,,225.77,43,1,Regular
+14359,Customer 14359,,912.18,19,3,Regular
+14360,Customer 14360,,2128.23,31,4,Regular
+14362,Customer 14362,,161.2,22,1,Regular
+14364,Customer 14364,,3717.35,108,8,At Risk
+14367,Customer 14367,,9261.52,8,16,High Value
+14368,Customer 14368,,155.0,319,1,At Risk
+14371,Customer 14371,,100.5,295,1,At Risk
+14373,Customer 14373,,76.55,358,1,At Risk
+14375,Customer 14375,,257.68,185,1,At Risk
+14377,Customer 14377,,617.05,191,2,At Risk
+14379,Customer 14379,,348.1,44,2,Regular
+14381,Customer 14381,,202.68,52,1,Regular
+14382,Customer 14382,,626.0699999999999,26,1,Regular
+14383,Customer 14383,,1247.69,38,3,Regular
+14385,Customer 14385,,202.11,9,3,Regular
+14386,Customer 14386,,142.4,296,1,At Risk
+14387,Customer 14387,,1770.56,32,3,Regular
+14388,Customer 14388,,3212.84,10,8,High Value
+14389,Customer 14389,,1043.46,65,2,Regular
+14390,Customer 14390,,4652.82,10,9,High Value
+14393,Customer 14393,,67.95,218,1,At Risk
+14395,Customer 14395,,3507.71,2,9,High Value
+14396,Customer 14396,,487.99,65,2,Regular
+14397,Customer 14397,,2612.96,2,19,High Value
+14400,Customer 14400,,574.7,149,1,At Risk
+14401,Customer 14401,,4051.48,4,13,High Value
+14403,Customer 14403,,1475.81,130,4,At Risk
+14404,Customer 14404,,1474.32,33,6,Regular
+14406,Customer 14406,,156.75,119,1,At Risk
+14407,Customer 14407,,2157.73,107,6,At Risk
+14408,Customer 14408,,2606.53,10,7,High Value
+14409,Customer 14409,,2059.4500000000003,71,6,Regular
+14410,Customer 14410,,1105.07,92,9,At Risk
+14411,Customer 14411,,1063.0,310,1,At Risk
+14412,Customer 14412,,770.03,42,2,Regular
+14413,Customer 14413,,122.7,362,1,At Risk
+14414,Customer 14414,,1496.98,91,7,At Risk
+14415,Customer 14415,,5900.28,1,13,High Value
+14416,Customer 14416,,490.22,22,2,Regular
+14418,Customer 14418,,1937.25,3,3,High Value
+14419,Customer 14419,,1058.06,10,6,High Value
+14420,Customer 14420,,387.52,99,1,At Risk
+14421,Customer 14421,,813.11,57,2,Regular
+14422,Customer 14422,,4263.64,0,6,High Value
+14423,Customer 14423,,265.2,218,1,At Risk
+14424,Customer 14424,,322.08,17,1,Regular
+14426,Customer 14426,,4481.67,23,10,High Value
+14427,Customer 14427,,363.34000000000003,50,2,Regular
+14428,Customer 14428,,1244.83,7,5,High Value
+14431,Customer 14431,,470.36,302,1,At Risk
+14432,Customer 14432,,2255.51,9,6,High Value
+14434,Customer 14434,,1372.8,21,6,High Value
+14436,Customer 14436,,89.06,98,1,At Risk
+14437,Customer 14437,,63.0,365,1,At Risk
+14438,Customer 14438,,131.9,306,1,At Risk
+14439,Customer 14439,,2661.24,319,1,At Risk
+14440,Customer 14440,,2357.6800000000003,8,5,High Value
+14441,Customer 14441,,1712.89,0,4,High Value
+14442,Customer 14442,,1589.82,204,2,At Risk
+14443,Customer 14443,,1420.2,53,4,Regular
+14446,Customer 14446,,1039.58,0,4,High Value
+14447,Customer 14447,,1163.23,18,5,High Value
+14448,Customer 14448,,375.35,9,2,Regular
+14449,Customer 14449,,907.1,18,4,Regular
+14450,Customer 14450,,483.25,180,3,At Risk
+14451,Customer 14451,,662.59,60,2,Regular
+14452,Customer 14452,,264.44,10,2,Regular
+14453,Customer 14453,,119.93,190,1,At Risk
+14456,Customer 14456,,3062.4,5,9,High Value
+14457,Customer 14457,,113.64,310,1,At Risk
+14459,Customer 14459,,1837.92,155,1,At Risk
+14460,Customer 14460,,434.34,110,3,At Risk
+14461,Customer 14461,,2103.06,148,3,At Risk
+14462,Customer 14462,,2004.02,66,11,Regular
+14463,Customer 14463,,529.62,98,3,At Risk
+14465,Customer 14465,,1058.6200000000001,246,3,At Risk
+14466,Customer 14466,,2272.4,29,7,High Value
+14467,Customer 14467,,598.76,17,4,Regular
+14470,Customer 14470,,461.19,11,2,Regular
+14472,Customer 14472,,1936.84,103,8,At Risk
+14473,Customer 14473,,234.34000000000003,74,2,Regular
+14474,Customer 14474,,547.66,46,1,Regular
+14475,Customer 14475,,925.85,71,3,Regular
+14476,Customer 14476,,215.7,257,1,At Risk
+14477,Customer 14477,,1309.6,19,4,High Value
+14479,Customer 14479,,316.25,253,2,At Risk
+14480,Customer 14480,,279.05,11,1,Regular
+14481,Customer 14481,,636.51,164,2,At Risk
+14482,Customer 14482,,2068.15,18,6,High Value
+14483,Customer 14483,,137.1,281,1,At Risk
+14484,Customer 14484,,321.92,50,1,Regular
+14485,Customer 14485,,165.75,38,1,Regular
+14487,Customer 14487,,1196.33,26,6,High Value
+14488,Customer 14488,,1064.28,67,1,Regular
+14489,Customer 14489,,463.38,207,1,At Risk
+14491,Customer 14491,,340.93,175,2,At Risk
+14493,Customer 14493,,2383.2400000000002,7,5,High Value
+14494,Customer 14494,,139.56,25,1,Regular
+14495,Customer 14495,,123.8,50,2,Regular
+14496,Customer 14496,,538.8100000000001,311,2,At Risk
+14497,Customer 14497,,475.37,309,1,At Risk
+14498,Customer 14498,,1957.32,42,5,Regular
+14499,Customer 14499,,815.32,26,3,Regular
+14500,Customer 14500,,356.85,88,3,Regular
+14501,Customer 14501,,251.21,183,2,At Risk
+14502,Customer 14502,,2470.67,19,11,High Value
+14503,Customer 14503,,3543.26,3,6,High Value
+14504,Customer 14504,,673.26,47,4,Regular
+14505,Customer 14505,,5905.64,17,8,High Value
+14506,Customer 14506,,2012.17,17,5,High Value
+14507,Customer 14507,,1383.18,23,6,High Value
+14508,Customer 14508,,276.42,22,2,Regular
+14511,Customer 14511,,1314.81,11,5,High Value
+14512,Customer 14512,,275.28,187,2,At Risk
+14513,Customer 14513,,455.59000000000003,100,3,At Risk
+14514,Customer 14514,,1055.35,61,3,Regular
+14515,Customer 14515,,2102.09,17,6,High Value
+14517,Customer 14517,,330.45,33,2,Regular
+14518,Customer 14518,,174.37,64,1,Regular
+14520,Customer 14520,,270.6,1,2,Regular
+14522,Customer 14522,,974.54,24,4,Regular
+14523,Customer 14523,,241.09,108,1,At Risk
+14524,Customer 14524,,1867.68,31,9,Regular
+14525,Customer 14525,,4332.2,19,9,High Value
+14527,Customer 14527,,8508.82,2,55,High Value
+14528,Customer 14528,,364.21999999999997,37,1,Regular
+14529,Customer 14529,,620.04,60,3,Regular
+14530,Customer 14530,,2925.91,25,6,High Value
+14532,Customer 14532,,932.85,236,4,At Risk
+14533,Customer 14533,,1949.72,24,7,High Value
+14534,Customer 14534,,4447.05,2,18,High Value
+14535,Customer 14535,,2864.19,60,3,Regular
+14536,Customer 14536,,171.8,259,1,At Risk
+14537,Customer 14537,,355.56,57,1,Regular
+14538,Customer 14538,,388.25,64,2,Regular
+14539,Customer 14539,,537.48,15,2,Regular
+14540,Customer 14540,,996.26,9,3,Regular
+14541,Customer 14541,,1461.65,58,8,Regular
+14542,Customer 14542,,103.25,185,1,At Risk
+14543,Customer 14543,,3630.33,28,16,High Value
+14544,Customer 14544,,2024.45,24,2,High Value
+14546,Customer 14546,,2578.09,5,5,High Value
+14547,Customer 14547,,4007.54,3,8,High Value
+14548,Customer 14548,,652.8,150,2,At Risk
+14549,Customer 14549,,289.24,311,1,At Risk
+14550,Customer 14550,,765.62,10,2,Regular
+14551,Customer 14551,,186.23,18,2,Regular
+14552,Customer 14552,,165.07,151,1,At Risk
+14553,Customer 14553,,859.27,19,5,Regular
+14554,Customer 14554,,2381.04,10,4,High Value
+14555,Customer 14555,,324.14,57,2,Regular
+14557,Customer 14557,,788.38,85,1,Regular
+14560,Customer 14560,,2237.77,7,22,High Value
+14561,Customer 14561,,1080.76,75,3,Regular
+14562,Customer 14562,,5074.77,3,18,High Value
+14565,Customer 14565,,3099.12,95,4,At Risk
+14566,Customer 14566,,1432.0,110,1,At Risk
+14567,Customer 14567,,1530.3600000000001,56,2,Regular
+14569,Customer 14569,,227.39,1,1,Regular
+14570,Customer 14570,,218.06,280,2,At Risk
+14572,Customer 14572,,2832.84,3,7,High Value
+14573,Customer 14573,,1653.42,179,9,At Risk
+14576,Customer 14576,,35.400000000000006,372,1,At Risk
+14577,Customer 14577,,859.71,12,4,Regular
+14578,Customer 14578,,168.63,3,1,Regular
+14581,Customer 14581,,138.6,16,1,Regular
+14582,Customer 14582,,114.11,40,1,Regular
+14583,Customer 14583,,1052.55,5,5,High Value
+14584,Customer 14584,,1042.26,169,4,At Risk
+14585,Customer 14585,,157.05,50,1,Regular
+14586,Customer 14586,,237.36,276,1,At Risk
+14587,Customer 14587,,1601.14,18,9,High Value
+14589,Customer 14589,,39.75,371,1,At Risk
+14591,Customer 14591,,1447.14,15,4,High Value
+14592,Customer 14592,,570.46,35,3,Regular
+14593,Customer 14593,,617.99,21,3,Regular
+14594,Customer 14594,,379.83,7,2,Regular
+14595,Customer 14595,,1740.6,19,6,High Value
+14597,Customer 14597,,883.15,11,2,Regular
+14598,Customer 14598,,221.97,44,1,Regular
+14600,Customer 14600,,393.33000000000004,305,1,At Risk
+14601,Customer 14601,,213.96,10,1,Regular
+14603,Customer 14603,,660.0,274,1,At Risk
+14606,Customer 14606,,12156.65,1,93,High Value
+14607,Customer 14607,,16569.5,15,14,High Value
+14608,Customer 14608,,1785.15,4,4,High Value
+14609,Customer 14609,,601.56,72,4,Regular
+14616,Customer 14616,,406.08000000000004,242,3,At Risk
+14618,Customer 14618,,553.44,9,3,Regular
+14619,Customer 14619,,394.44,245,1,At Risk
+14620,Customer 14620,,412.78000000000003,205,2,At Risk
+14621,Customer 14621,,1788.3600000000001,1,5,High Value
+14622,Customer 14622,,320.58000000000004,184,1,At Risk
+14623,Customer 14623,,889.25,32,5,Regular
+14624,Customer 14624,,225.85,57,2,Regular
+14625,Customer 14625,,899.63,196,2,At Risk
+14626,Customer 14626,,2791.27,23,4,High Value
+14628,Customer 14628,,671.96,91,2,At Risk
+14629,Customer 14629,,959.01,4,2,Regular
+14631,Customer 14631,,1006.98,50,3,Regular
+14632,Customer 14632,,114.56,262,1,At Risk
+14633,Customer 14633,,344.90000000000003,266,1,At Risk
+14636,Customer 14636,,609.85,36,2,Regular
+14638,Customer 14638,,443.6,50,1,Regular
+14639,Customer 14639,,2984.49,52,6,Regular
+14640,Customer 14640,,2125.08,24,6,High Value
+14641,Customer 14641,,110.46,21,1,Regular
+14642,Customer 14642,,96.12,58,1,Regular
+14643,Customer 14643,,693.8100000000001,170,2,At Risk
+14644,Customer 14644,,830.76,67,2,Regular
+14645,Customer 14645,,597.09,156,2,At Risk
+14646,Customer 14646,,280206.02,1,73,High Value
+14647,Customer 14647,,243.22,201,1,At Risk
+14649,Customer 14649,,1417.29,4,4,High Value
+14651,Customer 14651,,654.6,67,2,Regular
+14652,Customer 14652,,114.18,77,1,Regular
+14653,Customer 14653,,1947.55,1,7,High Value
+14655,Customer 14655,,1932.23,8,4,High Value
+14656,Customer 14656,,291.05,169,2,At Risk
+14657,Customer 14657,,848.22,17,4,Regular
+14658,Customer 14658,,247.15,5,2,Regular
+14659,Customer 14659,,2529.93,8,9,High Value
+14660,Customer 14660,,285.74,86,2,Regular
+14661,Customer 14661,,107.95,26,1,Regular
+14662,Customer 14662,,771.17,28,4,Regular
+14664,Customer 14664,,637.89,19,2,Regular
+14665,Customer 14665,,1835.7,60,5,Regular
+14666,Customer 14666,,195.25,24,1,Regular
+14667,Customer 14667,,9241.2,10,25,High Value
+14669,Customer 14669,,1269.99,241,3,At Risk
+14670,Customer 14670,,411.53,280,2,At Risk
+14672,Customer 14672,,765.55,234,2,At Risk
+14673,Customer 14673,,1736.4,3,5,High Value
+14675,Customer 14675,,604.75,16,1,Regular
+14676,Customer 14676,,2548.2400000000002,31,6,Regular
+14680,Customer 14680,,28754.11,25,16,High Value
+14681,Customer 14681,,498.95,71,3,Regular
+14682,Customer 14682,,52.0,187,2,At Risk
+14684,Customer 14684,,1236.28,25,5,High Value
+14687,Customer 14687,,628.38,106,1,At Risk
+14688,Customer 14688,,5630.87,7,21,High Value
+14689,Customer 14689,,112.8,208,1,At Risk
+14690,Customer 14690,,371.7,44,2,Regular
+14691,Customer 14691,,2114.33,30,5,High Value
+14692,Customer 14692,,591.55,137,4,At Risk
+14693,Customer 14693,,172.9,264,1,At Risk
+14696,Customer 14696,,2078.95,4,7,High Value
+14697,Customer 14697,,188.60999999999999,218,2,At Risk
+14698,Customer 14698,,1250.76,1,5,High Value
+14699,Customer 14699,,109.13000000000001,214,1,At Risk
+14700,Customer 14700,,2235.3,32,3,Regular
+14701,Customer 14701,,2549.37,10,9,High Value
+14702,Customer 14702,,3292.14,1,17,High Value
+14703,Customer 14703,,318.17,14,1,Regular
+14704,Customer 14704,,1546.91,11,9,High Value
+14705,Customer 14705,,179.0,198,1,At Risk
+14708,Customer 14708,,1126.37,2,3,High Value
+14709,Customer 14709,,4921.04,15,13,High Value
+14710,Customer 14710,,606.13,14,4,Regular
+14711,Customer 14711,,2868.8,10,11,High Value
+14712,Customer 14712,,917.07,29,3,Regular
+14713,Customer 14713,,2666.36,9,11,High Value
+14714,Customer 14714,,160.19,24,1,Regular
+14715,Customer 14715,,867.38,24,4,Regular
+14716,Customer 14716,,329.68,43,2,Regular
+14719,Customer 14719,,1602.13,1,5,High Value
+14720,Customer 14720,,663.81,5,3,Regular
+14722,Customer 14722,,187.92000000000002,147,1,At Risk
+14723,Customer 14723,,1158.3,10,6,High Value
+14725,Customer 14725,,718.08,24,1,Regular
+14727,Customer 14727,,268.58,274,1,At Risk
+14729,Customer 14729,,313.49,373,1,At Risk
+14730,Customer 14730,,2005.06,1,8,High Value
+14731,Customer 14731,,380.02,47,3,Regular
+14732,Customer 14732,,2702.4900000000002,8,8,High Value
+14733,Customer 14733,,9585.91,16,12,High Value
+14735,Customer 14735,,6065.69,3,32,High Value
+14737,Customer 14737,,1164.55,3,3,High Value
+14738,Customer 14738,,1314.45,42,7,Regular
+14739,Customer 14739,,3902.28,4,7,High Value
+14740,Customer 14740,,1448.21,197,3,At Risk
+14741,Customer 14741,,1400.34,11,6,High Value
+14744,Customer 14744,,1099.98,16,7,High Value
+14745,Customer 14745,,1220.26,112,5,At Risk
+14747,Customer 14747,,328.2,249,1,At Risk
+14748,Customer 14748,,1415.75,29,5,High Value
+14752,Customer 14752,,389.64,43,1,Regular
+14753,Customer 14753,,563.15,87,1,Regular
+14754,Customer 14754,,638.05,44,2,Regular
+14755,Customer 14755,,5010.28,9,11,High Value
+14756,Customer 14756,,738.96,15,1,Regular
+14757,Customer 14757,,420.5,75,1,Regular
+14758,Customer 14758,,1484.06,144,4,At Risk
+14759,Customer 14759,,1625.97,4,3,High Value
+14760,Customer 14760,,89.2,297,1,At Risk
+14761,Customer 14761,,255.9,58,2,Regular
+14762,Customer 14762,,300.52,263,1,At Risk
+14764,Customer 14764,,278.3,46,1,Regular
+14765,Customer 14765,,254.11,29,3,Regular
+14766,Customer 14766,,2473.37,8,6,High Value
+14768,Customer 14768,,192.60000000000002,17,2,Regular
+14769,Customer 14769,,10674.75,2,8,High Value
+14770,Customer 14770,,876.42,232,2,At Risk
+14772,Customer 14772,,139.26,112,1,At Risk
+14775,Customer 14775,,1011.9,58,3,Regular
+14776,Customer 14776,,2538.3,51,11,Regular
+14778,Customer 14778,,730.86,127,2,At Risk
+14779,Customer 14779,,386.15,280,3,At Risk
+14780,Customer 14780,,447.68,54,2,Regular
+14782,Customer 14782,,200.10000000000002,319,1,At Risk
+14784,Customer 14784,,289.99,26,2,Regular
+14785,Customer 14785,,77.4,10,2,Regular
+14788,Customer 14788,,679.4399999999999,7,2,Regular
+14789,Customer 14789,,197.64,28,1,Regular
+14790,Customer 14790,,745.06,16,4,Regular
+14792,Customer 14792,,6.2,63,1,Regular
+14793,Customer 14793,,228.99,21,1,Regular
+14794,Customer 14794,,1319.91,2,7,High Value
+14795,Customer 14795,,131.45000000000002,166,1,At Risk
+14796,Customer 14796,,8022.49,1,17,High Value
+14798,Customer 14798,,173.74,52,3,Regular
+14799,Customer 14799,,157.7,51,1,Regular
+14800,Customer 14800,,4339.74,47,12,Regular
+14801,Customer 14801,,193.14,61,1,Regular
+14803,Customer 14803,,845.55,162,3,At Risk
+14804,Customer 14804,,353.27,8,1,Regular
+14805,Customer 14805,,554.65,15,4,Regular
+14806,Customer 14806,,193.39000000000001,75,1,Regular
+14808,Customer 14808,,2741.17,39,8,Regular
+14810,Customer 14810,,2087.88,40,11,Regular
+14813,Customer 14813,,155.43,369,2,At Risk
+14815,Customer 14815,,778.5,36,2,Regular
+14816,Customer 14816,,271.85,197,1,At Risk
+14817,Customer 14817,,1110.34,200,2,At Risk
+14818,Customer 14818,,657.8,73,3,Regular
+14819,Customer 14819,,272.07,64,2,Regular
+14820,Customer 14820,,507.29,21,4,Regular
+14821,Customer 14821,,48.800000000000004,366,1,At Risk
+14823,Customer 14823,,321.43,180,3,At Risk
+14824,Customer 14824,,1127.71,10,4,High Value
+14825,Customer 14825,,2226.91,3,12,High Value
+14828,Customer 14828,,2139.76,196,3,At Risk
+14829,Customer 14829,,697.55,29,4,Regular
+14830,Customer 14830,,197.13,53,1,Regular
+14834,Customer 14834,,1720.3,17,6,High Value
+14836,Customer 14836,,102.44999999999999,10,3,Regular
+14837,Customer 14837,,1649.5,89,4,Regular
+14840,Customer 14840,,62.85,267,1,At Risk
+14841,Customer 14841,,3295.76,53,6,Regular
+14842,Customer 14842,,2824.69,43,4,Regular
+14844,Customer 14844,,3189.81,63,4,Regular
+14847,Customer 14847,,309.4,148,1,At Risk
+14849,Customer 14849,,7930.54,21,25,High Value
+14850,Customer 14850,,325.75,311,1,At Risk
+14851,Customer 14851,,511.35,23,2,Regular
+14852,Customer 14852,,2836.69,58,6,Regular
+14853,Customer 14853,,475.8,24,2,Regular
+14854,Customer 14854,,2759.83,78,7,Regular
+14855,Customer 14855,,645.65,119,2,At Risk
+14856,Customer 14856,,1311.3799999999999,36,3,Regular
+14857,Customer 14857,,1173.12,59,2,Regular
+14859,Customer 14859,,1353.74,12,4,High Value
+14860,Customer 14860,,170.32,19,1,Regular
+14861,Customer 14861,,125.79,52,1,Regular
+14862,Customer 14862,,841.1999999999999,25,2,Regular
+14863,Customer 14863,,266.76,29,1,Regular
+14865,Customer 14865,,52.2,7,2,Regular
+14866,Customer 14866,,14389.9,10,12,High Value
+14867,Customer 14867,,710.28,185,3,At Risk
+14868,Customer 14868,,2953.59,3,8,High Value
+14869,Customer 14869,,725.7,8,2,Regular
+14870,Customer 14870,,327.25,261,1,At Risk
+14871,Customer 14871,,522.38,3,4,Regular
+14873,Customer 14873,,519.68,210,1,At Risk
+14875,Customer 14875,,1465.3200000000002,107,2,At Risk
+14878,Customer 14878,,1485.54,12,9,High Value
+14880,Customer 14880,,706.19,77,3,Regular
+14881,Customer 14881,,255.4,19,1,Regular
+14882,Customer 14882,,589.7,26,2,Regular
+14883,Customer 14883,,761.59,18,6,Regular
+14885,Customer 14885,,765.3199999999999,131,1,At Risk
+14886,Customer 14886,,364.8,252,1,At Risk
+14887,Customer 14887,,1862.0,79,1,Regular
+14888,Customer 14888,,369.2,207,1,At Risk
+14889,Customer 14889,,135.9,336,1,At Risk
+14890,Customer 14890,,125.65,253,1,At Risk
+14891,Customer 14891,,554.38,148,2,At Risk
+14893,Customer 14893,,1237.8500000000001,9,2,High Value
+14894,Customer 14894,,655.75,85,1,Regular
+14895,Customer 14895,,11138.710000000001,7,20,High Value
+14896,Customer 14896,,468.77000000000004,204,2,At Risk
+14897,Customer 14897,,1366.38,7,4,High Value
+14898,Customer 14898,,1303.52,23,6,High Value
+14901,Customer 14901,,1421.29,11,9,High Value
+14902,Customer 14902,,332.66,25,1,Regular
+14903,Customer 14903,,2810.63,21,5,High Value
+14904,Customer 14904,,1025.44,2,2,High Value
+14905,Customer 14905,,616.15,157,2,At Risk
+14907,Customer 14907,,3501.1,3,7,High Value
+14908,Customer 14908,,277.8,74,1,Regular
+14910,Customer 14910,,434.35,2,4,Regular
+14911,Customer 14911,,143825.06,1,201,High Value
+14912,Customer 14912,,867.85,16,2,Regular
+14913,Customer 14913,,1227.43,35,4,Regular
+14915,Customer 14915,,307.48,91,2,At Risk
+14916,Customer 14916,,1268.98,70,4,Regular
+14918,Customer 14918,,1610.15,115,2,At Risk
+14920,Customer 14920,,977.77,212,2,At Risk
+14921,Customer 14921,,1316.07,30,2,High Value
+14923,Customer 14923,,749.1,50,1,Regular
+14924,Customer 14924,,310.05,245,1,At Risk
+14929,Customer 14929,,223.88,32,1,Regular
+14930,Customer 14930,,2372.86,108,3,At Risk
+14931,Customer 14931,,1257.68,4,5,High Value
+14932,Customer 14932,,363.53,365,1,At Risk
+14934,Customer 14934,,1890.94,81,2,Regular
+14935,Customer 14935,,1784.71,297,1,At Risk
+14936,Customer 14936,,8137.02,33,8,Regular
+14937,Customer 14937,,1621.88,56,3,Regular
+14944,Customer 14944,,5900.25,29,12,High Value
+14946,Customer 14946,,100.9,14,1,Regular
+14947,Customer 14947,,290.82,72,2,Regular
+14948,Customer 14948,,1101.97,23,6,High Value
+14950,Customer 14950,,371.2,19,1,Regular
+14951,Customer 14951,,311.69,79,1,Regular
+14952,Customer 14952,,8099.49,59,11,Regular
+14953,Customer 14953,,289.82,25,1,Regular
+14954,Customer 14954,,336.17,12,1,Regular
+14957,Customer 14957,,58.49,253,1,At Risk
+14958,Customer 14958,,499.68,147,3,At Risk
+14959,Customer 14959,,695.42,64,4,Regular
+14960,Customer 14960,,221.27,8,2,Regular
+14961,Customer 14961,,7044.68,10,9,High Value
+14962,Customer 14962,,126.7,270,1,At Risk
+14963,Customer 14963,,1487.8,9,5,High Value
+14964,Customer 14964,,206.21,247,1,At Risk
+14965,Customer 14965,,599.0,96,2,At Risk
+14966,Customer 14966,,191.32,14,1,Regular
+14967,Customer 14967,,463.8,49,1,Regular
+14968,Customer 14968,,147.59,30,1,Regular
+14970,Customer 14970,,1592.06,68,4,Regular
+14971,Customer 14971,,1116.57,35,3,Regular
+14972,Customer 14972,,114.77,128,1,At Risk
+14973,Customer 14973,,1314.45,107,3,At Risk
+14974,Customer 14974,,114.39,37,1,Regular
+14975,Customer 14975,,279.94,57,1,Regular
+14976,Customer 14976,,790.86,57,7,Regular
+14978,Customer 14978,,1931.42,72,5,Regular
+14981,Customer 14981,,102.12,246,1,At Risk
+14984,Customer 14984,,213.27,19,2,Regular
+14985,Customer 14985,,296.75,198,2,At Risk
+14987,Customer 14987,,326.4,15,2,Regular
+14988,Customer 14988,,334.54,211,1,At Risk
+14995,Customer 14995,,233.23000000000002,38,2,Regular
+14997,Customer 14997,,546.1999999999999,46,3,Regular
+14998,Customer 14998,,429.87,170,2,At Risk
+15000,Customer 15000,,490.52,47,1,Regular
+15002,Customer 15002,,1641.76,115,4,At Risk
+15004,Customer 15004,,1246.32,147,1,At Risk
+15005,Customer 15005,,6316.57,15,28,High Value
+15006,Customer 15006,,502.09,51,1,Regular
+15007,Customer 15007,,156.91,159,1,At Risk
+15009,Customer 15009,,1261.78,12,3,High Value
+15010,Customer 15010,,308.94,35,1,Regular
+15012,Customer 15012,,423.04,53,2,Regular
+15014,Customer 15014,,260.17,43,2,Regular
+15016,Customer 15016,,170.04,172,1,At Risk
+15017,Customer 15017,,125.58,33,1,Regular
+15018,Customer 15018,,496.21000000000004,38,3,Regular
+15019,Customer 15019,,266.0,266,1,At Risk
+15021,Customer 15021,,1914.82,8,9,High Value
+15022,Customer 15022,,905.04,11,4,Regular
+15023,Customer 15023,,6802.76,3,11,High Value
+15024,Customer 15024,,1661.33,9,10,High Value
+15025,Customer 15025,,377.01,33,1,Regular
+15026,Customer 15026,,469.0,80,3,Regular
+15027,Customer 15027,,1066.1499999999999,30,4,High Value
+15028,Customer 15028,,627.13,8,4,Regular
+15030,Customer 15030,,518.28,71,2,Regular
+15031,Customer 15031,,668.14,4,4,Regular
+15032,Customer 15032,,4959.1,256,3,At Risk
+15033,Customer 15033,,2586.67,4,10,High Value
+15034,Customer 15034,,4308.61,15,8,High Value
+15035,Customer 15035,,252.73000000000002,89,1,Regular
+15036,Customer 15036,,465.55,72,3,Regular
+15038,Customer 15038,,705.49,58,6,Regular
+15039,Customer 15039,,19914.44,9,47,High Value
+15041,Customer 15041,,180.35,170,1,At Risk
+15042,Customer 15042,,135.93,199,1,At Risk
+15043,Customer 15043,,537.0,31,1,Regular
+15044,Customer 15044,,7700.2300000000005,19,17,High Value
+15045,Customer 15045,,735.66,151,2,At Risk
+15046,Customer 15046,,5213.7699999999995,9,15,High Value
+15047,Customer 15047,,343.62,269,1,At Risk
+15048,Customer 15048,,384.05,65,4,Regular
+15049,Customer 15049,,121.17000000000002,273,1,At Risk
+15050,Customer 15050,,1782.09,25,3,High Value
+15051,Customer 15051,,1391.61,23,3,High Value
+15052,Customer 15052,,215.78,319,1,At Risk
+15053,Customer 15053,,697.79,4,3,Regular
+15054,Customer 15054,,302.1,12,2,Regular
+15057,Customer 15057,,1489.5,275,2,At Risk
+15058,Customer 15058,,2124.9900000000002,25,11,High Value
+15059,Customer 15059,,1337.72,40,9,Regular
+15060,Customer 15060,,303.09,8,4,Regular
+15061,Customer 15061,,54534.14,3,48,High Value
+15062,Customer 15062,,987.86,71,4,Regular
+15063,Customer 15063,,370.79999999999995,213,1,At Risk
+15065,Customer 15065,,3158.13,37,4,Regular
+15066,Customer 15066,,893.59,53,1,Regular
+15067,Customer 15067,,1744.76,78,3,Regular
+15068,Customer 15068,,553.36,46,2,Regular
+15069,Customer 15069,,1109.53,179,1,At Risk
+15070,Customer 15070,,106.2,372,1,At Risk
+15071,Customer 15071,,982.07,93,2,At Risk
+15073,Customer 15073,,1043.41,9,3,High Value
+15074,Customer 15074,,748.87,105,1,At Risk
+15075,Customer 15075,,773.03,77,1,Regular
+15076,Customer 15076,,880.85,172,1,At Risk
+15078,Customer 15078,,9743.11,7,32,High Value
+15079,Customer 15079,,895.61,212,4,At Risk
+15081,Customer 15081,,504.8,22,5,Regular
+15083,Customer 15083,,88.2,256,1,At Risk
+15087,Customer 15087,,306.94,281,1,At Risk
+15088,Customer 15088,,1160.07,21,2,High Value
+15089,Customer 15089,,2420.84,10,6,High Value
+15090,Customer 15090,,381.32,308,1,At Risk
+15091,Customer 15091,,480.71,67,1,Regular
+15092,Customer 15092,,457.81,215,2,At Risk
+15093,Customer 15093,,4597.02,18,6,High Value
+15095,Customer 15095,,1370.6,103,4,At Risk
+15096,Customer 15096,,219.39000000000001,42,1,Regular
+15097,Customer 15097,,248.08,4,1,Regular
+15098,Customer 15098,,39916.5,182,3,At Risk
+15099,Customer 15099,,410.48,84,1,Regular
+15100,Customer 15100,,876.0,333,3,At Risk
+15101,Customer 15101,,317.53,8,2,Regular
+15103,Customer 15103,,703.36,31,2,Regular
+15104,Customer 15104,,1027.44,196,2,At Risk
+15105,Customer 15105,,2298.93,18,7,High Value
+15106,Customer 15106,,1422.52,17,5,High Value
+15107,Customer 15107,,319.5,311,6,At Risk
+15108,Customer 15108,,1300.25,141,4,At Risk
+15109,Customer 15109,,484.95,245,1,At Risk
+15110,Customer 15110,,996.1,23,4,Regular
+15111,Customer 15111,,1567.48,29,3,High Value
+15113,Customer 15113,,3609.33,9,3,High Value
+15114,Customer 15114,,2760.56,30,10,High Value
+15115,Customer 15115,,340.11,18,1,Regular
+15116,Customer 15116,,1352.75,17,4,High Value
+15117,Customer 15117,,1551.78,14,5,High Value
+15118,Customer 15118,,244.8,134,1,At Risk
+15119,Customer 15119,,266.4,245,1,At Risk
+15120,Customer 15120,,358.82,133,1,At Risk
+15121,Customer 15121,,457.72,50,2,Regular
+15122,Customer 15122,,1633.78,114,3,At Risk
+15123,Customer 15123,,2199.31,7,2,High Value
+15124,Customer 15124,,184.19,22,2,Regular
+15125,Customer 15125,,11528.48,25,15,High Value
+15127,Customer 15127,,406.53,65,1,Regular
+15128,Customer 15128,,1471.0,60,4,Regular
+15129,Customer 15129,,3447.4,50,11,Regular
+15130,Customer 15130,,330.11,169,1,At Risk
+15132,Customer 15132,,977.9300000000001,18,5,Regular
+15133,Customer 15133,,982.42,127,3,At Risk
+15134,Customer 15134,,1387.99,14,8,High Value
+15135,Customer 15135,,139.05,239,1,At Risk
+15136,Customer 15136,,1286.7,2,4,High Value
+15139,Customer 15139,,178.96,239,2,At Risk
+15140,Customer 15140,,2354.25,52,7,Regular
+15142,Customer 15142,,498.74,46,1,Regular
+15143,Customer 15143,,259.45,225,1,At Risk
+15144,Customer 15144,,6580.44,8,17,High Value
+15145,Customer 15145,,1194.73,4,4,High Value
+15146,Customer 15146,,1327.16,164,2,At Risk
+15147,Customer 15147,,623.5,240,1,At Risk
+15148,Customer 15148,,301.29,10,1,Regular
+15149,Customer 15149,,520.8000000000001,133,1,At Risk
+15150,Customer 15150,,5314.47,17,10,High Value
+15152,Customer 15152,,4745.69,9,13,High Value
+15153,Customer 15153,,329.25,31,1,Regular
+15154,Customer 15154,,296.42,75,1,Regular
+15156,Customer 15156,,961.49,1,3,Regular
+15157,Customer 15157,,1936.07,3,3,High Value
+15158,Customer 15158,,401.40000000000003,45,1,Regular
+15159,Customer 15159,,18641.010000000002,1,30,High Value
+15160,Customer 15160,,158.16,357,1,At Risk
+15163,Customer 15163,,304.47,18,2,Regular
+15164,Customer 15164,,843.05,68,3,Regular
+15165,Customer 15165,,487.75,373,1,At Risk
+15167,Customer 15167,,163.0,320,1,At Risk
+15168,Customer 15168,,106.56,25,1,Regular
+15171,Customer 15171,,1289.5,331,1,At Risk
+15172,Customer 15172,,1624.05,8,5,High Value
+15174,Customer 15174,,135.75,322,1,At Risk
+15175,Customer 15175,,224.14,71,1,Regular
+15178,Customer 15178,,40.5,260,1,At Risk
+15179,Customer 15179,,2206.95,18,5,High Value
+15180,Customer 15180,,87.5,367,1,At Risk
+15181,Customer 15181,,689.4799999999999,66,3,Regular
+15182,Customer 15182,,622.85,154,2,At Risk
+15184,Customer 15184,,406.76,29,2,Regular
+15185,Customer 15185,,310.62,70,1,Regular
+15186,Customer 15186,,411.41,14,2,Regular
+15187,Customer 15187,,4777.18,1,16,High Value
+15189,Customer 15189,,16225.39,1,41,High Value
+15192,Customer 15192,,1044.32,119,3,At Risk
+15193,Customer 15193,,499.32,60,1,Regular
+15194,Customer 15194,,7616.53,3,15,High Value
+15195,Customer 15195,,3861.0,2,1,High Value
+15197,Customer 15197,,1079.6100000000001,10,3,High Value
+15198,Customer 15198,,193.64,92,2,At Risk
+15199,Customer 15199,,1268.7,59,4,Regular
+15201,Customer 15201,,1236.54,87,5,Regular
+15203,Customer 15203,,1827.8,25,6,High Value
+15204,Customer 15204,,316.58,357,1,At Risk
+15205,Customer 15205,,653.24,85,2,Regular
+15206,Customer 15206,,420.29999999999995,10,4,Regular
+15208,Customer 15208,,870.12,1,5,Regular
+15210,Customer 15210,,331.18,225,1,At Risk
+15211,Customer 15211,,894.4100000000001,60,2,Regular
+15212,Customer 15212,,101.8,241,1,At Risk
+15213,Customer 15213,,328.35,318,2,At Risk
+15214,Customer 15214,,1661.44,1,8,High Value
+15215,Customer 15215,,734.94,46,3,Regular
+15216,Customer 15216,,96.6,87,1,Regular
+15218,Customer 15218,,5756.89,10,11,High Value
+15219,Customer 15219,,305.75,176,1,At Risk
+15220,Customer 15220,,1778.96,51,6,Regular
+15221,Customer 15221,,403.25,366,1,At Risk
+15222,Customer 15222,,585.0,318,1,At Risk
+15223,Customer 15223,,755.75,225,2,At Risk
+15224,Customer 15224,,322.08,358,2,At Risk
+15225,Customer 15225,,409.40000000000003,234,1,At Risk
+15226,Customer 15226,,154.41,310,1,At Risk
+15227,Customer 15227,,1219.4,36,5,Regular
+15228,Customer 15228,,3386.71,66,4,Regular
+15230,Customer 15230,,429.6,239,2,At Risk
+15232,Customer 15232,,612.06,113,2,At Risk
+15234,Customer 15234,,197.0,276,1,At Risk
+15235,Customer 15235,,2247.51,217,12,At Risk
+15236,Customer 15236,,321.05,298,1,At Risk
+15237,Customer 15237,,1412.32,1,4,High Value
+15238,Customer 15238,,1071.99,29,3,High Value
+15239,Customer 15239,,780.59,10,2,Regular
+15240,Customer 15240,,1706.57,44,5,Regular
+15241,Customer 15241,,1756.44,66,8,Regular
+15243,Customer 15243,,316.68,74,1,Regular
+15244,Customer 15244,,631.57,65,2,Regular
+15245,Customer 15245,,2515.84,134,3,At Risk
+15246,Customer 15246,,514.15,238,2,At Risk
+15247,Customer 15247,,356.0,122,1,At Risk
+15249,Customer 15249,,6688.46,31,13,Regular
+15251,Customer 15251,,10484.99,9,11,High Value
+15252,Customer 15252,,740.78,36,2,Regular
+15253,Customer 15253,,918.1999999999999,16,5,Regular
+15254,Customer 15254,,300.36,127,1,At Risk
+15255,Customer 15255,,890.85,66,1,Regular
+15256,Customer 15256,,98.45,148,1,At Risk
+15257,Customer 15257,,317.15,283,1,At Risk
+15258,Customer 15258,,623.16,168,2,At Risk
+15260,Customer 15260,,1810.77,100,7,At Risk
+15261,Customer 15261,,254.82,135,1,At Risk
+15262,Customer 15262,,178.95000000000002,323,1,At Risk
+15263,Customer 15263,,156.51,106,1,At Risk
+15264,Customer 15264,,393.74,64,1,Regular
+15265,Customer 15265,,1506.1200000000001,151,2,At Risk
+15266,Customer 15266,,119.3,338,1,At Risk
+15267,Customer 15267,,1717.36,22,5,High Value
+15269,Customer 15269,,408.8,23,1,Regular
+15270,Customer 15270,,2379.49,15,7,High Value
+15271,Customer 15271,,2507.07,7,15,High Value
+15272,Customer 15272,,721.94,57,2,Regular
+15274,Customer 15274,,716.57,4,2,Regular
+15275,Customer 15275,,615.14,37,1,Regular
+15276,Customer 15276,,135.31,66,1,Regular
+15277,Customer 15277,,255.89999999999998,46,1,Regular
+15279,Customer 15279,,290.51,354,1,At Risk
+15280,Customer 15280,,113.12,172,1,At Risk
+15281,Customer 15281,,2332.15,58,9,Regular
+15286,Customer 15286,,240.55,49,1,Regular
+15287,Customer 15287,,486.69,22,2,Regular
+15288,Customer 15288,,2306.52,43,5,Regular
+15289,Customer 15289,,939.78,29,3,Regular
+15290,Customer 15290,,7943.22,4,18,High Value
+15291,Customer 15291,,4668.3,25,15,High Value
+15292,Customer 15292,,180.94,201,1,At Risk
+15296,Customer 15296,,3672.86,50,6,Regular
+15297,Customer 15297,,641.94,10,3,Regular
+15298,Customer 15298,,4799.9,2,12,High Value
+15299,Customer 15299,,4507.01,67,7,Regular
+15300,Customer 15300,,496.44,64,1,Regular
+15301,Customer 15301,,5070.35,50,12,Regular
+15303,Customer 15303,,574.02,290,1,At Risk
+15304,Customer 15304,,694.4000000000001,60,8,Regular
+15306,Customer 15306,,1174.35,64,3,Regular
+15307,Customer 15307,,205.3,95,1,At Risk
+15308,Customer 15308,,310.47,274,1,At Risk
+15311,Customer 15311,,60767.9,0,91,High Value
+15312,Customer 15312,,924.85,75,4,Regular
+15313,Customer 15313,,52.0,110,1,At Risk
+15314,Customer 15314,,327.97,199,1,At Risk
+15315,Customer 15315,,570.5,64,2,Regular
+15316,Customer 15316,,165.0,326,1,At Risk
+15318,Customer 15318,,312.62,3,1,Regular
+15319,Customer 15319,,204.5,283,1,At Risk
+15320,Customer 15320,,267.13,44,1,Regular
+15321,Customer 15321,,2748.31,70,3,Regular
+15322,Customer 15322,,679.68,85,1,Regular
+15325,Customer 15325,,162.29,103,1,At Risk
+15326,Customer 15326,,311.71,333,1,At Risk
+15327,Customer 15327,,208.75,52,1,Regular
+15329,Customer 15329,,1049.7,39,3,Regular
+15330,Customer 15330,,714.96,32,2,Regular
+15332,Customer 15332,,1661.06,366,4,At Risk
+15333,Customer 15333,,1028.56,208,1,At Risk
+15334,Customer 15334,,351.67,156,3,At Risk
+15335,Customer 15335,,173.97,53,1,Regular
+15339,Customer 15339,,574.07,66,2,Regular
+15341,Customer 15341,,2020.52,80,1,Regular
+15342,Customer 15342,,406.09,129,1,At Risk
+15343,Customer 15343,,364.5,87,1,Regular
+15344,Customer 15344,,563.94,0,3,Regular
+15345,Customer 15345,,393.54,45,1,Regular
+15346,Customer 15346,,252.42000000000002,332,1,At Risk
+15347,Customer 15347,,201.60000000000002,366,1,At Risk
+15348,Customer 15348,,158.04,72,1,Regular
+15349,Customer 15349,,473.81,158,2,At Risk
+15350,Customer 15350,,115.65,373,1,At Risk
+15351,Customer 15351,,1960.1100000000001,12,7,High Value
+15353,Customer 15353,,777.02,254,2,At Risk
+15355,Customer 15355,,277.05,29,2,Regular
+15356,Customer 15356,,2766.5,31,10,Regular
+15358,Customer 15358,,8347.2,4,22,High Value
+15360,Customer 15360,,427.93,39,1,Regular
+15361,Customer 15361,,418.92,361,1,At Risk
+15363,Customer 15363,,326.0,372,1,At Risk
+15364,Customer 15364,,913.19,95,2,At Risk
+15365,Customer 15365,,2314.32,25,7,High Value
+15366,Customer 15366,,602.51,75,2,Regular
+15367,Customer 15367,,1877.59,57,4,Regular
+15368,Customer 15368,,446.94000000000005,21,1,Regular
+15370,Customer 15370,,2386.05,40,7,Regular
+15372,Customer 15372,,2007.3999999999999,137,1,At Risk
+15373,Customer 15373,,2415.91,8,12,High Value
+15374,Customer 15374,,168.0,128,1,At Risk
+15376,Customer 15376,,1233.3600000000001,40,3,Regular
+15379,Customer 15379,,3703.29,169,7,At Risk
+15380,Customer 15380,,1690.2600000000002,8,5,High Value
+15381,Customer 15381,,596.85,213,2,At Risk
+15382,Customer 15382,,5955.71,14,6,High Value
+15384,Customer 15384,,642.41,169,2,At Risk
+15385,Customer 15385,,316.88,40,1,Regular
+15386,Customer 15386,,394.14,186,1,At Risk
+15388,Customer 15388,,140.54,270,1,At Risk
+15389,Customer 15389,,500.0,172,1,At Risk
+15392,Customer 15392,,1535.53,4,4,High Value
+15393,Customer 15393,,231.86,16,2,Regular
+15394,Customer 15394,,2183.54,9,4,High Value
+15395,Customer 15395,,107.45,325,1,At Risk
+15396,Customer 15396,,288.18,112,1,At Risk
+15397,Customer 15397,,94.0,289,1,At Risk
+15398,Customer 15398,,1345.53,16,2,High Value
+15399,Customer 15399,,815.77,1,3,Regular
+15400,Customer 15400,,716.2,92,5,At Risk
+15402,Customer 15402,,626.77,148,2,At Risk
+15405,Customer 15405,,349.1,189,1,At Risk
+15406,Customer 15406,,510.71000000000004,31,2,Regular
+15407,Customer 15407,,1056.44,33,4,Regular
+15408,Customer 15408,,267.18,264,1,At Risk
+15410,Customer 15410,,3450.84,84,8,Regular
+15411,Customer 15411,,1358.88,26,4,High Value
+15412,Customer 15412,,190.53,171,1,At Risk
+15414,Customer 15414,,774.9000000000001,9,3,Regular
+15415,Customer 15415,,572.8100000000001,313,1,At Risk
+15416,Customer 15416,,3984.32,64,4,Regular
+15417,Customer 15417,,508.8,85,1,Regular
+15419,Customer 15419,,135.86,24,1,Regular
+15421,Customer 15421,,950.36,58,4,Regular
+15422,Customer 15422,,97.7,323,2,At Risk
+15423,Customer 15423,,43.5,38,1,Regular
+15424,Customer 15424,,383.34,254,2,At Risk
+15426,Customer 15426,,1447.39,19,5,High Value
+15427,Customer 15427,,1483.14,33,3,Regular
+15428,Customer 15428,,93.78,15,1,Regular
+15429,Customer 15429,,397.35,26,2,Regular
+15432,Customer 15432,,171.19,23,1,Regular
+15433,Customer 15433,,533.3,213,2,At Risk
+15434,Customer 15434,,1041.48,8,5,High Value
+15435,Customer 15435,,149.29,22,1,Regular
+15436,Customer 15436,,1122.53,12,3,High Value
+15437,Customer 15437,,200.16,262,1,At Risk
+15438,Customer 15438,,156.57999999999998,131,1,At Risk
+15440,Customer 15440,,383.68,54,3,Regular
+15442,Customer 15442,,594.0,248,1,At Risk
+15443,Customer 15443,,3236.91,1,7,High Value
+15444,Customer 15444,,1418.26,9,2,High Value
+15445,Customer 15445,,113.5,264,1,At Risk
+15447,Customer 15447,,155.17,330,1,At Risk
+15448,Customer 15448,,494.64,312,1,At Risk
+15449,Customer 15449,,974.52,26,3,Regular
+15450,Customer 15450,,429.84,30,1,Regular
+15452,Customer 15452,,538.73,29,3,Regular
+15453,Customer 15453,,1388.37,1,7,High Value
+15454,Customer 15454,,179.1,362,1,At Risk
+15456,Customer 15456,,447.22,283,3,At Risk
+15457,Customer 15457,,237.07,262,1,At Risk
+15458,Customer 15458,,161.64,25,1,Regular
+15460,Customer 15460,,216.76,354,1,At Risk
+15462,Customer 15462,,234.6,94,3,At Risk
+15463,Customer 15463,,126.14,29,1,Regular
+15464,Customer 15464,,1048.85,338,1,At Risk
+15465,Customer 15465,,7354.62,19,18,High Value
+15466,Customer 15466,,334.53,85,1,Regular
+15467,Customer 15467,,524.88,9,3,Regular
+15468,Customer 15468,,467.51,51,2,Regular
+15469,Customer 15469,,538.55,50,2,Regular
+15471,Customer 15471,,469.48,2,1,Regular
+15472,Customer 15472,,371.56,113,1,At Risk
+15473,Customer 15473,,1771.2,14,7,High Value
+15475,Customer 15475,,454.10999999999996,77,1,Regular
+15478,Customer 15478,,1441.42,40,2,Regular
+15480,Customer 15480,,905.5,116,1,At Risk
+15482,Customer 15482,,11054.96,15,12,High Value
+15483,Customer 15483,,233.81,161,4,At Risk
+15484,Customer 15484,,3594.31,1,4,High Value
+15485,Customer 15485,,2575.0,30,3,High Value
+15488,Customer 15488,,91.32000000000001,92,1,At Risk
+15489,Customer 15489,,1134.28,22,3,High Value
+15491,Customer 15491,,3100.09,95,6,At Risk
+15492,Customer 15492,,659.4599999999999,28,2,Regular
+15493,Customer 15493,,2001.8,32,5,Regular
+15494,Customer 15494,,1299.23,21,2,High Value
+15497,Customer 15497,,1262.2,17,2,High Value
+15498,Customer 15498,,13316.4,2,27,High Value
+15500,Customer 15500,,1131.56,8,4,High Value
+15502,Customer 15502,,10384.93,15,12,High Value
+15503,Customer 15503,,147.09,362,1,At Risk
+15504,Customer 15504,,52.83,81,1,Regular
+15505,Customer 15505,,3610.96,52,5,Regular
+15506,Customer 15506,,979.26,22,3,Regular
+15507,Customer 15507,,492.36,171,1,At Risk
+15508,Customer 15508,,1000.27,189,6,At Risk
+15510,Customer 15510,,250.0,330,1,At Risk
+15511,Customer 15511,,909.23,11,5,Regular
+15512,Customer 15512,,121.0,155,2,At Risk
+15513,Customer 15513,,14758.220000000001,33,19,Regular
+15514,Customer 15514,,4139.46,12,11,High Value
+15516,Customer 15516,,62.43,44,3,Regular
+15517,Customer 15517,,267.03,233,1,At Risk
+15518,Customer 15518,,1942.45,64,8,Regular
+15520,Customer 15520,,343.5,1,1,Regular
+15521,Customer 15521,,3000.2,40,8,Regular
+15522,Customer 15522,,398.84,32,2,Regular
+15523,Customer 15523,,412.01000000000005,84,1,Regular
+15524,Customer 15524,,440.0,24,1,Regular
+15525,Customer 15525,,825.92,2,3,Regular
+15526,Customer 15526,,148.44,33,2,Regular
+15527,Customer 15527,,2429.78,18,8,High Value
+15528,Customer 15528,,229.33,254,1,At Risk
+15529,Customer 15529,,3995.23,22,11,High Value
+15530,Customer 15530,,1502.35,21,4,High Value
+15531,Customer 15531,,2007.44,8,2,High Value
+15532,Customer 15532,,1580.93,25,4,High Value
+15533,Customer 15533,,807.57,19,3,Regular
+15535,Customer 15535,,536.4,173,4,At Risk
+15537,Customer 15537,,110.92,163,1,At Risk
+15539,Customer 15539,,538.46,7,1,Regular
+15540,Customer 15540,,213.3,11,1,Regular
+15541,Customer 15541,,85.13000000000001,114,1,At Risk
+15543,Customer 15543,,127.86,288,1,At Risk
+15544,Customer 15544,,3546.71,9,9,High Value
+15545,Customer 15545,,292.71999999999997,54,2,Regular
+15547,Customer 15547,,4954.84,7,14,High Value
+15549,Customer 15549,,1693.26,77,3,Regular
+15550,Customer 15550,,575.63,4,4,Regular
+15551,Customer 15551,,436.06,36,1,Regular
+15552,Customer 15552,,90.12,217,1,At Risk
+15553,Customer 15553,,437.23,60,1,Regular
+15554,Customer 15554,,217.2,277,1,At Risk
+15555,Customer 15555,,4805.17,12,16,High Value
+15556,Customer 15556,,279.77,24,1,Regular
+15557,Customer 15557,,473.65000000000003,28,1,Regular
+15561,Customer 15561,,800.59,11,4,Regular
+15562,Customer 15562,,134.55,351,1,At Risk
+15563,Customer 15563,,1400.44,22,4,High Value
+15565,Customer 15565,,173.16,50,2,Regular
+15567,Customer 15567,,186.01,18,1,Regular
+15568,Customer 15568,,758.29,2,3,Regular
+15569,Customer 15569,,1375.71,103,5,At Risk
+15570,Customer 15570,,4165.52,7,12,High Value
+15571,Customer 15571,,650.4300000000001,11,4,Regular
+15572,Customer 15572,,2552.86,4,7,High Value
+15573,Customer 15573,,607.45,31,2,Regular
+15574,Customer 15574,,702.25,177,4,At Risk
+15576,Customer 15576,,940.6700000000001,37,1,Regular
+15577,Customer 15577,,258.88,151,3,At Risk
+15578,Customer 15578,,127.1,162,1,At Risk
+15579,Customer 15579,,348.6,68,2,Regular
+15581,Customer 15581,,3679.9700000000003,120,13,At Risk
+15582,Customer 15582,,682.9100000000001,24,3,Regular
+15584,Customer 15584,,725.11,23,4,Regular
+15585,Customer 15585,,455.3,176,1,At Risk
+15587,Customer 15587,,913.6800000000001,50,4,Regular
+15589,Customer 15589,,478.53000000000003,255,3,At Risk
+15592,Customer 15592,,388.58,46,1,Regular
+15593,Customer 15593,,199.8,70,1,Regular
+15594,Customer 15594,,1771.78,15,5,High Value
+15596,Customer 15596,,1406.59,100,5,At Risk
+15597,Customer 15597,,324.57,35,1,Regular
+15598,Customer 15598,,240.68,53,1,Regular
+15599,Customer 15599,,761.74,26,2,Regular
+15601,Customer 15601,,6776.56,11,14,High Value
+15602,Customer 15602,,1297.8700000000001,8,9,High Value
+15603,Customer 15603,,48.480000000000004,78,1,Regular
+15604,Customer 15604,,216.39,52,1,Regular
+15605,Customer 15605,,1198.23,36,5,Regular
+15606,Customer 15606,,2920.16,61,9,Regular
+15607,Customer 15607,,104.76,336,1,At Risk
+15608,Customer 15608,,1093.68,28,4,High Value
+15609,Customer 15609,,298.48,184,1,At Risk
+15610,Customer 15610,,112.46000000000001,51,1,Regular
+15611,Customer 15611,,1591.45,9,13,High Value
+15612,Customer 15612,,195.15,36,2,Regular
+15615,Customer 15615,,10399.74,10,23,High Value
+15618,Customer 15618,,776.851,32,4,Regular
+15619,Customer 15619,,336.40000000000003,10,1,Regular
+15620,Customer 15620,,1553.18,56,3,Regular
+15621,Customer 15621,,1293.03,4,4,High Value
+15622,Customer 15622,,3709.56,43,9,Regular
+15623,Customer 15623,,301.03,141,1,At Risk
+15624,Customer 15624,,588.13,116,4,At Risk
+15625,Customer 15625,,1534.26,103,4,At Risk
+15626,Customer 15626,,675.8,74,2,Regular
+15628,Customer 15628,,2870.2400000000002,4,9,High Value
+15630,Customer 15630,,1186.35,45,2,Regular
+15632,Customer 15632,,3285.31,15,8,High Value
+15634,Customer 15634,,243.55,17,1,Regular
+15636,Customer 15636,,724.76,89,2,Regular
+15637,Customer 15637,,223.36,52,1,Regular
+15639,Customer 15639,,425.32,134,1,At Risk
+15640,Customer 15640,,12515.66,4,15,High Value
+15641,Customer 15641,,1887.2,105,4,At Risk
+15643,Customer 15643,,664.0,191,3,At Risk
+15644,Customer 15644,,813.0,166,4,At Risk
+15645,Customer 15645,,612.01,18,1,Regular
+15646,Customer 15646,,447.64000000000004,157,3,At Risk
+15648,Customer 15648,,657.35,204,2,At Risk
+15649,Customer 15649,,816.0,336,2,At Risk
+15651,Customer 15651,,646.3,36,3,Regular
+15652,Customer 15652,,337.74,91,1,At Risk
+15653,Customer 15653,,877.4399999999999,92,2,At Risk
+15654,Customer 15654,,922.53,9,2,Regular
+15655,Customer 15655,,560.67,243,1,At Risk
+15656,Customer 15656,,748.5,45,4,Regular
+15657,Customer 15657,,30.0,22,1,Regular
+15658,Customer 15658,,1024.1000000000001,190,5,At Risk
+15659,Customer 15659,,306.45,43,1,Regular
+15660,Customer 15660,,1600.86,25,9,High Value
+15661,Customer 15661,,309.8,317,2,At Risk
+15663,Customer 15663,,138.14,106,1,At Risk
+15664,Customer 15664,,386.43,50,1,Regular
+15665,Customer 15665,,2242.01,168,2,At Risk
+15667,Customer 15667,,301.32,39,1,Regular
+15668,Customer 15668,,76.32000000000001,217,1,At Risk
+15669,Customer 15669,,684.34,40,4,Regular
+15670,Customer 15670,,173.05,296,1,At Risk
+15671,Customer 15671,,2657.13,18,7,High Value
+15673,Customer 15673,,2881.02,88,4,Regular
+15674,Customer 15674,,2446.6,73,5,Regular
+15675,Customer 15675,,323.69,81,3,Regular
+15676,Customer 15676,,3435.76,18,3,High Value
+15677,Customer 15677,,657.23,49,1,Regular
+15678,Customer 15678,,352.7,52,1,Regular
+15679,Customer 15679,,781.28,24,4,Regular
+15680,Customer 15680,,1333.68,9,3,High Value
+15681,Customer 15681,,1426.16,25,5,High Value
+15683,Customer 15683,,193.75,117,1,At Risk
+15687,Customer 15687,,2993.1,8,9,High Value
+15689,Customer 15689,,254.1,119,2,At Risk
+15690,Customer 15690,,239.76,4,2,Regular
+15691,Customer 15691,,136.8,252,1,At Risk
+15692,Customer 15692,,191.04,28,1,Regular
+15694,Customer 15694,,6479.4,0,14,High Value
+15695,Customer 15695,,409.98,266,2,At Risk
+15696,Customer 15696,,2736.46,33,8,Regular
+15699,Customer 15699,,309.65,17,1,Regular
+15700,Customer 15700,,696.68,172,2,At Risk
+15701,Customer 15701,,1542.14,2,4,High Value
+15703,Customer 15703,,211.5,264,1,At Risk
+15704,Customer 15704,,2293.62,140,4,At Risk
+15705,Customer 15705,,143.1,201,1,At Risk
+15706,Customer 15706,,1060.56,63,4,Regular
+15707,Customer 15707,,945.58,35,4,Regular
+15708,Customer 15708,,3364.2400000000002,40,7,Regular
+15709,Customer 15709,,133.25,283,1,At Risk
+15712,Customer 15712,,1072.3600000000001,9,5,High Value
+15713,Customer 15713,,356.7,143,2,At Risk
+15714,Customer 15714,,330.88,11,2,Regular
+15716,Customer 15716,,1118.81,145,4,At Risk
+15717,Customer 15717,,150.3,234,1,At Risk
+15719,Customer 15719,,5045.61,32,13,Regular
+15720,Customer 15720,,598.73,24,1,Regular
+15721,Customer 15721,,507.08,11,1,Regular
+15722,Customer 15722,,2222.56,35,5,Regular
+15723,Customer 15723,,203.1,364,1,At Risk
+15724,Customer 15724,,218.25,201,2,At Risk
+15725,Customer 15725,,415.25,15,1,Regular
+15727,Customer 15727,,5178.96,16,7,High Value
+15729,Customer 15729,,85.0,212,1,At Risk
+15730,Customer 15730,,1120.88,65,3,Regular
+15732,Customer 15732,,294.12,212,2,At Risk
+15733,Customer 15733,,162.3,282,1,At Risk
+15734,Customer 15734,,1339.45,114,2,At Risk
+15737,Customer 15737,,1205.1200000000001,14,8,High Value
+15738,Customer 15738,,4812.42,18,16,High Value
+15739,Customer 15739,,449.12,66,1,Regular
+15740,Customer 15740,,154.88,49,1,Regular
+15743,Customer 15743,,784.46,16,4,Regular
+15744,Customer 15744,,34.8,77,1,Regular
+15745,Customer 15745,,1094.59,19,4,High Value
+15746,Customer 15746,,196.88,134,1,At Risk
+15747,Customer 15747,,974.04,12,3,Regular
+15748,Customer 15748,,149.31,40,1,Regular
+15749,Customer 15749,,44534.3,235,3,At Risk
+15750,Customer 15750,,2465.48,2,8,High Value
+15752,Customer 15752,,2637.38,39,7,Regular
+15753,Customer 15753,,79.2,304,1,At Risk
+15754,Customer 15754,,458.57,51,3,Regular
+15755,Customer 15755,,2364.25,10,6,High Value
+15756,Customer 15756,,532.96,61,4,Regular
+15757,Customer 15757,,714.42,65,2,Regular
+15758,Customer 15758,,205.25,24,1,Regular
+15759,Customer 15759,,253.04,218,3,At Risk
+15762,Customer 15762,,583.75,65,2,Regular
+15763,Customer 15763,,1086.92,31,2,Regular
+15764,Customer 15764,,3279.97,88,6,Regular
+15766,Customer 15766,,315.06,64,1,Regular
+15768,Customer 15768,,621.8299999999999,115,3,At Risk
+15769,Customer 15769,,56252.72,7,26,High Value
+15773,Customer 15773,,635.6800000000001,5,1,Regular
+15774,Customer 15774,,270.8,68,1,Regular
+15775,Customer 15775,,104.9,245,1,At Risk
+15776,Customer 15776,,241.62,133,1,At Risk
+15777,Customer 15777,,1047.11,241,4,At Risk
+15780,Customer 15780,,475.28000000000003,183,3,At Risk
+15781,Customer 15781,,345.46,25,3,Regular
+15782,Customer 15782,,2614.7400000000002,9,3,High Value
+15783,Customer 15783,,246.3,10,1,Regular
+15785,Customer 15785,,2328.9700000000003,32,5,Regular
+15786,Customer 15786,,4932.2,46,3,Regular
+15787,Customer 15787,,948.05,26,3,Regular
+15789,Customer 15789,,351.3,358,1,At Risk
+15790,Customer 15790,,220.85,10,1,Regular
+15791,Customer 15791,,1612.69,43,2,Regular
+15793,Customer 15793,,965.61,14,3,Regular
+15795,Customer 15795,,610.01,149,1,At Risk
+15796,Customer 15796,,2711.56,1,8,High Value
+15797,Customer 15797,,2207.4,113,4,At Risk
+15799,Customer 15799,,884.14,75,3,Regular
+15800,Customer 15800,,699.08,107,2,At Risk
+15801,Customer 15801,,1063.95,46,3,Regular
+15802,Customer 15802,,451.42,142,1,At Risk
+15803,Customer 15803,,415.82000000000005,51,1,Regular
+15804,Customer 15804,,4206.39,0,13,High Value
+15805,Customer 15805,,5528.4800000000005,23,17,High Value
+15806,Customer 15806,,784.58,46,3,Regular
+15807,Customer 15807,,903.9,50,3,Regular
+15808,Customer 15808,,3734.9700000000003,306,4,At Risk
+15809,Customer 15809,,515.77,36,5,Regular
+15810,Customer 15810,,1391.98,78,4,Regular
+15811,Customer 15811,,2218.62,22,6,High Value
+15812,Customer 15812,,1801.14,107,5,At Risk
+15813,Customer 15813,,1303.9099999999999,207,2,At Risk
+15814,Customer 15814,,1945.33,16,4,High Value
+15815,Customer 15815,,2100.6,63,5,Regular
+15819,Customer 15819,,1905.45,49,4,Regular
+15820,Customer 15820,,206.98,319,1,At Risk
+15821,Customer 15821,,570.96,44,2,Regular
+15822,Customer 15822,,885.47,3,2,Regular
+15823,Customer 15823,,15.0,372,1,At Risk
+15825,Customer 15825,,532.94,172,1,At Risk
+15826,Customer 15826,,1654.31,56,3,Regular
+15827,Customer 15827,,1836.0900000000001,73,14,Regular
+15829,Customer 15829,,636.14,99,2,At Risk
+15830,Customer 15830,,576.0,37,1,Regular
+15831,Customer 15831,,801.76,58,3,Regular
+15832,Customer 15832,,836.79,254,1,At Risk
+15834,Customer 15834,,2233.75,70,4,Regular
+15835,Customer 15835,,954.09,44,4,Regular
+15836,Customer 15836,,137.37,50,1,Regular
+15837,Customer 15837,,391.98,64,1,Regular
+15838,Customer 15838,,33643.08,11,19,High Value
+15839,Customer 15839,,1048.49,33,3,Regular
+15840,Customer 15840,,355.56,58,2,Regular
+15841,Customer 15841,,1224.06,72,4,Regular
+15843,Customer 15843,,118.95000000000002,303,1,At Risk
+15844,Customer 15844,,130.73999999999998,46,1,Regular
+15845,Customer 15845,,3711.77,17,8,High Value
+15847,Customer 15847,,389.27,38,2,Regular
+15850,Customer 15850,,238.85,19,2,Regular
+15852,Customer 15852,,160.71,186,2,At Risk
+15853,Customer 15853,,110.8,51,1,Regular
+15854,Customer 15854,,2974.65,4,12,High Value
+15855,Customer 15855,,712.24,136,5,At Risk
+15856,Customer 15856,,16387.57,4,27,High Value
+15857,Customer 15857,,297.0,18,1,Regular
+15858,Customer 15858,,1438.85,15,5,High Value
+15860,Customer 15860,,977.21,40,8,Regular
+15861,Customer 15861,,3165.36,12,8,High Value
+15862,Customer 15862,,832.88,8,4,Regular
+15863,Customer 15863,,68.84,25,2,Regular
+15864,Customer 15864,,1936.3200000000002,22,6,High Value
+15865,Customer 15865,,895.13,40,3,Regular
+15866,Customer 15866,,230.53,101,1,At Risk
+15867,Customer 15867,,3812.64,5,15,High Value
+15869,Customer 15869,,149.64,277,2,At Risk
+15870,Customer 15870,,354.09000000000003,32,1,Regular
+15872,Customer 15872,,360.93,14,2,Regular
+15874,Customer 15874,,4405.88,63,7,Regular
+15877,Customer 15877,,493.28,1,2,Regular
+15880,Customer 15880,,343.28000000000003,369,1,At Risk
+15881,Customer 15881,,501.39000000000004,312,5,At Risk
+15882,Customer 15882,,516.36,198,4,At Risk
+15883,Customer 15883,,396.48,2,2,Regular
+15885,Customer 15885,,379.35,92,3,At Risk
+15886,Customer 15886,,181.09,60,1,Regular
+15888,Customer 15888,,168.31,80,1,Regular
+15889,Customer 15889,,446.87,156,2,At Risk
+15891,Customer 15891,,524.52,226,1,At Risk
+15894,Customer 15894,,263.55,253,2,At Risk
+15895,Customer 15895,,179.17,149,1,At Risk
+15897,Customer 15897,,222.05,194,2,At Risk
+15898,Customer 15898,,1388.88,1,5,High Value
+15899,Customer 15899,,56.25,368,1,At Risk
+15900,Customer 15900,,351.11,23,1,Regular
+15901,Customer 15901,,363.88,16,3,Regular
+15903,Customer 15903,,5126.76,9,7,High Value
+15904,Customer 15904,,164.68,8,1,Regular
+15906,Customer 15906,,1567.69,19,7,High Value
+15907,Customer 15907,,967.45,3,3,Regular
+15909,Customer 15909,,191.94,173,1,At Risk
+15910,Customer 15910,,1232.18,0,8,High Value
+15912,Customer 15912,,264.62,178,2,At Risk
+15916,Customer 15916,,1528.09,16,8,High Value
+15917,Customer 15917,,123.1,247,1,At Risk
+15918,Customer 15918,,334.23,190,2,At Risk
+15919,Customer 15919,,639.89,19,2,Regular
+15920,Customer 15920,,167.5,154,4,At Risk
+15921,Customer 15921,,336.03000000000003,172,1,At Risk
+15922,Customer 15922,,369.5,373,1,At Risk
+15923,Customer 15923,,127.08,372,1,At Risk
+15925,Customer 15925,,207.15,194,1,At Risk
+15930,Customer 15930,,426.63,67,1,Regular
+15932,Customer 15932,,2495.87,4,8,High Value
+15933,Customer 15933,,1107.46,21,3,High Value
+15935,Customer 15935,,416.86,239,2,At Risk
+15937,Customer 15937,,145.35,64,1,Regular
+15938,Customer 15938,,404.58,112,5,At Risk
+15939,Customer 15939,,6115.01,89,15,Regular
+15940,Customer 15940,,35.8,311,1,At Risk
+15942,Customer 15942,,337.44,133,1,At Risk
+15944,Customer 15944,,325.1,276,1,At Risk
+15945,Customer 15945,,181.0,365,1,At Risk
+15947,Customer 15947,,1708.24,82,1,Regular
+15948,Customer 15948,,955.24,8,2,Regular
+15949,Customer 15949,,364.72,16,2,Regular
+15950,Customer 15950,,1765.51,31,4,Regular
+15951,Customer 15951,,708.22,8,2,Regular
+15952,Customer 15952,,806.57,33,4,Regular
+15953,Customer 15953,,1659.3799999999999,15,8,High Value
+15955,Customer 15955,,4416.26,24,14,High Value
+15957,Customer 15957,,428.89,31,1,Regular
+15958,Customer 15958,,104.35,74,1,Regular
+15963,Customer 15963,,470.76,19,2,Regular
+15965,Customer 15965,,845.64,17,4,Regular
+15967,Customer 15967,,418.83,23,2,Regular
+15969,Customer 15969,,666.1,2,3,Regular
+15970,Customer 15970,,314.1,303,1,At Risk
+15971,Customer 15971,,4199.85,17,12,High Value
+15973,Customer 15973,,307.82000000000005,366,1,At Risk
+15974,Customer 15974,,3442.15,39,7,Regular
+15975,Customer 15975,,371.01,84,1,Regular
+15976,Customer 15976,,430.94,165,2,At Risk
+15977,Customer 15977,,1054.73,17,2,High Value
+15978,Customer 15978,,1098.78,77,1,Regular
+15980,Customer 15980,,2398.86,88,3,Regular
+15981,Customer 15981,,3408.48,24,8,High Value
+15983,Customer 15983,,1475.02,22,4,High Value
+15984,Customer 15984,,2837.67,2,10,High Value
+15985,Customer 15985,,1142.42,123,2,At Risk
+15986,Customer 15986,,168.12,30,1,Regular
+15987,Customer 15987,,1451.28,12,7,High Value
+15988,Customer 15988,,158.03,19,1,Regular
+15990,Customer 15990,,792.11,44,2,Regular
+15992,Customer 15992,,41.989999999999995,3,1,Regular
+15993,Customer 15993,,2797.57,8,7,High Value
+15994,Customer 15994,,427.07,54,1,Regular
+15996,Customer 15996,,1060.68,88,6,Regular
+15998,Customer 15998,,3089.97,36,5,Regular
+16000,Customer 16000,,12393.7,2,3,High Value
+16003,Customer 16003,,2735.37,29,5,High Value
+16005,Customer 16005,,615.39,12,4,Regular
+16006,Customer 16006,,101.4,211,1,At Risk
+16007,Customer 16007,,1701.94,47,4,Regular
+16008,Customer 16008,,478.78,23,3,Regular
+16009,Customer 16009,,992.71,22,4,Regular
+16010,Customer 16010,,407.5,245,3,At Risk
+16011,Customer 16011,,3362.71,8,16,High Value
+16012,Customer 16012,,1415.29,35,3,Regular
+16013,Customer 16013,,37130.6,3,47,High Value
+16014,Customer 16014,,662.38,37,3,Regular
+16015,Customer 16015,,705.39,3,3,Regular
+16016,Customer 16016,,1508.76,3,8,High Value
+16017,Customer 16017,,211.88,47,1,Regular
+16018,Customer 16018,,408.90000000000003,39,2,Regular
+16019,Customer 16019,,3786.2400000000002,46,9,Regular
+16020,Customer 16020,,851.01,16,3,Regular
+16022,Customer 16022,,628.28,260,1,At Risk
+16023,Customer 16023,,719.81,46,3,Regular
+16024,Customer 16024,,251.24,12,1,Regular
+16025,Customer 16025,,439.65999999999997,29,1,Regular
+16026,Customer 16026,,236.09,43,1,Regular
+16027,Customer 16027,,934.62,91,6,At Risk
+16029,Customer 16029,,81024.84,38,63,Regular
+16030,Customer 16030,,331.24,309,1,At Risk
+16031,Customer 16031,,548.94,92,2,At Risk
+16033,Customer 16033,,8816.4,5,20,High Value
+16034,Customer 16034,,437.7,196,3,At Risk
+16036,Customer 16036,,758.92,87,2,Regular
+16037,Customer 16037,,855.02,269,3,At Risk
+16038,Customer 16038,,471.78000000000003,7,3,Regular
+16040,Customer 16040,,1313.55,65,3,Regular
+16041,Customer 16041,,3166.4,30,3,High Value
+16042,Customer 16042,,1197.27,22,5,High Value
+16043,Customer 16043,,773.99,37,4,Regular
+16045,Customer 16045,,1340.7,119,4,At Risk
+16048,Customer 16048,,256.44,373,2,At Risk
+16049,Customer 16049,,1111.79,40,3,Regular
+16050,Customer 16050,,137.9,173,1,At Risk
+16052,Customer 16052,,362.06,54,1,Regular
+16053,Customer 16053,,1511.95,32,2,Regular
+16054,Customer 16054,,783.9,145,1,At Risk
+16055,Customer 16055,,134.8,220,1,At Risk
+16056,Customer 16056,,664.85,45,1,Regular
+16057,Customer 16057,,2263.12,16,7,High Value
+16059,Customer 16059,,1459.8600000000001,65,6,Regular
+16062,Customer 16062,,1153.62,9,4,High Value
+16063,Customer 16063,,335.32,260,1,At Risk
+16065,Customer 16065,,372.09,365,1,At Risk
+16066,Customer 16066,,1521.87,16,5,High Value
+16070,Customer 16070,,852.15,22,2,Regular
+16071,Customer 16071,,326.24,44,1,Regular
+16072,Customer 16072,,584.3199999999999,288,1,At Risk
+16073,Customer 16073,,122.39999999999999,297,1,At Risk
+16076,Customer 16076,,2234.73,3,10,High Value
+16078,Customer 16078,,79.2,283,1,At Risk
+16079,Customer 16079,,1352.0,16,3,High Value
+16080,Customer 16080,,217.16,81,2,Regular
+16081,Customer 16081,,2806.9,56,5,Regular
+16083,Customer 16083,,1317.62,100,2,At Risk
+16084,Customer 16084,,436.18,299,1,At Risk
+16085,Customer 16085,,981.51,23,5,Regular
+16086,Customer 16086,,1121.39,59,5,Regular
+16091,Customer 16091,,315.06,154,2,At Risk
+16092,Customer 16092,,817.86,114,3,At Risk
+16093,Customer 16093,,17.0,106,1,At Risk
+16094,Customer 16094,,1078.23,11,4,High Value
+16096,Customer 16096,,320.62,264,1,At Risk
+16097,Customer 16097,,185.04999999999998,240,1,At Risk
+16098,Customer 16098,,2005.63,87,7,Regular
+16099,Customer 16099,,731.9,50,3,Regular
+16101,Customer 16101,,1290.7,70,1,Regular
+16102,Customer 16102,,1842.14,42,3,Regular
+16103,Customer 16103,,1429.64,7,6,High Value
+16104,Customer 16104,,302.36,61,1,Regular
+16105,Customer 16105,,336.96,248,1,At Risk
+16106,Customer 16106,,108.38,65,1,Regular
+16107,Customer 16107,,3204.1600000000003,17,7,High Value
+16108,Customer 16108,,842.5,84,1,Regular
+16109,Customer 16109,,611.88,218,2,At Risk
+16110,Customer 16110,,1337.48,45,3,Regular
+16112,Customer 16112,,195.73999999999998,143,4,At Risk
+16113,Customer 16113,,161.38,183,1,At Risk
+16114,Customer 16114,,135.75000000000003,170,1,At Risk
+16115,Customer 16115,,1667.97,9,8,High Value
+16116,Customer 16116,,612.78,211,1,At Risk
+16117,Customer 16117,,232.21,189,1,At Risk
+16119,Customer 16119,,423.36,8,2,Regular
+16120,Customer 16120,,1309.14,59,4,Regular
+16121,Customer 16121,,867.11,57,2,Regular
+16122,Customer 16122,,684.4200000000001,73,4,Regular
+16123,Customer 16123,,307.78,51,1,Regular
+16124,Customer 16124,,249.0,317,1,At Risk
+16125,Customer 16125,,289.35,367,1,At Risk
+16126,Customer 16126,,6287.77,29,4,High Value
+16127,Customer 16127,,656.25,39,1,Regular
+16128,Customer 16128,,1880.22,17,5,High Value
+16131,Customer 16131,,3506.54,51,6,Regular
+16133,Customer 16133,,14589.04,3,33,High Value
+16134,Customer 16134,,618.09,21,2,Regular
+16135,Customer 16135,,517.55,262,1,At Risk
+16136,Customer 16136,,709.38,59,3,Regular
+16139,Customer 16139,,635.41,18,3,Regular
+16140,Customer 16140,,725.18,65,2,Regular
+16141,Customer 16141,,620.4,88,1,Regular
+16142,Customer 16142,,535.34,249,1,At Risk
+16143,Customer 16143,,2424.94,3,6,High Value
+16144,Customer 16144,,175.2,246,1,At Risk
+16145,Customer 16145,,3799.4900000000002,8,11,High Value
+16146,Customer 16146,,734.13,157,3,At Risk
+16147,Customer 16147,,375.0,133,1,At Risk
+16148,Customer 16148,,76.32000000000001,296,1,At Risk
+16149,Customer 16149,,280.52,4,2,Regular
+16150,Customer 16150,,2053.02,42,5,Regular
+16152,Customer 16152,,1829.04,268,1,At Risk
+16153,Customer 16153,,1824.23,49,5,Regular
+16156,Customer 16156,,3122.04,8,9,High Value
+16157,Customer 16157,,656.69,15,3,Regular
+16159,Customer 16159,,348.2,281,1,At Risk
+16160,Customer 16160,,1025.44,65,2,Regular
+16161,Customer 16161,,5575.56,1,19,High Value
+16162,Customer 16162,,37.4,252,1,At Risk
+16163,Customer 16163,,856.6,232,2,At Risk
+16164,Customer 16164,,822.48,17,3,Regular
+16168,Customer 16168,,3787.6,10,27,High Value
+16169,Customer 16169,,1822.97,8,4,High Value
+16170,Customer 16170,,1885.05,50,6,Regular
+16171,Customer 16171,,73.2,59,1,Regular
+16172,Customer 16172,,1140.21,95,5,At Risk
+16173,Customer 16173,,1418.32,15,6,High Value
+16174,Customer 16174,,1009.5500000000001,126,3,At Risk
+16175,Customer 16175,,1037.59,94,4,At Risk
+16177,Customer 16177,,331.95,50,1,Regular
+16178,Customer 16178,,197.9,138,1,At Risk
+16179,Customer 16179,,215.83,60,1,Regular
+16180,Customer 16180,,10254.18,100,8,At Risk
+16181,Customer 16181,,305.54,73,1,Regular
+16182,Customer 16182,,6617.65,72,4,Regular
+16183,Customer 16183,,338.71000000000004,67,1,Regular
+16184,Customer 16184,,1158.79,64,6,Regular
+16185,Customer 16185,,529.41,16,2,Regular
+16186,Customer 16186,,4006.94,22,12,High Value
+16187,Customer 16187,,6911.4400000000005,31,15,Regular
+16188,Customer 16188,,981.86,44,4,Regular
+16189,Customer 16189,,215.48,15,2,Regular
+16190,Customer 16190,,215.08,40,1,Regular
+16191,Customer 16191,,5180.52,2,13,High Value
+16193,Customer 16193,,314.45,236,1,At Risk
+16198,Customer 16198,,400.68100000000004,75,1,Regular
+16200,Customer 16200,,1080.6200000000001,4,2,High Value
+16201,Customer 16201,,1863.47,3,4,High Value
+16202,Customer 16202,,365.27,360,1,At Risk
+16203,Customer 16203,,592.9,58,4,Regular
+16204,Customer 16204,,405.71,23,1,Regular
+16205,Customer 16205,,761.38,30,4,Regular
+16206,Customer 16206,,537.0600000000001,54,4,Regular
+16207,Customer 16207,,394.38,25,1,Regular
+16208,Customer 16208,,664.26,44,2,Regular
+16209,Customer 16209,,2262.62,88,5,Regular
+16210,Customer 16210,,21086.3,1,18,High Value
+16211,Customer 16211,,547.02,88,1,Regular
+16212,Customer 16212,,690.34,19,2,Regular
+16213,Customer 16213,,159.0,78,1,Regular
+16214,Customer 16214,,1062.75,170,3,At Risk
+16215,Customer 16215,,242.35,80,1,Regular
+16216,Customer 16216,,914.9300000000001,267,1,At Risk
+16217,Customer 16217,,304.25,235,2,At Risk
+16218,Customer 16218,,3084.68,29,7,High Value
+16221,Customer 16221,,864.86,36,3,Regular
+16222,Customer 16222,,846.72,318,1,At Risk
+16224,Customer 16224,,1295.3,57,4,Regular
+16225,Customer 16225,,1096.32,44,5,Regular
+16226,Customer 16226,,255.12,203,3,At Risk
+16227,Customer 16227,,314.22,225,1,At Risk
+16229,Customer 16229,,1010.6,87,2,Regular
+16230,Customer 16230,,542.03,189,2,At Risk
+16232,Customer 16232,,990.88,43,4,Regular
+16233,Customer 16233,,536.6800000000001,71,3,Regular
+16235,Customer 16235,,867.31,40,5,Regular
+16236,Customer 16236,,432.2,78,1,Regular
+16239,Customer 16239,,414.2,56,2,Regular
+16240,Customer 16240,,3718.8,24,2,High Value
+16241,Customer 16241,,2607.87,9,13,High Value
+16242,Customer 16242,,3603.21,8,7,High Value
+16243,Customer 16243,,409.1,33,2,Regular
+16244,Customer 16244,,1522.75,211,2,At Risk
+16245,Customer 16245,,1413.66,23,3,High Value
+16247,Customer 16247,,114.56,170,1,At Risk
+16248,Customer 16248,,152.94,61,1,Regular
+16249,Customer 16249,,1800.07,52,5,Regular
+16250,Customer 16250,,389.44,261,2,At Risk
+16253,Customer 16253,,3683.86,66,2,Regular
+16255,Customer 16255,,2619.91,16,8,High Value
+16256,Customer 16256,,752.4300000000001,266,1,At Risk
+16257,Customer 16257,,46.95,176,1,At Risk
+16258,Customer 16258,,5203.51,45,5,Regular
+16260,Customer 16260,,1035.45,50,1,Regular
+16261,Customer 16261,,746.83,17,4,Regular
+16265,Customer 16265,,5447.0,9,9,High Value
+16266,Customer 16266,,861.89,73,7,Regular
+16268,Customer 16268,,667.65,71,2,Regular
+16270,Customer 16270,,1141.24,353,1,At Risk
+16271,Customer 16271,,1429.24,2,5,High Value
+16272,Customer 16272,,411.7,116,1,At Risk
+16274,Customer 16274,,357.95,373,1,At Risk
+16275,Customer 16275,,559.87,196,1,At Risk
+16276,Customer 16276,,810.6000000000001,176,1,At Risk
+16278,Customer 16278,,566.38,100,1,At Risk
+16279,Customer 16279,,1509.58,21,3,High Value
+16281,Customer 16281,,2062.06,72,1,Regular
+16282,Customer 16282,,168.3,339,1,At Risk
+16283,Customer 16283,,1570.81,5,5,High Value
+16284,Customer 16284,,823.97,31,2,Regular
+16287,Customer 16287,,142.5,169,1,At Risk
+16292,Customer 16292,,302.25,121,1,At Risk
+16293,Customer 16293,,2248.9900000000002,21,10,High Value
+16295,Customer 16295,,1328.55,9,4,High Value
+16297,Customer 16297,,301.9,268,1,At Risk
+16298,Customer 16298,,598.2,22,3,Regular
+16302,Customer 16302,,233.22,126,1,At Risk
+16303,Customer 16303,,5360.63,25,3,High Value
+16305,Customer 16305,,361.21999999999997,138,1,At Risk
+16306,Customer 16306,,632.27,213,6,At Risk
+16308,Customer 16308,,2560.0,37,4,Regular
+16309,Customer 16309,,706.57,106,2,At Risk
+16311,Customer 16311,,616.26,17,2,Regular
+16313,Customer 16313,,274.15000000000003,3,2,Regular
+16315,Customer 16315,,226.37,330,1,At Risk
+16316,Customer 16316,,2938.91,64,8,Regular
+16317,Customer 16317,,1341.65,119,3,At Risk
+16318,Customer 16318,,328.15,35,1,Regular
+16319,Customer 16319,,404.40000000000003,217,1,At Risk
+16320,Customer 16320,,1038.46,172,2,At Risk
+16321,Customer 16321,,373.65000000000003,72,5,Regular
+16322,Customer 16322,,326.75,1,2,Regular
+16323,Customer 16323,,207.50000000000003,196,1,At Risk
+16324,Customer 16324,,428.68,128,3,At Risk
+16325,Customer 16325,,594.24,46,3,Regular
+16326,Customer 16326,,3110.96,5,14,High Value
+16327,Customer 16327,,3844.22,14,6,High Value
+16330,Customer 16330,,251.91,17,3,Regular
+16332,Customer 16332,,1593.2,28,7,High Value
+16333,Customer 16333,,26626.8,7,22,High Value
+16337,Customer 16337,,151.05,36,1,Regular
+16338,Customer 16338,,214.79999999999998,157,1,At Risk
+16339,Customer 16339,,109.95,284,1,At Risk
+16340,Customer 16340,,549.07,107,1,At Risk
+16341,Customer 16341,,1971.87,24,4,High Value
+16342,Customer 16342,,322.41,75,4,Regular
+16343,Customer 16343,,370.47999999999996,16,2,Regular
+16344,Customer 16344,,101.10000000000001,158,1,At Risk
+16345,Customer 16345,,575.41,44,1,Regular
+16347,Customer 16347,,887.65,11,2,Regular
+16348,Customer 16348,,1469.45,32,7,Regular
+16349,Customer 16349,,53.5,290,1,At Risk
+16350,Customer 16350,,1116.47,21,4,High Value
+16351,Customer 16351,,153.9,332,1,At Risk
+16352,Customer 16352,,494.44,17,2,Regular
+16353,Customer 16353,,6675.71,3,23,High Value
+16354,Customer 16354,,395.8,63,2,Regular
+16356,Customer 16356,,211.77,197,3,At Risk
+16357,Customer 16357,,658.88,33,3,Regular
+16358,Customer 16358,,2027.5,1,4,High Value
+16359,Customer 16359,,1750.92,7,9,High Value
+16360,Customer 16360,,3512.53,4,6,High Value
+16361,Customer 16361,,896.66,9,4,Regular
+16362,Customer 16362,,734.77,32,5,Regular
+16363,Customer 16363,,109.36000000000001,53,1,Regular
+16364,Customer 16364,,707.04,11,2,Regular
+16365,Customer 16365,,1540.42,17,9,High Value
+16366,Customer 16366,,327.3,18,1,Regular
+16367,Customer 16367,,804.49,37,2,Regular
+16368,Customer 16368,,497.43,2,2,Regular
+16369,Customer 16369,,1553.66,18,3,High Value
+16370,Customer 16370,,1320.56,82,4,Regular
+16372,Customer 16372,,367.93,33,2,Regular
+16374,Customer 16374,,473.03000000000003,66,2,Regular
+16376,Customer 16376,,987.01,8,2,Regular
+16377,Customer 16377,,676.2,267,1,At Risk
+16378,Customer 16378,,362.95,247,3,At Risk
+16379,Customer 16379,,2157.4,4,4,High Value
+16380,Customer 16380,,1780.59,61,1,Regular
+16383,Customer 16383,,668.36,74,2,Regular
+16384,Customer 16384,,584.5,89,2,Regular
+16385,Customer 16385,,555.89,60,3,Regular
+16386,Customer 16386,,317.2,28,2,Regular
+16387,Customer 16387,,94.36,322,1,At Risk
+16389,Customer 16389,,1382.07,53,4,Regular
+16392,Customer 16392,,221.19,269,1,At Risk
+16393,Customer 16393,,3046.21,2,13,High Value
+16394,Customer 16394,,1555.34,56,5,Regular
+16395,Customer 16395,,1486.9,60,5,Regular
+16398,Customer 16398,,1705.8,154,2,At Risk
+16399,Customer 16399,,408.57,19,2,Regular
+16400,Customer 16400,,303.93,94,1,At Risk
+16401,Customer 16401,,4098.32,1,12,High Value
+16402,Customer 16402,,299.6,264,2,At Risk
+16403,Customer 16403,,177.5,312,1,At Risk
+16404,Customer 16404,,443.05,70,1,Regular
+16405,Customer 16405,,167.25,302,2,At Risk
+16406,Customer 16406,,163.07,18,1,Regular
+16407,Customer 16407,,2126.93,12,10,High Value
+16409,Customer 16409,,2028.88,36,5,Regular
+16411,Customer 16411,,214.65,19,2,Regular
+16412,Customer 16412,,151.83,53,1,Regular
+16413,Customer 16413,,262.2,56,1,Regular
+16414,Customer 16414,,126.25,21,2,Regular
+16415,Customer 16415,,210.35,44,1,Regular
+16416,Customer 16416,,1051.4,26,3,High Value
+16418,Customer 16418,,675.27,44,3,Regular
+16419,Customer 16419,,972.23,112,6,At Risk
+16422,Customer 16422,,34684.4,17,51,High Value
+16423,Customer 16423,,346.12,24,1,Regular
+16424,Customer 16424,,133.56,191,1,At Risk
+16425,Customer 16425,,302.7,302,1,At Risk
+16426,Customer 16426,,1908.25,2,10,High Value
+16427,Customer 16427,,241.06,263,2,At Risk
+16429,Customer 16429,,284.55,106,1,At Risk
+16430,Customer 16430,,300.85,57,1,Regular
+16431,Customer 16431,,642.81,213,3,At Risk
+16432,Customer 16432,,287.4,64,1,Regular
+16433,Customer 16433,,184.26,28,1,Regular
+16434,Customer 16434,,1522.25,29,7,High Value
+16438,Customer 16438,,798.35,5,5,Regular
+16440,Customer 16440,,3640.67,7,5,High Value
+16441,Customer 16441,,381.2,67,2,Regular
+16442,Customer 16442,,616.79,1,3,Regular
+16444,Customer 16444,,654.67,46,4,Regular
+16445,Customer 16445,,230.51,33,1,Regular
+16446,Customer 16446,,168472.5,0,2,High Value
+16447,Customer 16447,,259.01,135,1,At Risk
+16448,Customer 16448,,188.89000000000001,198,1,At Risk
+16449,Customer 16449,,707.69,197,2,At Risk
+16450,Customer 16450,,311.92,149,1,At Risk
+16451,Customer 16451,,266.97,87,1,Regular
+16454,Customer 16454,,6.9,44,2,Regular
+16455,Customer 16455,,1841.18,63,7,Regular
+16456,Customer 16456,,2158.37,99,5,At Risk
+16457,Customer 16457,,208.36,218,1,At Risk
+16458,Customer 16458,,3482.7400000000002,2,18,High Value
+16460,Customer 16460,,814.72,28,3,Regular
+16461,Customer 16461,,151.42,177,1,At Risk
+16462,Customer 16462,,136.0,73,3,Regular
+16463,Customer 16463,,1422.4,21,4,High Value
+16464,Customer 16464,,1314.68,19,3,High Value
+16466,Customer 16466,,1603.46,33,7,Regular
+16468,Customer 16468,,74.9,74,1,Regular
+16469,Customer 16469,,650.43,23,4,Regular
+16470,Customer 16470,,762.39,51,4,Regular
+16471,Customer 16471,,223.95000000000002,274,1,At Risk
+16473,Customer 16473,,316.11,164,3,At Risk
+16474,Customer 16474,,1871.5,7,7,High Value
+16475,Customer 16475,,544.3,88,4,Regular
+16477,Customer 16477,,2494.46,63,7,Regular
+16478,Customer 16478,,331.0,25,3,Regular
+16479,Customer 16479,,300.83,10,2,Regular
+16480,Customer 16480,,769.29,75,1,Regular
+16482,Customer 16482,,220.62,15,1,Regular
+16483,Customer 16483,,139.35,192,1,At Risk
+16484,Customer 16484,,404.3,173,2,At Risk
+16485,Customer 16485,,363.65,77,1,Regular
+16488,Customer 16488,,498.8,33,3,Regular
+16491,Customer 16491,,731.5,46,1,Regular
+16493,Customer 16493,,1351.63,79,4,Regular
+16494,Customer 16494,,826.53,296,1,At Risk
+16495,Customer 16495,,684.41,3,3,Regular
+16496,Customer 16496,,1599.52,8,3,High Value
+16497,Customer 16497,,2965.69,49,6,Regular
+16498,Customer 16498,,100.97,161,2,At Risk
+16499,Customer 16499,,365.45,360,2,At Risk
+16500,Customer 16500,,400.86,4,6,Regular
+16503,Customer 16503,,1431.93,106,4,At Risk
+16504,Customer 16504,,484.38,25,1,Regular
+16505,Customer 16505,,777.6,31,1,Regular
+16506,Customer 16506,,90.30000000000001,19,2,Regular
+16509,Customer 16509,,363.7,296,1,At Risk
+16510,Customer 16510,,248.1,372,1,At Risk
+16511,Customer 16511,,950.26,21,3,Regular
+16513,Customer 16513,,874.59,4,4,Regular
+16515,Customer 16515,,1627.13,52,5,Regular
+16516,Customer 16516,,101.69999999999999,30,1,Regular
+16517,Customer 16517,,162.7,277,1,At Risk
+16518,Customer 16518,,484.32,61,2,Regular
+16519,Customer 16519,,215.07999999999998,25,2,Regular
+16520,Customer 16520,,1046.57,186,3,At Risk
+16523,Customer 16523,,9418.470000000001,1,21,High Value
+16525,Customer 16525,,13027.45,2,26,High Value
+16526,Customer 16526,,290.36,171,1,At Risk
+16527,Customer 16527,,228.06,81,1,Regular
+16528,Customer 16528,,244.41,3,1,Regular
+16529,Customer 16529,,455.25,190,1,At Risk
+16531,Customer 16531,,1244.59,22,7,High Value
+16532,Customer 16532,,6748.8,17,3,High Value
+16533,Customer 16533,,1095.56,19,3,High Value
+16535,Customer 16535,,593.75,5,1,Regular
+16536,Customer 16536,,548.97,110,1,At Risk
+16539,Customer 16539,,1388.81,2,4,High Value
+16542,Customer 16542,,119.62,53,1,Regular
+16545,Customer 16545,,339.3,164,1,At Risk
+16546,Customer 16546,,787.15,290,2,At Risk
+16549,Customer 16549,,4154.64,10,10,High Value
+16550,Customer 16550,,2298.97,108,5,At Risk
+16551,Customer 16551,,922.12,95,3,At Risk
+16552,Customer 16552,,379.73,242,2,At Risk
+16553,Customer 16553,,5719.82,163,12,At Risk
+16554,Customer 16554,,837.1,42,3,Regular
+16555,Customer 16555,,285.89,35,2,Regular
+16556,Customer 16556,,3313.79,66,7,Regular
+16557,Customer 16557,,281.85,24,2,Regular
+16558,Customer 16558,,8338.49,0,20,High Value
+16560,Customer 16560,,841.41,26,2,Regular
+16561,Customer 16561,,511.12,5,2,Regular
+16563,Customer 16563,,1077.74,53,1,Regular
+16565,Customer 16565,,173.7,364,1,At Risk
+16566,Customer 16566,,614.66,15,5,Regular
+16567,Customer 16567,,865.6,194,2,At Risk
+16569,Customer 16569,,124.2,3,1,Regular
+16570,Customer 16570,,3738.4,15,10,High Value
+16571,Customer 16571,,1421.69,26,3,High Value
+16572,Customer 16572,,1009.6,127,3,At Risk
+16573,Customer 16573,,663.61,84,2,Regular
+16574,Customer 16574,,451.44,71,1,Regular
+16581,Customer 16581,,105.84,182,1,At Risk
+16582,Customer 16582,,313.62,113,1,At Risk
+16583,Customer 16583,,233.45,373,1,At Risk
+16584,Customer 16584,,936.08,80,2,Regular
+16586,Customer 16586,,463.95,248,1,At Risk
+16587,Customer 16587,,225.15,232,1,At Risk
+16589,Customer 16589,,459.24,71,3,Regular
+16591,Customer 16591,,213.5,68,1,Regular
+16592,Customer 16592,,4113.68,4,16,High Value
+16593,Customer 16593,,330.03,50,3,Regular
+16594,Customer 16594,,181.09,75,1,Regular
+16595,Customer 16595,,360.16,61,1,Regular
+16596,Customer 16596,,250.15,15,2,Regular
+16597,Customer 16597,,90.04,4,1,Regular
+16598,Customer 16598,,145.04999999999998,285,1,At Risk
+16600,Customer 16600,,813.52,4,6,Regular
+16601,Customer 16601,,244.79999999999998,40,1,Regular
+16602,Customer 16602,,528.08,36,1,Regular
+16603,Customer 16603,,482.47,74,2,Regular
+16607,Customer 16607,,3347.71,17,14,High Value
+16609,Customer 16609,,5493.46,15,7,High Value
+16610,Customer 16610,,75.66,219,1,At Risk
+16611,Customer 16611,,129.49,186,1,At Risk
+16612,Customer 16612,,1187.66,32,4,Regular
+16613,Customer 16613,,618.59,70,1,Regular
+16614,Customer 16614,,506.19,182,1,At Risk
+16616,Customer 16616,,500.42,15,2,Regular
+16617,Customer 16617,,151.85,235,1,At Risk
+16618,Customer 16618,,2647.59,31,5,Regular
+16619,Customer 16619,,226.21,263,1,At Risk
+16620,Customer 16620,,178.96,3,2,Regular
+16621,Customer 16621,,813.48,51,4,Regular
+16623,Customer 16623,,129.45,245,1,At Risk
+16624,Customer 16624,,810.5699999999999,80,2,Regular
+16625,Customer 16625,,333.08,274,1,At Risk
+16626,Customer 16626,,4413.1,0,17,High Value
+16627,Customer 16627,,322.8,79,1,Regular
+16628,Customer 16628,,2188.05,29,5,High Value
+16629,Customer 16629,,417.73,73,2,Regular
+16633,Customer 16633,,2883.1,17,6,High Value
+16634,Customer 16634,,217.9,222,2,At Risk
+16637,Customer 16637,,1154.47,32,4,Regular
+16638,Customer 16638,,1680.72,22,10,High Value
+16639,Customer 16639,,1257.51,31,3,Regular
+16641,Customer 16641,,231.10000000000002,105,1,At Risk
+16642,Customer 16642,,688.33,4,2,Regular
+16643,Customer 16643,,487.51,245,1,At Risk
+16644,Customer 16644,,833.78,177,2,At Risk
+16647,Customer 16647,,214.06,169,2,At Risk
+16648,Customer 16648,,290.65999999999997,42,1,Regular
+16650,Customer 16650,,518.42,71,1,Regular
+16652,Customer 16652,,6773.97,58,7,Regular
+16653,Customer 16653,,1212.66,16,2,High Value
+16654,Customer 16654,,601.27,141,4,At Risk
+16655,Customer 16655,,3794.52,17,6,High Value
+16656,Customer 16656,,8625.8,22,15,High Value
+16657,Customer 16657,,933.62,9,4,Regular
+16658,Customer 16658,,123.24,368,1,At Risk
+16659,Customer 16659,,39.12,189,1,At Risk
+16660,Customer 16660,,1267.6499999999999,16,4,High Value
+16665,Customer 16665,,135.39999999999998,362,1,At Risk
+16666,Customer 16666,,118.98,19,1,Regular
+16667,Customer 16667,,570.13,68,2,Regular
+16668,Customer 16668,,306.71999999999997,15,6,Regular
+16669,Customer 16669,,1374.8700000000001,23,3,High Value
+16670,Customer 16670,,4095.9,16,11,High Value
+16671,Customer 16671,,1692.27,28,3,High Value
+16672,Customer 16672,,8134.9400000000005,2,20,High Value
+16674,Customer 16674,,319.61,54,2,Regular
+16676,Customer 16676,,1592.1200000000001,33,4,Regular
+16678,Customer 16678,,3109.99,2,12,High Value
+16679,Customer 16679,,129.75,366,1,At Risk
+16680,Customer 16680,,183.7,43,1,Regular
+16681,Customer 16681,,1770.34,72,6,Regular
+16682,Customer 16682,,1028.0,4,5,High Value
+16684,Customer 16684,,66653.56,4,28,High Value
+16685,Customer 16685,,324.24,61,2,Regular
+16686,Customer 16686,,3062.83,47,7,Regular
+16688,Customer 16688,,1260.86,1,4,High Value
+16689,Customer 16689,,422.59999999999997,75,2,Regular
+16690,Customer 16690,,225.57999999999998,72,2,Regular
+16692,Customer 16692,,1276.0,256,2,At Risk
+16693,Customer 16693,,482.01,68,2,Regular
+16696,Customer 16696,,657.9000000000001,135,4,At Risk
+16697,Customer 16697,,112.75,241,1,At Risk
+16698,Customer 16698,,1998.0,226,2,At Risk
+16700,Customer 16700,,5076.55,8,13,High Value
+16701,Customer 16701,,5398.3,8,13,High Value
+16705,Customer 16705,,14034.99,0,20,High Value
+16706,Customer 16706,,531.35,37,3,Regular
+16708,Customer 16708,,656.63,45,1,Regular
+16709,Customer 16709,,3029.87,84,5,Regular
+16710,Customer 16710,,2483.04,19,10,High Value
+16711,Customer 16711,,1651.03,3,5,High Value
+16712,Customer 16712,,3645.43,9,11,High Value
+16713,Customer 16713,,6923.13,18,15,High Value
+16714,Customer 16714,,1161.53,218,3,At Risk
+16715,Customer 16715,,301.71999999999997,78,1,Regular
+16716,Customer 16716,,901.2,266,2,At Risk
+16717,Customer 16717,,3858.38,23,6,High Value
+16718,Customer 16718,,623.75,369,1,At Risk
+16719,Customer 16719,,1790.42,14,7,High Value
+16720,Customer 16720,,155.24,26,1,Regular
+16721,Customer 16721,,292.47,262,1,At Risk
+16722,Customer 16722,,4730.81,17,13,High Value
+16723,Customer 16723,,589.15,91,2,At Risk
+16725,Customer 16725,,781.02,302,7,At Risk
+16726,Customer 16726,,1382.02,26,5,High Value
+16727,Customer 16727,,272.82,364,1,At Risk
+16728,Customer 16728,,1054.67,46,4,Regular
+16729,Customer 16729,,7239.92,38,21,Regular
+16730,Customer 16730,,743.11,52,3,Regular
+16732,Customer 16732,,603.75,31,1,Regular
+16734,Customer 16734,,650.51,52,3,Regular
+16735,Customer 16735,,2300.56,78,5,Regular
+16737,Customer 16737,,417.59999999999997,53,1,Regular
+16738,Customer 16738,,3.75,297,1,At Risk
+16739,Customer 16739,,323.0,176,1,At Risk
+16742,Customer 16742,,464.9,46,1,Regular
+16743,Customer 16743,,2238.09,29,7,High Value
+16744,Customer 16744,,1304.76,11,7,High Value
+16745,Customer 16745,,7194.3,86,17,Regular
+16746,Customer 16746,,6697.66,4,18,High Value
+16747,Customer 16747,,836.06,37,2,Regular
+16748,Customer 16748,,1515.9,17,5,High Value
+16750,Customer 16750,,623.93,44,5,Regular
+16751,Customer 16751,,1764.72,30,1,High Value
+16752,Customer 16752,,207.5,372,1,At Risk
+16753,Customer 16753,,223.92000000000002,58,1,Regular
+16754,Customer 16754,,2002.4,372,1,At Risk
+16755,Customer 16755,,1496.83,114,3,At Risk
+16756,Customer 16756,,239.4,214,1,At Risk
+16757,Customer 16757,,106.83000000000001,318,1,At Risk
+16758,Customer 16758,,369.34000000000003,65,1,Regular
+16759,Customer 16759,,789.79,7,3,Regular
+16761,Customer 16761,,316.62,96,1,At Risk
+16762,Customer 16762,,1501.38,19,3,High Value
+16763,Customer 16763,,611.85,198,1,At Risk
+16764,Customer 16764,,2799.25,3,13,High Value
+16765,Customer 16765,,34.0,294,1,At Risk
+16766,Customer 16766,,1145.6,273,2,At Risk
+16767,Customer 16767,,5580.6,30,11,High Value
+16768,Customer 16768,,478.09000000000003,47,3,Regular
+16769,Customer 16769,,380.39,260,1,At Risk
+16770,Customer 16770,,770.1,57,5,Regular
+16771,Customer 16771,,2246.81,33,5,Regular
+16773,Customer 16773,,171.59,57,1,Regular
+16774,Customer 16774,,661.52,67,4,Regular
+16775,Customer 16775,,1695.66,10,11,High Value
+16776,Customer 16776,,388.28,60,1,Regular
+16777,Customer 16777,,226.35,80,2,Regular
+16778,Customer 16778,,245.94,74,2,Regular
+16779,Customer 16779,,10629.720000000001,2,22,High Value
+16780,Customer 16780,,425.19,100,2,At Risk
+16781,Customer 16781,,311.25,372,1,At Risk
+16782,Customer 16782,,2279.9,10,13,High Value
+16784,Customer 16784,,107.6,19,1,Regular
+16788,Customer 16788,,597.48,123,2,At Risk
+16789,Customer 16789,,80.8,8,1,Regular
+16790,Customer 16790,,1545.6200000000001,3,6,High Value
+16791,Customer 16791,,1721.78,29,7,High Value
+16792,Customer 16792,,110.38000000000001,282,2,At Risk
+16793,Customer 16793,,243.84,57,1,Regular
+16794,Customer 16794,,1222.71,1,10,High Value
+16795,Customer 16795,,414.88,365,1,At Risk
+16796,Customer 16796,,305.62,89,1,Regular
+16800,Customer 16800,,1201.49,11,1,High Value
+16801,Customer 16801,,1619.73,163,4,At Risk
+16803,Customer 16803,,332.3,65,1,Regular
+16804,Customer 16804,,536.99,23,3,Regular
+16805,Customer 16805,,460.59,173,2,At Risk
+16806,Customer 16806,,801.49,103,4,At Risk
+16807,Customer 16807,,1121.59,142,3,At Risk
+16808,Customer 16808,,288.42,99,2,At Risk
+16809,Customer 16809,,914.69,23,5,Regular
+16810,Customer 16810,,309.54,192,1,At Risk
+16811,Customer 16811,,547.07,4,2,Regular
+16812,Customer 16812,,479.35,360,1,At Risk
+16813,Customer 16813,,1692.98,8,10,High Value
+16814,Customer 16814,,6509.1,14,21,High Value
+16816,Customer 16816,,417.06,103,4,At Risk
+16817,Customer 16817,,1604.75,2,9,High Value
+16818,Customer 16818,,3349.57,10,11,High Value
+16820,Customer 16820,,497.61,95,1,At Risk
+16823,Customer 16823,,358.38,227,1,At Risk
+16824,Customer 16824,,460.64,15,2,Regular
+16825,Customer 16825,,775.1800000000001,38,2,Regular
+16826,Customer 16826,,341.7,51,1,Regular
+16828,Customer 16828,,128.5,93,2,At Risk
+16829,Customer 16829,,197.22,156,1,At Risk
+16830,Customer 16830,,325.91,38,1,Regular
+16832,Customer 16832,,199.15,184,3,At Risk
+16833,Customer 16833,,1106.53,1,4,High Value
+16834,Customer 16834,,413.46,227,1,At Risk
+16835,Customer 16835,,180.85,128,2,At Risk
+16836,Customer 16836,,251.87,39,2,Regular
+16837,Customer 16837,,3170.98,31,11,Regular
+16838,Customer 16838,,588.85,197,2,At Risk
+16839,Customer 16839,,16594.35,8,34,High Value
+16841,Customer 16841,,1869.82,36,6,Regular
+16842,Customer 16842,,1264.19,100,3,At Risk
+16843,Customer 16843,,10196.57,42,16,Regular
+16846,Customer 16846,,214.32,50,1,Regular
+16847,Customer 16847,,193.44,43,1,Regular
+16848,Customer 16848,,281.42,52,1,Regular
+16849,Customer 16849,,124.57,186,1,At Risk
+16850,Customer 16850,,332.41,333,1,At Risk
+16851,Customer 16851,,342.45,4,3,Regular
+16852,Customer 16852,,144.91000000000003,10,2,Regular
+16855,Customer 16855,,328.4,23,2,Regular
+16856,Customer 16856,,35.400000000000006,14,1,Regular
+16858,Customer 16858,,375.69000000000005,368,1,At Risk
+16859,Customer 16859,,747.81,144,2,At Risk
+16861,Customer 16861,,173.76,59,2,Regular
+16863,Customer 16863,,502.8,31,2,Regular
+16866,Customer 16866,,207.73999999999998,140,3,At Risk
+16869,Customer 16869,,825.42,22,4,Regular
+16871,Customer 16871,,2812.34,22,6,High Value
+16872,Customer 16872,,680.02,77,3,Regular
+16873,Customer 16873,,7123.62,4,6,High Value
+16875,Customer 16875,,2095.53,67,5,Regular
+16877,Customer 16877,,853.72,12,6,Regular
+16878,Customer 16878,,13.3,84,1,Regular
+16880,Customer 16880,,1519.08,30,7,High Value
+16881,Customer 16881,,432.0,66,1,Regular
+16882,Customer 16882,,705.12,66,3,Regular
+16883,Customer 16883,,276.73,187,2,At Risk
+16884,Customer 16884,,429.84000000000003,37,2,Regular
+16885,Customer 16885,,471.51,15,3,Regular
+16887,Customer 16887,,194.88,35,1,Regular
+16889,Customer 16889,,1578.67,194,3,At Risk
+16891,Customer 16891,,809.7,1,5,Regular
+16892,Customer 16892,,525.54,1,5,Regular
+16893,Customer 16893,,145.93,366,1,At Risk
+16895,Customer 16895,,219.14,64,1,Regular
+16897,Customer 16897,,289.78,299,2,At Risk
+16898,Customer 16898,,508.81,26,3,Regular
+16899,Customer 16899,,1281.56,7,6,High Value
+16900,Customer 16900,,887.11,16,3,Regular
+16902,Customer 16902,,1706.88,116,1,At Risk
+16903,Customer 16903,,373.24,29,1,Regular
+16904,Customer 16904,,3754.27,4,16,High Value
+16905,Customer 16905,,3102.43,5,7,High Value
+16906,Customer 16906,,579.77,81,4,Regular
+16907,Customer 16907,,981.65,29,5,Regular
+16909,Customer 16909,,379.14,72,1,Regular
+16910,Customer 16910,,1510.06,4,8,High Value
+16912,Customer 16912,,2575.38,28,11,High Value
+16913,Customer 16913,,113.44,290,1,At Risk
+16914,Customer 16914,,208.46,36,1,Regular
+16915,Customer 16915,,621.6800000000001,9,6,Regular
+16916,Customer 16916,,576.26,23,2,Regular
+16917,Customer 16917,,391.52,276,1,At Risk
+16918,Customer 16918,,1068.82,49,6,Regular
+16919,Customer 16919,,2596.45,156,11,At Risk
+16921,Customer 16921,,169.79,61,1,Regular
+16923,Customer 16923,,7247.61,12,19,High Value
+16924,Customer 16924,,846.75,21,3,Regular
+16926,Customer 16926,,230.25,371,1,At Risk
+16927,Customer 16927,,543.05,115,3,At Risk
+16928,Customer 16928,,2847.6,80,17,Regular
+16929,Customer 16929,,1295.39,3,7,High Value
+16930,Customer 16930,,380.55,26,3,Regular
+16931,Customer 16931,,4604.22,5,21,High Value
+16932,Customer 16932,,161.94,53,1,Regular
+16933,Customer 16933,,563.23,1,2,Regular
+16934,Customer 16934,,950.9300000000001,54,2,Regular
+16936,Customer 16936,,262.68,25,1,Regular
+16938,Customer 16938,,2736.38,8,4,High Value
+16940,Customer 16940,,3049.88,52,3,Regular
+16942,Customer 16942,,1920.59,12,9,High Value
+16943,Customer 16943,,816.73,211,3,At Risk
+16945,Customer 16945,,4345.5,21,19,High Value
+16947,Customer 16947,,406.48,235,1,At Risk
+16948,Customer 16948,,435.02,138,3,At Risk
+16949,Customer 16949,,1286.27,3,6,High Value
+16950,Customer 16950,,1178.56,56,3,Regular
+16951,Customer 16951,,1277.75,134,3,At Risk
+16952,Customer 16952,,167.61,109,2,At Risk
+16953,Customer 16953,,20.8,30,1,Regular
+16954,Customer 16954,,2085.08,0,9,High Value
+16955,Customer 16955,,518.67,184,4,At Risk
+16956,Customer 16956,,308.74,17,1,Regular
+16957,Customer 16957,,416.64,239,2,At Risk
+16959,Customer 16959,,117.35000000000001,87,1,Regular
+16960,Customer 16960,,507.05,38,3,Regular
+16961,Customer 16961,,234.17,116,1,At Risk
+16963,Customer 16963,,110.55000000000001,187,1,At Risk
+16965,Customer 16965,,201.19,226,1,At Risk
+16966,Customer 16966,,2154.97,8,7,High Value
+16967,Customer 16967,,319.02,189,1,At Risk
+16968,Customer 16968,,439.43,4,2,Regular
+16969,Customer 16969,,650.41,39,3,Regular
+16971,Customer 16971,,357.21,38,1,Regular
+16976,Customer 16976,,251.51999999999998,267,1,At Risk
+16978,Customer 16978,,344.33,77,1,Regular
+16979,Customer 16979,,1852.0,3,6,High Value
+16980,Customer 16980,,1078.96,255,2,At Risk
+16982,Customer 16982,,384.06,60,1,Regular
+16983,Customer 16983,,1931.25,12,7,High Value
+16984,Customer 16984,,4481.35,88,2,Regular
+16985,Customer 16985,,5464.12,17,10,High Value
+16986,Customer 16986,,1873.2,29,2,High Value
+16987,Customer 16987,,1625.05,3,7,High Value
+16988,Customer 16988,,126.12,5,1,Regular
+16989,Customer 16989,,1133.25,7,6,High Value
+16990,Customer 16990,,179.0,218,1,At Risk
+16992,Customer 16992,,1614.31,10,5,High Value
+16996,Customer 16996,,1456.96,30,6,High Value
+16997,Customer 16997,,702.0,288,3,At Risk
+16998,Customer 16998,,295.0,149,4,At Risk
+16999,Customer 16999,,484.82,23,2,Regular
+17001,Customer 17001,,3989.57,0,11,High Value
+17002,Customer 17002,,1493.73,85,3,Regular
+17004,Customer 17004,,1412.94,46,2,Regular
+17006,Customer 17006,,781.78,4,4,Regular
+17007,Customer 17007,,889.9300000000001,50,6,Regular
+17010,Customer 17010,,195.36,18,1,Regular
+17011,Customer 17011,,270.9,30,1,Regular
+17014,Customer 17014,,586.33,8,3,Regular
+17015,Customer 17015,,1842.56,28,3,High Value
+17017,Customer 17017,,8694.26,2,20,High Value
+17018,Customer 17018,,920.1,40,2,Regular
+17019,Customer 17019,,1272.61,11,4,High Value
+17022,Customer 17022,,71.0,31,1,Regular
+17024,Customer 17024,,95.85,45,3,Regular
+17025,Customer 17025,,357.77,60,3,Regular
+17026,Customer 17026,,154.82999999999998,185,2,At Risk
+17027,Customer 17027,,890.29,78,6,Regular
+17029,Customer 17029,,716.0,110,2,At Risk
+17030,Customer 17030,,146.87,63,1,Regular
+17031,Customer 17031,,380.35,11,2,Regular
+17033,Customer 17033,,1030.14,86,3,Regular
+17034,Customer 17034,,745.52,16,3,Regular
+17035,Customer 17035,,433.53000000000003,245,2,At Risk
+17037,Customer 17037,,1267.32,87,1,Regular
+17038,Customer 17038,,112.4,30,1,Regular
+17040,Customer 17040,,449.73,137,1,At Risk
+17041,Customer 17041,,1081.57,26,3,High Value
+17042,Customer 17042,,1044.3799999999999,2,5,High Value
+17043,Customer 17043,,1735.18,32,4,Regular
+17044,Customer 17044,,948.48,25,1,Regular
+17045,Customer 17045,,339.44,113,3,At Risk
+17046,Customer 17046,,642.02,157,1,At Risk
+17047,Customer 17047,,1100.9,85,3,Regular
+17048,Customer 17048,,925.35,117,3,At Risk
+17049,Customer 17049,,5659.9800000000005,2,9,High Value
+17050,Customer 17050,,3228.84,96,6,At Risk
+17051,Customer 17051,,247.14000000000001,194,1,At Risk
+17052,Customer 17052,,413.75,28,1,Regular
+17053,Customer 17053,,498.48,130,1,At Risk
+17054,Customer 17054,,1356.33,28,5,High Value
+17058,Customer 17058,,1179.89,81,3,Regular
+17059,Customer 17059,,3095.04,29,5,High Value
+17060,Customer 17060,,234.24,266,1,At Risk
+17061,Customer 17061,,5232.2300000000005,73,11,Regular
+17062,Customer 17062,,538.37,313,4,At Risk
+17063,Customer 17063,,1461.14,21,7,High Value
+17064,Customer 17064,,859.35,58,3,Regular
+17068,Customer 17068,,4552.14,12,21,High Value
+17069,Customer 17069,,2709.7000000000003,28,9,High Value
+17070,Customer 17070,,312.14,114,1,At Risk
+17071,Customer 17071,,2429.03,28,9,High Value
+17073,Customer 17073,,1446.09,17,4,High Value
+17075,Customer 17075,,834.12,17,4,Regular
+17076,Customer 17076,,841.0799999999999,36,3,Regular
+17078,Customer 17078,,378.2,36,2,Regular
+17079,Customer 17079,,118.80000000000001,78,1,Regular
+17080,Customer 17080,,287.62,22,2,Regular
+17081,Customer 17081,,290.16,25,2,Regular
+17082,Customer 17082,,2003.85,33,2,Regular
+17083,Customer 17083,,1405.78,109,3,At Risk
+17084,Customer 17084,,2949.75,35,2,Regular
+17085,Customer 17085,,1566.65,123,5,At Risk
+17086,Customer 17086,,2050.08,7,6,High Value
+17088,Customer 17088,,1991.01,28,4,High Value
+17090,Customer 17090,,2043.95,4,7,High Value
+17091,Customer 17091,,3827.76,2,9,High Value
+17092,Customer 17092,,1777.78,50,4,Regular
+17094,Customer 17094,,302.0,322,1,At Risk
+17095,Customer 17095,,1324.16,22,3,High Value
+17096,Customer 17096,,1022.13,15,4,High Value
+17097,Customer 17097,,954.42,2,8,Regular
+17100,Customer 17100,,971.74,18,2,Regular
+17101,Customer 17101,,1621.73,10,4,High Value
+17102,Customer 17102,,25.5,261,1,At Risk
+17105,Customer 17105,,665.78,159,2,At Risk
+17107,Customer 17107,,10815.43,33,6,Regular
+17109,Customer 17109,,885.04,29,6,Regular
+17110,Customer 17110,,163.29999999999998,165,1,At Risk
+17111,Customer 17111,,248.61,47,1,Regular
+17114,Customer 17114,,808.62,5,8,Regular
+17115,Customer 17115,,837.5,8,3,Regular
+17117,Customer 17117,,116.19999999999999,288,1,At Risk
+17118,Customer 17118,,157.02,317,1,At Risk
+17119,Customer 17119,,606.91,3,2,Regular
+17120,Customer 17120,,307.46,233,1,At Risk
+17122,Customer 17122,,138.32,119,1,At Risk
+17123,Customer 17123,,345.29999999999995,161,1,At Risk
+17124,Customer 17124,,298.89,185,1,At Risk
+17125,Customer 17125,,259.35,50,1,Regular
+17126,Customer 17126,,1004.75,152,5,At Risk
+17128,Customer 17128,,157.09,334,1,At Risk
+17131,Customer 17131,,2463.17,5,5,High Value
+17133,Customer 17133,,4892.240000000001,15,7,High Value
+17134,Customer 17134,,425.0,106,2,At Risk
+17135,Customer 17135,,1139.73,16,7,High Value
+17138,Customer 17138,,380.5,275,1,At Risk
+17139,Customer 17139,,10668.47,15,12,High Value
+17140,Customer 17140,,465.32,247,1,At Risk
+17142,Customer 17142,,579.0,239,1,At Risk
+17144,Customer 17144,,984.57,1,2,Regular
+17146,Customer 17146,,749.78,105,3,At Risk
+17147,Customer 17147,,1714.59,22,4,High Value
+17148,Customer 17148,,124.88,51,1,Regular
+17152,Customer 17152,,1689.5,194,3,At Risk
+17153,Customer 17153,,213.78,24,1,Regular
+17154,Customer 17154,,329.34,75,1,Regular
+17155,Customer 17155,,251.70000000000002,17,2,Regular
+17157,Customer 17157,,319.0,7,2,Regular
+17158,Customer 17158,,1266.97,32,3,Regular
+17159,Customer 17159,,1538.88,21,3,High Value
+17160,Customer 17160,,3518.03,31,6,Regular
+17162,Customer 17162,,1715.46,28,10,High Value
+17163,Customer 17163,,293.1,21,2,Regular
+17164,Customer 17164,,2467.35,32,7,Regular
+17165,Customer 17165,,158.68,284,1,At Risk
+17166,Customer 17166,,206.34,38,2,Regular
+17169,Customer 17169,,835.78,57,2,Regular
+17171,Customer 17171,,224.91,289,1,At Risk
+17172,Customer 17172,,317.76,78,1,Regular
+17173,Customer 17173,,3766.6,5,8,High Value
+17174,Customer 17174,,59.9,217,1,At Risk
+17175,Customer 17175,,1443.69,44,4,Regular
+17176,Customer 17176,,306.13,201,1,At Risk
+17179,Customer 17179,,711.79,178,3,At Risk
+17180,Customer 17180,,796.03,56,4,Regular
+17181,Customer 17181,,239.92000000000002,57,2,Regular
+17183,Customer 17183,,3347.31,7,6,High Value
+17186,Customer 17186,,144.0,46,2,Regular
+17187,Customer 17187,,203.95,226,1,At Risk
+17188,Customer 17188,,2474.23,11,7,High Value
+17189,Customer 17189,,384.40000000000003,106,2,At Risk
+17190,Customer 17190,,444.74,58,2,Regular
+17191,Customer 17191,,2095.13,28,7,High Value
+17193,Customer 17193,,1699.3000000000002,35,7,Regular
+17194,Customer 17194,,262.62,273,2,At Risk
+17197,Customer 17197,,1013.01,29,1,High Value
+17198,Customer 17198,,692.22,23,3,Regular
+17201,Customer 17201,,342.63,53,1,Regular
+17203,Customer 17203,,3563.85,35,6,Regular
+17204,Customer 17204,,1564.56,175,4,At Risk
+17205,Customer 17205,,384.08,53,1,Regular
+17206,Customer 17206,,204.24,53,1,Regular
+17211,Customer 17211,,2317.2200000000003,26,8,High Value
+17212,Customer 17212,,226.85,253,1,At Risk
+17213,Customer 17213,,2781.23,40,7,Regular
+17214,Customer 17214,,1069.1200000000001,60,6,Regular
+17217,Customer 17217,,113.5,234,1,At Risk
+17218,Customer 17218,,1960.72,4,10,High Value
+17219,Customer 17219,,114.23,31,1,Regular
+17220,Customer 17220,,3198.25,24,14,High Value
+17221,Customer 17221,,335.13,7,2,Regular
+17222,Customer 17222,,354.15,65,1,Regular
+17223,Customer 17223,,426.79,310,2,At Risk
+17226,Customer 17226,,393.49,308,1,At Risk
+17227,Customer 17227,,939.32,18,6,Regular
+17228,Customer 17228,,1906.09,15,8,High Value
+17229,Customer 17229,,318.76,96,2,At Risk
+17230,Customer 17230,,3638.41,264,8,At Risk
+17231,Customer 17231,,3174.32,12,10,High Value
+17232,Customer 17232,,421.52,2,2,Regular
+17233,Customer 17233,,190.88,35,1,Regular
+17234,Customer 17234,,149.89000000000001,182,1,At Risk
+17235,Customer 17235,,550.06,25,2,Regular
+17236,Customer 17236,,916.13,12,6,Regular
+17237,Customer 17237,,314.69,11,2,Regular
+17238,Customer 17238,,3744.65,2,17,High Value
+17239,Customer 17239,,382.5,312,1,At Risk
+17242,Customer 17242,,1135.04,108,2,At Risk
+17243,Customer 17243,,8676.85,1,26,High Value
+17244,Customer 17244,,954.9,53,1,Regular
+17245,Customer 17245,,171.45,204,1,At Risk
+17247,Customer 17247,,282.19,15,1,Regular
+17248,Customer 17248,,318.65,120,1,At Risk
+17250,Customer 17250,,384.52,3,2,Regular
+17251,Customer 17251,,283.28000000000003,362,1,At Risk
+17252,Customer 17252,,353.86,116,2,At Risk
+17253,Customer 17253,,178.26,18,1,Regular
+17254,Customer 17254,,272.44,4,2,Regular
+17255,Customer 17255,,298.41,40,2,Regular
+17256,Customer 17256,,240.0,107,2,At Risk
+17259,Customer 17259,,603.37,148,2,At Risk
+17262,Customer 17262,,1253.3600000000001,52,5,Regular
+17263,Customer 17263,,63.440000000000005,208,1,At Risk
+17265,Customer 17265,,562.9,138,2,At Risk
+17266,Customer 17266,,310.64,2,3,Regular
+17267,Customer 17267,,317.62,127,2,At Risk
+17268,Customer 17268,,763.64,107,4,At Risk
+17272,Customer 17272,,2148.63,42,4,Regular
+17274,Customer 17274,,111.97999999999999,35,1,Regular
+17277,Customer 17277,,1065.3500000000001,227,2,At Risk
+17278,Customer 17278,,246.04,241,1,At Risk
+17279,Customer 17279,,187.82999999999998,57,1,Regular
+17282,Customer 17282,,1703.41,130,3,At Risk
+17284,Customer 17284,,1652.58,60,6,Regular
+17286,Customer 17286,,153.92,21,1,Regular
+17287,Customer 17287,,1064.11,26,7,High Value
+17288,Customer 17288,,1419.73,9,7,High Value
+17289,Customer 17289,,944.41,31,3,Regular
+17290,Customer 17290,,525.24,3,2,Regular
+17291,Customer 17291,,550.8000000000001,308,1,At Risk
+17293,Customer 17293,,1875.1100000000001,8,9,High Value
+17295,Customer 17295,,556.95,28,3,Regular
+17297,Customer 17297,,131.78,17,1,Regular
+17298,Customer 17298,,498.42,101,2,At Risk
+17299,Customer 17299,,669.11,11,4,Regular
+17301,Customer 17301,,197.63,21,1,Regular
+17302,Customer 17302,,1135.63,14,5,High Value
+17303,Customer 17303,,250.04,361,1,At Risk
+17306,Customer 17306,,8631.31,10,19,High Value
+17309,Customer 17309,,82.75,95,1,At Risk
+17311,Customer 17311,,1384.85,78,2,Regular
+17312,Customer 17312,,644.3,138,3,At Risk
+17313,Customer 17313,,2328.84,31,1,Regular
+17314,Customer 17314,,2527.92,24,8,High Value
+17315,Customer 17315,,6292.26,1,38,High Value
+17317,Customer 17317,,2600.34,46,3,Regular
+17320,Customer 17320,,1200.6200000000001,100,3,At Risk
+17321,Customer 17321,,700.86,8,2,Regular
+17323,Customer 17323,,921.07,15,7,Regular
+17324,Customer 17324,,990.23,17,4,Regular
+17325,Customer 17325,,96.8,280,1,At Risk
+17329,Customer 17329,,523.11,14,2,Regular
+17330,Customer 17330,,363.9,22,2,Regular
+17331,Customer 17331,,175.2,123,1,At Risk
+17333,Customer 17333,,494.25,85,1,Regular
+17334,Customer 17334,,307.02,302,2,At Risk
+17337,Customer 17337,,2027.8700000000001,151,4,At Risk
+17338,Customer 17338,,6643.93,17,8,High Value
+17339,Customer 17339,,243.36,94,2,At Risk
+17340,Customer 17340,,12353.29,29,11,High Value
+17341,Customer 17341,,781.36,156,3,At Risk
+17343,Customer 17343,,193.64,355,1,At Risk
+17344,Customer 17344,,160.57,46,1,Regular
+17345,Customer 17345,,537.74,15,4,Regular
+17346,Customer 17346,,2676.56,3,15,High Value
+17347,Customer 17347,,228.96,86,1,Regular
+17348,Customer 17348,,1159.52,14,5,High Value
+17349,Customer 17349,,110.75,179,1,At Risk
+17350,Customer 17350,,1286.07,8,4,High Value
+17351,Customer 17351,,587.15,36,3,Regular
+17353,Customer 17353,,1740.0,129,2,At Risk
+17354,Customer 17354,,1393.06,50,1,Regular
+17356,Customer 17356,,178.22,311,1,At Risk
+17357,Customer 17357,,388.14,24,2,Regular
+17358,Customer 17358,,365.85,303,2,At Risk
+17359,Customer 17359,,127.86,11,1,Regular
+17360,Customer 17360,,585.79,17,3,Regular
+17361,Customer 17361,,488.2,49,3,Regular
+17362,Customer 17362,,312.23,239,2,At Risk
+17364,Customer 17364,,4481.18,0,11,High Value
+17365,Customer 17365,,4801.56,12,8,High Value
+17367,Customer 17367,,168.4,238,1,At Risk
+17368,Customer 17368,,1912.67,23,8,High Value
+17370,Customer 17370,,446.18,72,4,Regular
+17371,Customer 17371,,423.89,17,3,Regular
+17372,Customer 17372,,1342.68,40,8,Regular
+17373,Customer 17373,,646.92,40,4,Regular
+17374,Customer 17374,,495.77,218,2,At Risk
+17375,Customer 17375,,400.1,199,3,At Risk
+17376,Customer 17376,,203.2,70,2,Regular
+17377,Customer 17377,,4100.92,23,20,High Value
+17379,Customer 17379,,404.66,11,1,Regular
+17381,Customer 17381,,20275.61,8,29,High Value
+17382,Customer 17382,,65.4,65,1,Regular
+17383,Customer 17383,,199.29,4,1,Regular
+17384,Customer 17384,,336.4,19,2,Regular
+17385,Customer 17385,,261.11,14,1,Regular
+17386,Customer 17386,,2686.42,7,6,High Value
+17387,Customer 17387,,784.11,19,2,Regular
+17388,Customer 17388,,1259.56,77,4,Regular
+17389,Customer 17389,,31833.68,0,34,High Value
+17391,Customer 17391,,508.8,163,2,At Risk
+17392,Customer 17392,,457.91,306,2,At Risk
+17394,Customer 17394,,203.86999999999998,219,1,At Risk
+17396,Customer 17396,,7330.8,39,8,Regular
+17397,Customer 17397,,696.41,22,2,Regular
+17398,Customer 17398,,653.38,114,3,At Risk
+17400,Customer 17400,,2129.96,126,5,At Risk
+17402,Customer 17402,,2633.85,4,13,High Value
+17403,Customer 17403,,281.62,36,1,Regular
+17404,Customer 17404,,31906.82,4,15,High Value
+17405,Customer 17405,,1031.41,1,3,High Value
+17406,Customer 17406,,2200.42,333,3,At Risk
+17408,Customer 17408,,32.65,163,1,At Risk
+17409,Customer 17409,,771.85,184,2,At Risk
+17410,Customer 17410,,1214.72,16,5,High Value
+17411,Customer 17411,,778.94,12,3,Regular
+17412,Customer 17412,,1258.06,2,7,High Value
+17414,Customer 17414,,778.0,43,2,Regular
+17415,Customer 17415,,507.84,79,1,Regular
+17416,Customer 17416,,6893.42,29,7,High Value
+17418,Customer 17418,,463.46000000000004,42,2,Regular
+17419,Customer 17419,,4226.57,11,12,High Value
+17420,Customer 17420,,598.83,50,3,Regular
+17422,Customer 17422,,1979.37,16,6,High Value
+17423,Customer 17423,,698.41,46,2,Regular
+17425,Customer 17425,,759.17,19,2,Regular
+17426,Customer 17426,,5037.26,8,6,High Value
+17427,Customer 17427,,100.8,71,1,Regular
+17428,Customer 17428,,17256.85,0,28,High Value
+17429,Customer 17429,,524.9200000000001,128,3,At Risk
+17430,Customer 17430,,265.76,32,2,Regular
+17431,Customer 17431,,403.3,313,1,At Risk
+17432,Customer 17432,,365.76,18,2,Regular
+17433,Customer 17433,,303.15999999999997,88,1,Regular
+17434,Customer 17434,,2373.82,2,7,High Value
+17436,Customer 17436,,216.29999999999998,1,2,Regular
+17438,Customer 17438,,388.45000000000005,253,1,At Risk
+17440,Customer 17440,,186.42000000000002,156,3,At Risk
+17442,Customer 17442,,2248.56,36,6,Regular
+17443,Customer 17443,,534.24,219,1,At Risk
+17444,Customer 17444,,2940.04,147,3,At Risk
+17446,Customer 17446,,120.9,176,2,At Risk
+17447,Customer 17447,,541.53,40,2,Regular
+17449,Customer 17449,,2520.86,2,7,High Value
+17450,Customer 17450,,194550.79,8,46,High Value
+17451,Customer 17451,,1721.4,1,7,High Value
+17453,Customer 17453,,486.71999999999997,17,2,Regular
+17454,Customer 17454,,517.53,192,4,At Risk
+17455,Customer 17455,,131.7,203,1,At Risk
+17456,Customer 17456,,249.86,365,1,At Risk
+17457,Customer 17457,,1737.7,126,5,At Risk
+17458,Customer 17458,,316.5,15,1,Regular
+17459,Customer 17459,,657.3,43,2,Regular
+17460,Customer 17460,,622.4300000000001,94,6,At Risk
+17461,Customer 17461,,757.46,22,3,Regular
+17462,Customer 17462,,675.69,60,2,Regular
+17463,Customer 17463,,1896.41,16,5,High Value
+17464,Customer 17464,,289.96000000000004,158,1,At Risk
+17466,Customer 17466,,763.28,10,2,Regular
+17468,Customer 17468,,137.0,10,2,Regular
+17469,Customer 17469,,1870.97,16,5,High Value
+17470,Customer 17470,,1125.07,44,5,Regular
+17472,Customer 17472,,710.29,191,3,At Risk
+17475,Customer 17475,,194.37,79,1,Regular
+17480,Customer 17480,,511.82,77,1,Regular
+17481,Customer 17481,,1255.59,3,4,High Value
+17483,Customer 17483,,414.04,65,3,Regular
+17486,Customer 17486,,396.87,261,1,At Risk
+17489,Customer 17489,,376.64,58,2,Regular
+17490,Customer 17490,,2092.32,0,7,High Value
+17491,Customer 17491,,3558.87,1,10,High Value
+17492,Customer 17492,,374.57,248,1,At Risk
+17495,Customer 17495,,497.56,7,2,Regular
+17496,Customer 17496,,271.05,358,1,At Risk
+17498,Customer 17498,,272.22,75,1,Regular
+17499,Customer 17499,,622.88,289,1,At Risk
+17500,Customer 17500,,1138.0,17,3,High Value
+17501,Customer 17501,,288.6,220,2,At Risk
+17502,Customer 17502,,689.1,9,4,Regular
+17503,Customer 17503,,558.96,2,2,Regular
+17504,Customer 17504,,2997.0299999999997,206,9,At Risk
+17505,Customer 17505,,1145.84,161,2,At Risk
+17506,Customer 17506,,302.2,75,1,Regular
+17507,Customer 17507,,605.58,261,2,At Risk
+17508,Customer 17508,,387.31,280,1,At Risk
+17509,Customer 17509,,6115.14,57,8,Regular
+17510,Customer 17510,,308.48,24,1,Regular
+17511,Customer 17511,,91062.38,2,31,High Value
+17512,Customer 17512,,2924.9900000000002,28,10,High Value
+17513,Customer 17513,,513.2,72,1,Regular
+17514,Customer 17514,,208.65,128,1,At Risk
+17515,Customer 17515,,639.02,31,4,Regular
+17516,Customer 17516,,768.08,15,5,Regular
+17517,Customer 17517,,153.94,308,1,At Risk
+17519,Customer 17519,,1844.02,17,6,High Value
+17520,Customer 17520,,546.81,53,1,Regular
+17521,Customer 17521,,723.2099999999999,29,3,Regular
+17522,Customer 17522,,1070.71,1,5,High Value
+17523,Customer 17523,,652.74,11,4,Regular
+17524,Customer 17524,,145.0,361,1,At Risk
+17525,Customer 17525,,422.70000000000005,359,1,At Risk
+17526,Customer 17526,,1195.8999999999999,4,4,High Value
+17527,Customer 17527,,939.37,53,4,Regular
+17528,Customer 17528,,3628.5,1,8,High Value
+17530,Customer 17530,,2385.0,1,10,High Value
+17531,Customer 17531,,296.7,190,1,At Risk
+17534,Customer 17534,,223.36,53,1,Regular
+17535,Customer 17535,,164.4,280,1,At Risk
+17536,Customer 17536,,76.5,177,1,At Risk
+17537,Customer 17537,,897.62,29,2,Regular
+17538,Customer 17538,,98.42,25,1,Regular
+17540,Customer 17540,,578.9,24,2,Regular
+17542,Customer 17542,,170.75,269,1,At Risk
+17545,Customer 17545,,645.96,43,3,Regular
+17548,Customer 17548,,103.3,233,1,At Risk
+17549,Customer 17549,,148.86,23,2,Regular
+17550,Customer 17550,,267.16,197,3,At Risk
+17551,Customer 17551,,306.84,359,1,At Risk
+17552,Customer 17552,,930.41,60,4,Regular
+17553,Customer 17553,,1487.6,129,1,At Risk
+17554,Customer 17554,,1952.45,1,5,High Value
+17555,Customer 17555,,483.26,19,2,Regular
+17556,Customer 17556,,157.9,205,1,At Risk
+17557,Customer 17557,,541.46,14,3,Regular
+17560,Customer 17560,,854.95,94,4,At Risk
+17561,Customer 17561,,167.62,19,1,Regular
+17562,Customer 17562,,1122.38,14,7,High Value
+17564,Customer 17564,,454.01,24,3,Regular
+17566,Customer 17566,,901.21,8,2,Regular
+17567,Customer 17567,,4331.48,7,8,High Value
+17569,Customer 17569,,344.14,332,1,At Risk
+17571,Customer 17571,,1498.51,50,4,Regular
+17572,Customer 17572,,226.75000000000003,71,4,Regular
+17573,Customer 17573,,380.6,29,3,Regular
+17574,Customer 17574,,185.65,242,1,At Risk
+17576,Customer 17576,,3622.68,8,19,High Value
+17578,Customer 17578,,143.45999999999998,218,1,At Risk
+17579,Customer 17579,,448.90000000000003,4,3,Regular
+17580,Customer 17580,,215.72,252,3,At Risk
+17581,Customer 17581,,11045.04,0,25,High Value
+17582,Customer 17582,,175.27,236,1,At Risk
+17584,Customer 17584,,1242.3,7,2,High Value
+17585,Customer 17585,,1133.07,109,4,At Risk
+17588,Customer 17588,,1240.2,100,3,At Risk
+17589,Customer 17589,,2404.17,60,4,Regular
+17590,Customer 17590,,1479.22,2,3,High Value
+17591,Customer 17591,,2225.9700000000003,73,7,Regular
+17593,Customer 17593,,3927.34,3,5,High Value
+17594,Customer 17594,,993.18,85,2,Regular
+17595,Customer 17595,,388.79,12,2,Regular
+17596,Customer 17596,,2827.93,23,7,High Value
+17597,Customer 17597,,2044.3700000000001,213,1,At Risk
+17600,Customer 17600,,161.67000000000002,17,1,Regular
+17601,Customer 17601,,116.00999999999999,239,1,At Risk
+17602,Customer 17602,,5102.97,2,6,High Value
+17603,Customer 17603,,394.72,78,1,Regular
+17604,Customer 17604,,309.36,217,2,At Risk
+17608,Customer 17608,,193.42,33,2,Regular
+17609,Customer 17609,,1112.22,40,5,Regular
+17611,Customer 17611,,3984.22,7,15,High Value
+17612,Customer 17612,,2048.45,53,6,Regular
+17613,Customer 17613,,4559.150000000001,22,14,High Value
+17614,Customer 17614,,390.07,57,1,Regular
+17615,Customer 17615,,329.6,130,3,At Risk
+17616,Customer 17616,,571.1999999999999,173,3,At Risk
+17618,Customer 17618,,971.58,5,3,Regular
+17619,Customer 17619,,218.52,312,1,At Risk
+17620,Customer 17620,,81.44,59,1,Regular
+17621,Customer 17621,,1379.9,21,3,High Value
+17623,Customer 17623,,527.0500000000001,32,1,Regular
+17624,Customer 17624,,843.48,14,2,Regular
+17625,Customer 17625,,2047.0,18,4,High Value
+17628,Customer 17628,,75.75,81,1,Regular
+17629,Customer 17629,,1814.12,5,8,High Value
+17630,Customer 17630,,503.59999999999997,169,2,At Risk
+17631,Customer 17631,,528.33,1,3,Regular
+17633,Customer 17633,,1324.84,31,4,Regular
+17634,Customer 17634,,2361.9700000000003,36,9,Regular
+17636,Customer 17636,,285.56,19,1,Regular
+17637,Customer 17637,,547.0600000000001,31,2,Regular
+17639,Customer 17639,,108.5,276,1,At Risk
+17640,Customer 17640,,621.66,86,1,Regular
+17642,Customer 17642,,712.29,119,2,At Risk
+17643,Customer 17643,,101.55,373,1,At Risk
+17644,Customer 17644,,2895.64,1,11,High Value
+17646,Customer 17646,,1008.39,219,3,At Risk
+17647,Customer 17647,,133.06,65,1,Regular
+17648,Customer 17648,,1797.5,60,4,Regular
+17649,Customer 17649,,868.49,138,1,At Risk
+17650,Customer 17650,,166.08,21,1,Regular
+17651,Customer 17651,,3945.0,11,10,High Value
+17652,Customer 17652,,4867.72,25,12,High Value
+17653,Customer 17653,,1207.56,36,4,Regular
+17654,Customer 17654,,117.55,277,1,At Risk
+17655,Customer 17655,,2638.94,10,7,High Value
+17656,Customer 17656,,1674.69,73,5,Regular
+17658,Customer 17658,,595.42,25,2,Regular
+17659,Customer 17659,,2999.46,17,12,High Value
+17660,Customer 17660,,196.0,141,1,At Risk
+17663,Customer 17663,,1802.91,25,7,High Value
+17664,Customer 17664,,604.64,18,2,Regular
+17666,Customer 17666,,728.16,3,2,Regular
+17667,Customer 17667,,2055.51,66,5,Regular
+17668,Customer 17668,,347.75,1,2,Regular
+17669,Customer 17669,,3406.7200000000003,42,7,Regular
+17670,Customer 17670,,205.7,227,1,At Risk
+17671,Customer 17671,,1572.71,15,4,High Value
+17672,Customer 17672,,3178.17,50,2,Regular
+17673,Customer 17673,,1629.12,1,6,High Value
+17674,Customer 17674,,551.04,74,2,Regular
+17675,Customer 17675,,20374.28,1,31,High Value
+17676,Customer 17676,,1387.68,4,6,High Value
+17677,Customer 17677,,16363.23,1,30,High Value
+17678,Customer 17678,,298.11,263,1,At Risk
+17679,Customer 17679,,1992.1100000000001,52,2,Regular
+17680,Customer 17680,,184.4,23,1,Regular
+17682,Customer 17682,,2474.33,10,6,High Value
+17684,Customer 17684,,239.41,43,1,Regular
+17685,Customer 17685,,3191.53,16,7,High Value
+17686,Customer 17686,,5739.46,7,7,High Value
+17690,Customer 17690,,4757.95,30,15,High Value
+17691,Customer 17691,,290.40000000000003,358,2,At Risk
+17692,Customer 17692,,740.9399999999999,127,4,At Risk
+17693,Customer 17693,,200.47,137,1,At Risk
+17694,Customer 17694,,283.12,141,1,At Risk
+17695,Customer 17695,,765.34,131,2,At Risk
+17696,Customer 17696,,2285.71,38,8,Regular
+17697,Customer 17697,,338.95,236,1,At Risk
+17698,Customer 17698,,154.95,260,1,At Risk
+17700,Customer 17700,,2534.64,16,4,High Value
+17701,Customer 17701,,417.95,252,1,At Risk
+17702,Customer 17702,,1824.37,30,4,High Value
+17703,Customer 17703,,798.74,35,3,Regular
+17704,Customer 17704,,885.19,168,2,At Risk
+17705,Customer 17705,,1823.52,3,9,High Value
+17706,Customer 17706,,10504.49,4,17,High Value
+17707,Customer 17707,,152.4,185,2,At Risk
+17708,Customer 17708,,267.08,187,2,At Risk
+17709,Customer 17709,,137.45,169,1,At Risk
+17711,Customer 17711,,385.1,10,2,Regular
+17712,Customer 17712,,522.91,44,1,Regular
+17714,Customer 17714,,153.0,320,1,At Risk
+17715,Customer 17715,,326.4,200,1,At Risk
+17716,Customer 17716,,5655.99,22,11,High Value
+17718,Customer 17718,,139.35,232,1,At Risk
+17719,Customer 17719,,5396.04,37,15,Regular
+17720,Customer 17720,,1195.94,26,4,High Value
+17722,Customer 17722,,2424.04,96,4,At Risk
+17723,Customer 17723,,3276.4000000000005,127,6,At Risk
+17724,Customer 17724,,1033.0,71,3,Regular
+17725,Customer 17725,,3439.08,16,11,High Value
+17727,Customer 17727,,1060.25,15,1,High Value
+17728,Customer 17728,,2876.01,3,3,High Value
+17730,Customer 17730,,5298.4800000000005,3,13,High Value
+17731,Customer 17731,,1240.11,79,4,Regular
+17732,Customer 17732,,303.97,372,1,At Risk
+17733,Customer 17733,,692.19,38,2,Regular
+17734,Customer 17734,,700.63,53,3,Regular
+17735,Customer 17735,,13110.02,2,19,High Value
+17736,Customer 17736,,377.44,9,3,Regular
+17737,Customer 17737,,168.24,9,2,Regular
+17738,Customer 17738,,1879.05,19,4,High Value
+17739,Customer 17739,,2791.35,11,7,High Value
+17742,Customer 17742,,355.11,113,2,At Risk
+17744,Customer 17744,,2322.4,3,6,High Value
+17746,Customer 17746,,110.25,240,1,At Risk
+17747,Customer 17747,,71.4,112,1,At Risk
+17749,Customer 17749,,674.52,178,2,At Risk
+17750,Customer 17750,,1797.57,5,9,High Value
+17752,Customer 17752,,80.64,359,1,At Risk
+17754,Customer 17754,,1772.26,0,5,High Value
+17757,Customer 17757,,5605.29,1,30,High Value
+17758,Customer 17758,,3456.7000000000003,19,8,High Value
+17759,Customer 17759,,834.99,17,3,Regular
+17760,Customer 17760,,287.59,21,2,Regular
+17761,Customer 17761,,712.78,32,1,Regular
+17763,Customer 17763,,15.0,263,1,At Risk
+17764,Customer 17764,,818.8199999999999,50,2,Regular
+17765,Customer 17765,,371.88,158,3,At Risk
+17767,Customer 17767,,271.2,15,1,Regular
+17768,Customer 17768,,2273.1800000000003,8,3,High Value
+17769,Customer 17769,,3997.98,12,10,High Value
+17770,Customer 17770,,1143.27,198,5,At Risk
+17771,Customer 17771,,245.81,56,2,Regular
+17772,Customer 17772,,182.77,10,2,Regular
+17774,Customer 17774,,1225.41,96,4,At Risk
+17775,Customer 17775,,56.4,254,1,At Risk
+17777,Customer 17777,,665.86,24,3,Regular
+17779,Customer 17779,,658.57,21,3,Regular
+17781,Customer 17781,,188.02,159,2,At Risk
+17783,Customer 17783,,283.47,72,2,Regular
+17785,Customer 17785,,131.94,53,1,Regular
+17786,Customer 17786,,278.74,85,2,Regular
+17787,Customer 17787,,1865.19,152,4,At Risk
+17788,Customer 17788,,1117.9,73,2,Regular
+17789,Customer 17789,,225.9,281,1,At Risk
+17790,Customer 17790,,1965.55,26,14,High Value
+17791,Customer 17791,,106.1,29,1,Regular
+17793,Customer 17793,,323.04,25,1,Regular
+17795,Customer 17795,,350.39,179,2,At Risk
+17796,Customer 17796,,697.9,40,4,Regular
+17797,Customer 17797,,780.43,22,3,Regular
+17799,Customer 17799,,3055.93,22,10,High Value
+17800,Customer 17800,,1199.01,37,9,Regular
+17802,Customer 17802,,1285.04,82,3,Regular
+17805,Customer 17805,,512.31,73,1,Regular
+17806,Customer 17806,,546.04,11,1,Regular
+17809,Customer 17809,,5411.91,16,12,High Value
+17811,Customer 17811,,7837.7300000000005,4,39,High Value
+17812,Customer 17812,,732.16,12,4,Regular
+17813,Customer 17813,,1770.8799999999999,14,5,High Value
+17816,Customer 17816,,36.56,36,4,Regular
+17817,Customer 17817,,387.68,4,3,Regular
+17819,Customer 17819,,3704.87,71,7,Regular
+17824,Customer 17824,,298.4,51,1,Regular
+17827,Customer 17827,,1995.46,5,5,High Value
+17828,Customer 17828,,1820.09,22,4,High Value
+17829,Customer 17829,,889.24,298,1,At Risk
+17830,Customer 17830,,398.7,1,3,Regular
+17831,Customer 17831,,35.400000000000006,33,1,Regular
+17832,Customer 17832,,155.37,49,1,Regular
+17835,Customer 17835,,350.64,2,3,Regular
+17836,Customer 17836,,110.21000000000001,47,1,Regular
+17837,Customer 17837,,1593.38,42,8,Regular
+17838,Customer 17838,,2779.3,26,5,High Value
+17839,Customer 17839,,338.8,42,1,Regular
+17841,Customer 17841,,40991.57,1,124,High Value
+17843,Customer 17843,,205.48,303,1,At Risk
+17844,Customer 17844,,51.559999999999995,106,1,At Risk
+17846,Customer 17846,,2033.1,85,1,Regular
+17848,Customer 17848,,901.1999999999999,81,9,Regular
+17849,Customer 17849,,605.8000000000001,218,4,At Risk
+17850,Customer 17850,,5391.21,372,34,At Risk
+17852,Customer 17852,,114.34,11,2,Regular
+17854,Customer 17854,,311.26,185,2,At Risk
+17855,Customer 17855,,208.97,372,1,At Risk
+17856,Customer 17856,,1418.03,1,4,High Value
+17857,Customer 17857,,26879.04,4,23,High Value
+17858,Customer 17858,,5155.66,5,12,High Value
+17859,Customer 17859,,148.21,304,1,At Risk
+17860,Customer 17860,,252.8,368,1,At Risk
+17861,Customer 17861,,2100.8,3,8,High Value
+17862,Customer 17862,,330.9,323,1,At Risk
+17863,Customer 17863,,3160.0,59,6,Regular
+17864,Customer 17864,,597.5,12,3,Regular
+17865,Customer 17865,,10526.32,30,20,High Value
+17866,Customer 17866,,329.65,142,1,At Risk
+17867,Customer 17867,,1197.1000000000001,30,6,High Value
+17869,Customer 17869,,428.18,107,5,At Risk
+17870,Customer 17870,,1894.35,2,12,High Value
+17871,Customer 17871,,155.9,204,1,At Risk
+17873,Customer 17873,,1859.16,80,5,Regular
+17874,Customer 17874,,683.46,185,6,At Risk
+17877,Customer 17877,,237.61,170,1,At Risk
+17878,Customer 17878,,379.45,43,1,Regular
+17879,Customer 17879,,178.51999999999998,173,1,At Risk
+17880,Customer 17880,,458.92,364,1,At Risk
+17881,Customer 17881,,133.35000000000002,304,1,At Risk
+17883,Customer 17883,,671.77,3,4,Regular
+17884,Customer 17884,,717.45,3,4,Regular
+17885,Customer 17885,,190.19,12,1,Regular
+17886,Customer 17886,,899.61,31,3,Regular
+17887,Customer 17887,,111.35,129,1,At Risk
+17888,Customer 17888,,726.05,21,8,Regular
+17889,Customer 17889,,203.87,212,2,At Risk
+17890,Customer 17890,,602.09,322,2,At Risk
+17891,Customer 17891,,203.85999999999999,162,1,At Risk
+17892,Customer 17892,,244.1,56,3,Regular
+17893,Customer 17893,,112.25,225,1,At Risk
+17894,Customer 17894,,1119.81,71,8,Regular
+17895,Customer 17895,,98.0,44,1,Regular
+17896,Customer 17896,,256.32,23,1,Regular
+17897,Customer 17897,,566.6,172,3,At Risk
+17898,Customer 17898,,152.06,85,2,Regular
+17899,Customer 17899,,155.8,159,1,At Risk
+17900,Customer 17900,,112.19999999999999,190,2,At Risk
+17901,Customer 17901,,110.38,29,1,Regular
+17904,Customer 17904,,191.67,21,1,Regular
+17905,Customer 17905,,800.24,71,4,Regular
+17906,Customer 17906,,72.9,247,1,At Risk
+17908,Customer 17908,,243.28,373,1,At Risk
+17911,Customer 17911,,366.23,9,1,Regular
+17912,Customer 17912,,311.01,310,5,At Risk
+17913,Customer 17913,,411.6,58,2,Regular
+17914,Customer 17914,,336.43,3,1,Regular
+17917,Customer 17917,,341.28,45,3,Regular
+17919,Customer 17919,,1304.04,88,1,Regular
+17920,Customer 17920,,4204.1,4,17,High Value
+17921,Customer 17921,,826.52,64,4,Regular
+17923,Customer 17923,,207.50000000000003,282,1,At Risk
+17924,Customer 17924,,2962.5,11,7,High Value
+17925,Customer 17925,,244.08,372,1,At Risk
+17926,Customer 17926,,397.29,133,2,At Risk
+17928,Customer 17928,,212.54,45,2,Regular
+17929,Customer 17929,,843.0,11,4,Regular
+17930,Customer 17930,,1740.48,35,5,Regular
+17931,Customer 17931,,408.36,134,2,At Risk
+17932,Customer 17932,,1331.57,29,3,High Value
+17934,Customer 17934,,704.25,51,2,Regular
+17935,Customer 17935,,145.79,138,2,At Risk
+17936,Customer 17936,,389.84,5,1,Regular
+17937,Customer 17937,,4301.22,8,7,High Value
+17939,Customer 17939,,99.14,159,1,At Risk
+17940,Customer 17940,,4106.4400000000005,49,10,Regular
+17941,Customer 17941,,304.56,130,1,At Risk
+17942,Customer 17942,,77.50000000000001,7,1,Regular
+17946,Customer 17946,,149.57999999999998,233,2,At Risk
+17947,Customer 17947,,176.68,37,1,Regular
+17948,Customer 17948,,358.56000000000006,147,1,At Risk
+17949,Customer 17949,,58510.48,1,45,High Value
+17950,Customer 17950,,482.2,72,3,Regular
+17951,Customer 17951,,1008.5400000000001,39,3,Regular
+17954,Customer 17954,,2332.72,5,12,High Value
+17955,Customer 17955,,557.3,198,4,At Risk
+17956,Customer 17956,,12.75,249,1,At Risk
+17957,Customer 17957,,111.68,66,1,Regular
+17958,Customer 17958,,508.4599999999999,116,1,At Risk
+17960,Customer 17960,,73.78,171,1,At Risk
+17961,Customer 17961,,1296.44,21,39,High Value
+17962,Customer 17962,,102.83,142,1,At Risk
+17964,Customer 17964,,471.7,31,2,Regular
+17965,Customer 17965,,2622.57,37,14,Regular
+17966,Customer 17966,,1098.43,37,5,Regular
+17967,Customer 17967,,123.07,371,1,At Risk
+17968,Customer 17968,,277.35,373,1,At Risk
+17969,Customer 17969,,228.2,166,2,At Risk
+17970,Customer 17970,,582.59,211,1,At Risk
+17972,Customer 17972,,136.04,241,1,At Risk
+17973,Customer 17973,,337.04,51,1,Regular
+17974,Customer 17974,,740.79,24,3,Regular
+17975,Customer 17975,,4488.81,15,13,High Value
+17976,Customer 17976,,353.19,372,1,At Risk
+17977,Customer 17977,,288.14,29,1,Regular
+17978,Customer 17978,,300.91999999999996,365,1,At Risk
+17979,Customer 17979,,757.71,35,4,Regular
+17980,Customer 17980,,811.45,165,3,At Risk
+17984,Customer 17984,,152.68,145,1,At Risk
+17985,Customer 17985,,634.95,22,1,Regular
+17986,Customer 17986,,20.8,56,1,Regular
+17987,Customer 17987,,198.57,185,1,At Risk
+17988,Customer 17988,,201.12,11,7,Regular
+17990,Customer 17990,,630.84,236,3,At Risk
+17991,Customer 17991,,93.35,225,2,At Risk
+17994,Customer 17994,,678.49,121,4,At Risk
+17995,Customer 17995,,76.1,281,1,At Risk
+17997,Customer 17997,,1970.6699999999998,74,8,Regular
+17999,Customer 17999,,382.06,37,2,Regular
+18001,Customer 18001,,417.23,12,2,Regular
+18004,Customer 18004,,169.47,362,1,At Risk
+18005,Customer 18005,,249.72,3,2,Regular
+18006,Customer 18006,,444.68,23,1,Regular
+18008,Customer 18008,,2116.19,70,9,Regular
+18009,Customer 18009,,257.34,235,1,At Risk
+18010,Customer 18010,,174.8,256,1,At Risk
+18011,Customer 18011,,102.78999999999999,373,1,At Risk
+18013,Customer 18013,,187.29,155,2,At Risk
+18014,Customer 18014,,166.42,28,1,Regular
+18015,Customer 18015,,120.03,4,1,Regular
+18016,Customer 18016,,1483.56,32,5,Regular
+18017,Customer 18017,,523.0,81,3,Regular
+18018,Customer 18018,,122.14,108,2,At Risk
+18019,Customer 18019,,38.45,51,1,Regular
+18022,Customer 18022,,668.11,35,1,Regular
+18024,Customer 18024,,389.78,152,2,At Risk
+18027,Customer 18027,,115.31,98,1,At Risk
+18030,Customer 18030,,230.64999999999998,4,2,Regular
+18032,Customer 18032,,73.5,334,1,At Risk
+18033,Customer 18033,,97.97,65,1,Regular
+18034,Customer 18034,,422.88,21,2,Regular
+18035,Customer 18035,,730.4,35,3,Regular
+18036,Customer 18036,,405.62,32,3,Regular
+18037,Customer 18037,,70.02,154,6,At Risk
+18040,Customer 18040,,357.20000000000005,19,2,Regular
+18041,Customer 18041,,4183.39,11,21,High Value
+18042,Customer 18042,,165.04999999999998,53,1,Regular
+18043,Customer 18043,,559.51,24,3,Regular
+18044,Customer 18044,,2088.6,4,10,High Value
+18045,Customer 18045,,189.4,45,1,Regular
+18048,Customer 18048,,172.29000000000002,203,2,At Risk
+18050,Customer 18050,,74.4,359,1,At Risk
+18053,Customer 18053,,300.02,70,1,Regular
+18055,Customer 18055,,6784.1900000000005,7,10,High Value
+18056,Customer 18056,,363.65,288,1,At Risk
+18058,Customer 18058,,170.16,9,1,Regular
+18059,Customer 18059,,306.46,23,3,Regular
+18061,Customer 18061,,2119.41,21,10,High Value
+18062,Customer 18062,,720.52,173,3,At Risk
+18064,Customer 18064,,814.0,133,2,At Risk
+18065,Customer 18065,,2392.83,5,14,High Value
+18066,Customer 18066,,318.0,75,1,Regular
+18067,Customer 18067,,396.33,40,1,Regular
+18068,Customer 18068,,101.69999999999999,289,1,At Risk
+18069,Customer 18069,,2036.67,26,5,High Value
+18071,Customer 18071,,453.0,257,2,At Risk
+18072,Customer 18072,,247.44,185,1,At Risk
+18073,Customer 18073,,3877.5200000000004,114,12,At Risk
+18074,Customer 18074,,489.6,373,1,At Risk
+18075,Customer 18075,,2611.75,23,10,High Value
+18077,Customer 18077,,2633.0099999999998,8,11,High Value
+18078,Customer 18078,,336.13,217,2,At Risk
+18079,Customer 18079,,3651.97,45,4,Regular
+18080,Customer 18080,,1231.5,18,2,High Value
+18081,Customer 18081,,343.45,36,3,Regular
+18082,Customer 18082,,703.37,25,1,Regular
+18084,Customer 18084,,90.47999999999999,16,1,Regular
+18085,Customer 18085,,689.95,330,2,At Risk
+18086,Customer 18086,,101.34,274,1,At Risk
+18087,Customer 18087,,4055.7199999999993,98,2,At Risk
+18088,Customer 18088,,167.67000000000002,61,1,Regular
+18092,Customer 18092,,9068.26,2,11,High Value
+18093,Customer 18093,,2106.52,93,4,At Risk
+18094,Customer 18094,,3017.3,81,7,Regular
+18095,Customer 18095,,580.0500000000001,312,2,At Risk
+18096,Customer 18096,,911.15,11,3,Regular
+18097,Customer 18097,,2697.8,7,6,High Value
+18099,Customer 18099,,168.31,127,1,At Risk
+18101,Customer 18101,,223.65,11,2,Regular
+18102,Customer 18102,,259657.3,0,60,High Value
+18104,Customer 18104,,754.64,37,1,Regular
+18105,Customer 18105,,113.48000000000002,37,1,Regular
+18106,Customer 18106,,430.7,329,1,At Risk
+18108,Customer 18108,,271.0,254,1,At Risk
+18109,Customer 18109,,8052.97,1,26,High Value
+18110,Customer 18110,,236.3,19,1,Regular
+18112,Customer 18112,,352.69,12,2,Regular
+18113,Customer 18113,,76.32000000000001,368,1,At Risk
+18114,Customer 18114,,220.1,290,1,At Risk
+18116,Customer 18116,,1418.03,67,8,Regular
+18117,Customer 18117,,320.72,25,1,Regular
+18118,Customer 18118,,5653.82,10,26,High Value
+18119,Customer 18119,,181.12,367,1,At Risk
+18120,Customer 18120,,111.15,214,1,At Risk
+18121,Customer 18121,,673.1,149,2,At Risk
+18122,Customer 18122,,1826.21,8,6,High Value
+18123,Customer 18123,,589.4399999999999,24,2,Regular
+18125,Customer 18125,,1142.99,29,4,High Value
+18126,Customer 18126,,206.82999999999998,60,1,Regular
+18127,Customer 18127,,348.73,19,3,Regular
+18129,Customer 18129,,112.55000000000001,243,1,At Risk
+18130,Customer 18130,,1059.39,15,3,High Value
+18133,Customer 18133,,931.4999999999999,212,1,At Risk
+18135,Customer 18135,,681.9100000000001,29,5,Regular
+18136,Customer 18136,,784.33,63,3,Regular
+18138,Customer 18138,,152.65,295,1,At Risk
+18139,Customer 18139,,8438.34,17,6,High Value
+18142,Customer 18142,,1019.52,157,2,At Risk
+18143,Customer 18143,,1000.16,116,2,At Risk
+18144,Customer 18144,,2888.75,7,12,High Value
+18145,Customer 18145,,2861.55,12,4,High Value
+18146,Customer 18146,,160.35000000000002,140,2,At Risk
+18147,Customer 18147,,179.33999999999997,45,2,Regular
+18149,Customer 18149,,612.0799999999999,50,3,Regular
+18150,Customer 18150,,566.58,32,3,Regular
+18151,Customer 18151,,653.35,134,2,At Risk
+18154,Customer 18154,,399.19,3,2,Regular
+18155,Customer 18155,,371.62,75,3,Regular
+18156,Customer 18156,,734.94,12,2,Regular
+18158,Customer 18158,,453.4,9,2,Regular
+18159,Customer 18159,,530.15,301,1,At Risk
+18160,Customer 18160,,638.0600000000001,57,2,Regular
+18161,Customer 18161,,1618.69,15,5,High Value
+18164,Customer 18164,,399.65000000000003,37,1,Regular
+18165,Customer 18165,,302.46000000000004,177,1,At Risk
+18167,Customer 18167,,1384.8600000000001,23,3,High Value
+18168,Customer 18168,,1169.94,176,6,At Risk
+18169,Customer 18169,,202.65,60,1,Regular
+18170,Customer 18170,,980.31,33,3,Regular
+18171,Customer 18171,,1231.31,58,5,Regular
+18172,Customer 18172,,7561.68,14,20,High Value
+18173,Customer 18173,,2106.84,86,4,Regular
+18174,Customer 18174,,104.0,7,1,Regular
+18176,Customer 18176,,476.35,358,1,At Risk
+18177,Customer 18177,,1341.42,31,6,Regular
+18178,Customer 18178,,1590.81,128,4,At Risk
+18179,Customer 18179,,1793.17,9,6,High Value
+18180,Customer 18180,,1843.75,4,6,High Value
+18181,Customer 18181,,382.8,24,1,Regular
+18183,Customer 18183,,632.07,227,2,At Risk
+18184,Customer 18184,,49.8,15,1,Regular
+18185,Customer 18185,,304.25,249,1,At Risk
+18188,Customer 18188,,2001.04,15,3,High Value
+18189,Customer 18189,,1090.24,77,2,Regular
+18190,Customer 18190,,284.46000000000004,192,2,At Risk
+18191,Customer 18191,,207.79999999999998,261,1,At Risk
+18192,Customer 18192,,957.97,71,1,Regular
+18193,Customer 18193,,243.76,165,1,At Risk
+18194,Customer 18194,,973.8399999999999,82,1,Regular
+18196,Customer 18196,,689.13,95,2,At Risk
+18198,Customer 18198,,5425.56,4,17,High Value
+18200,Customer 18200,,163.8,106,1,At Risk
+18202,Customer 18202,,1396.99,199,3,At Risk
+18203,Customer 18203,,160.42000000000002,157,1,At Risk
+18204,Customer 18204,,1993.7,71,3,Regular
+18205,Customer 18205,,517.36,36,2,Regular
+18209,Customer 18209,,139.10000000000002,28,1,Regular
+18210,Customer 18210,,2621.38,1,6,High Value
+18211,Customer 18211,,600.07,25,5,Regular
+18212,Customer 18212,,248.42,326,1,At Risk
+18213,Customer 18213,,232.48000000000002,236,1,At Risk
+18215,Customer 18215,,299.34000000000003,89,1,Regular
+18216,Customer 18216,,481.75,31,1,Regular
+18217,Customer 18217,,621.75,29,2,Regular
+18218,Customer 18218,,662.08,211,2,At Risk
+18219,Customer 18219,,2069.77,2,10,High Value
+18220,Customer 18220,,305.28000000000003,226,1,At Risk
+18221,Customer 18221,,1041.61,22,5,High Value
+18222,Customer 18222,,443.0,92,1,At Risk
+18223,Customer 18223,,6484.54,4,14,High Value
+18224,Customer 18224,,158.95000000000002,263,1,At Risk
+18225,Customer 18225,,5509.12,3,12,High Value
+18226,Customer 18226,,5228.05,44,11,Regular
+18227,Customer 18227,,93.75,217,1,At Risk
+18228,Customer 18228,,779.9,56,2,Regular
+18229,Customer 18229,,7276.900000000001,11,20,High Value
+18230,Customer 18230,,2810.2000000000003,9,7,High Value
+18231,Customer 18231,,2083.27,192,5,At Risk
+18232,Customer 18232,,592.97,81,4,Regular
+18233,Customer 18233,,440.0,325,1,At Risk
+18235,Customer 18235,,1796.48,71,3,Regular
+18236,Customer 18236,,882.24,29,6,Regular
+18237,Customer 18237,,987.1,2,5,Regular
+18239,Customer 18239,,1561.6100000000001,218,5,At Risk
+18240,Customer 18240,,422.58,46,1,Regular
+18241,Customer 18241,,2073.09,9,17,High Value
+18242,Customer 18242,,2232.4900000000002,72,4,Regular
+18245,Customer 18245,,2567.06,7,7,High Value
+18246,Customer 18246,,596.1,23,2,Regular
+18248,Customer 18248,,804.02,122,2,At Risk
+18249,Customer 18249,,95.34,17,1,Regular
+18250,Customer 18250,,349.27,310,1,At Risk
+18251,Customer 18251,,4314.72,87,1,Regular
+18252,Customer 18252,,526.67,50,2,Regular
+18255,Customer 18255,,103.3,89,1,Regular
+18257,Customer 18257,,2337.63,39,8,Regular
+18259,Customer 18259,,2338.6000000000004,24,3,High Value
+18260,Customer 18260,,2643.2000000000003,172,6,At Risk
+18261,Customer 18261,,324.24,43,2,Regular
+18262,Customer 18262,,149.48,140,1,At Risk
+18263,Customer 18263,,1213.1599999999999,25,3,High Value
+18265,Customer 18265,,801.51,72,2,Regular
+18268,Customer 18268,,25.5,134,1,At Risk
+18269,Customer 18269,,168.6,366,1,At Risk
+18270,Customer 18270,,283.15,38,2,Regular
+18272,Customer 18272,,3078.58,2,6,High Value
+18273,Customer 18273,,204.0,2,3,Regular
+18274,Customer 18274,,175.92,30,1,Regular
+18276,Customer 18276,,335.86,43,1,Regular
+18277,Customer 18277,,110.38,58,1,Regular
+18278,Customer 18278,,173.9,73,1,Regular
+18280,Customer 18280,,180.60000000000002,277,1,At Risk
+18281,Customer 18281,,80.82,180,1,At Risk
+18282,Customer 18282,,178.05,7,2,Regular
+18283,Customer 18283,,2094.88,3,16,High Value
+18287,Customer 18287,,1837.28,42,3,Regular
